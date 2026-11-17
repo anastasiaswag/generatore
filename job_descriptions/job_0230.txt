@@ -1,0 +1,7 @@
+ID: 230
+Area: Informatica
+Ruolo: Firmware/Embedded Software Engineer
+Azienda: Capgemini
+Località: Reggio Emilia
+
+Firmware/Embedded Software Engineer - Capgemini (Reggio Emilia, In sede). Contratto: Tempo indeterminato; profilo: Middle. Attività principali: integrazione di sistemi IT, database e servizi cloud; progettazione di architetture backend e API per piattaforme digitali. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di AI/ML, Computer Vision, PyTorch, buona capacità di lavoro in team e MLOps. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

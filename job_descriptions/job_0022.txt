@@ -1,0 +1,7 @@
+ID: 22
+Area: Informatica
+Ruolo: Backend Developer
+Azienda: Lutech
+Località: Brescia
+
+Backend Developer - Lutech (Brescia, Ibrido). Contratto: Tempo indeterminato; profilo: Junior. Attività principali: integrazione di sistemi IT, database e servizi cloud; gestione infrastruttura, deployment e automazione CI/CD. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di PLC/SCADA, OPC-UA, Industrial IoT, buona capacità di lavoro in team e SQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

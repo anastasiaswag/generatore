@@ -1,0 +1,7 @@
+ID: 355
+Area: Elettronica
+Ruolo: System RF Engineer
+Azienda: TempJob Italia
+Località: Frascati
+
+System RF Engineer - TempJob Italia (Frascati, In sede). Contratto: Tempo indeterminato; profilo: Neolaureato. Attività principali: progettazione e validazione di schede elettroniche e apparati embedded; sviluppo firmware per microcontrollori e sistemi real-time. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di C embedded, STM32, RTOS, buona capacità di lavoro in team e debugging. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

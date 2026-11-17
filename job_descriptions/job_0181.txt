@@ -1,0 +1,7 @@
+ID: 181
+Area: Informatica
+Ruolo: Sistemista Networking
+Azienda: Banca Ifis
+Località: Emilia Romagna
+
+Sistemista Networking - Banca Ifis (Emilia Romagna, In sede). Contratto: Tempo indeterminato; profilo: Senior. Attività principali: testing, quality assurance e documentazione tecnica; progettazione di architetture backend e API per piattaforme digitali. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Cybersecurity, SIEM, Network Security, buona capacità di lavoro in team e ISO 27001. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

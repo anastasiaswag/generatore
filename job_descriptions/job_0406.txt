@@ -1,0 +1,7 @@
+ID: 406
+Area: Elettronica
+Ruolo: Junior Controls Engineer
+Azienda: Saipem
+Località: Bacoli
+
+Junior Controls Engineer - Saipem (Bacoli, In sede). Contratto: Consulenza; profilo: Neolaureato. Attività principali: sviluppo firmware per microcontrollori e sistemi real-time; test di laboratorio, debugging, misure e qualifiche EMC. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di railway/automotive, CAN bus, LIN, buona capacità di lavoro in team e diagnostica. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

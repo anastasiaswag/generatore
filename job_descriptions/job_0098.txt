@@ -1,0 +1,7 @@
+ID: 98
+Area: Informatica
+Ruolo: PLC/SCADA Software Engineer
+Azienda: Alten Italia
+Località: Trieste
+
+PLC/SCADA Software Engineer - Alten Italia (Trieste, In sede). Contratto: Full time; profilo: Stage/Tirocinio. Attività principali: gestione infrastruttura, deployment e automazione CI/CD; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di React, Node.js, TypeScript, buona capacità di lavoro in team e PostgreSQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

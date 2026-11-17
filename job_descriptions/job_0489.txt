@@ -1,0 +1,7 @@
+ID: 489
+Area: Elettronica
+Ruolo: Embedded Hardware Engineer
+Azienda: Move Silicon
+Località: Roma
+
+Embedded Hardware Engineer - Move Silicon (Roma, In sede). Contratto: Tempo indeterminato; profilo: Junior. Attività principali: test di laboratorio, debugging, misure e qualifiche EMC; supporto a progetti automotive, railway, industrial o space/defence. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di power electronics, inverter, convertitori, buona capacità di lavoro in team e EMC. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 180
+Area: Informatica
+Ruolo: Firmware/Embedded Software Engineer
+Azienda: Banca Ifis
+Località: Collegno
+
+Firmware/Embedded Software Engineer - Banca Ifis (Collegno, Ibrido). Contratto: Tempo indeterminato; profilo: Senior. Attività principali: sviluppo e manutenzione di applicazioni software in ambiente enterprise; integrazione di sistemi IT, database e servizi cloud. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Java, Spring Boot, REST API, buona capacità di lavoro in team e Microservizi. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

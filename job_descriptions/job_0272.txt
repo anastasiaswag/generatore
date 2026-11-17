@@ -1,0 +1,7 @@
+ID: 272
+Area: Informatica
+Ruolo: Software Engineer
+Azienda: Gruppo Maggioli
+Località: Rovereto
+
+Software Engineer - Gruppo Maggioli (Rovereto, In sede). Contratto: Tempo indeterminato; profilo: Middle. Attività principali: sviluppo firmware/embedded software per dispositivi connessi; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di C/C++, Linux Embedded, Git, buona capacità di lavoro in team e Yocto. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

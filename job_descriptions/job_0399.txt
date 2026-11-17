@@ -1,0 +1,7 @@
+ID: 399
+Area: Elettronica
+Ruolo: Electronic Project Specialist
+Azienda: Alten Italia
+Località: Monopoli
+
+Electronic Project Specialist - Alten Italia (Monopoli, Da remoto). Contratto: Apprendistato; profilo: Stage/Tirocinio. Attività principali: test di laboratorio, debugging, misure e qualifiche EMC; integrazione sensori, bus di comunicazione e sistemi di controllo. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di sensori, I2C/SPI/UART, microcontrollori, buona capacità di lavoro in team e firmware. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

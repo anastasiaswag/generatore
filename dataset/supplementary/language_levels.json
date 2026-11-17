@@ -1,0 +1,1277 @@
+{
+  "cefr_levels": [
+    {
+      "code": "native",
+      "label": "Native / Mother tongue",
+      "description": "Language acquired as a first language from birth. No certification required or applicable.",
+      "weight": 1.0
+    },
+    {
+      "code": "A1",
+      "label": "Beginner",
+      "description": "Can understand and use familiar everyday expressions and very basic phrases.",
+      "weight": 0.1
+    },
+    {
+      "code": "A2",
+      "label": "Elementary",
+      "description": "Can understand sentences and frequently used expressions related to areas of immediate relevance.",
+      "weight": 0.25
+    },
+    {
+      "code": "B1",
+      "label": "Intermediate",
+      "description": "Can deal with most situations likely to arise while travelling in an area where the language is spoken.",
+      "weight": 0.45
+    },
+    {
+      "code": "B2",
+      "label": "Upper Intermediate",
+      "description": "Can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers possible.",
+      "weight": 0.65
+    },
+    {
+      "code": "C1",
+      "label": "Advanced",
+      "description": "Can express ideas fluently and spontaneously without much obvious searching for expressions.",
+      "weight": 0.85
+    },
+    {
+      "code": "C2",
+      "label": "Mastery / Proficiency",
+      "description": "Can understand with ease virtually everything heard or read.",
+      "weight": 1.0
+    }
+  ],
+  "languages": [
+    {
+      "code": "en",
+      "label": "English",
+      "certifications": {
+        "B1": [
+          "PET (Cambridge B1)",
+          "TOEIC 550+"
+        ],
+        "B2": [
+          "FCE (Cambridge B2)",
+          "TOEIC 785+",
+          "TOEFL iBT 72+",
+          "IELTS 5.5+"
+        ],
+        "C1": [
+          "CAE (Cambridge C1)",
+          "TOEFL iBT 95+",
+          "IELTS 7.0+",
+          "TOEIC 945+"
+        ],
+        "C2": [
+          "CPE (Cambridge C2)",
+          "TOEFL iBT 110+",
+          "IELTS 8.5+"
+        ]
+      }
+    },
+    {
+      "code": "fr",
+      "label": "French",
+      "certifications": {
+        "A1": [
+          "DELF A1"
+        ],
+        "A2": [
+          "DELF A2"
+        ],
+        "B1": [
+          "DELF B1",
+          "TCF niveau B1"
+        ],
+        "B2": [
+          "DELF B2",
+          "TCF niveau B2"
+        ],
+        "C1": [
+          "DALF C1",
+          "TCF niveau C1"
+        ],
+        "C2": [
+          "DALF C2",
+          "TCF niveau C2"
+        ]
+      }
+    },
+    {
+      "code": "de",
+      "label": "German",
+      "certifications": {
+        "A1": [
+          "Goethe A1: Start Deutsch 1"
+        ],
+        "A2": [
+          "Goethe A2: Start Deutsch 2"
+        ],
+        "B1": [
+          "Goethe B1: Zertifikat Deutsch"
+        ],
+        "B2": [
+          "Goethe B2"
+        ],
+        "C1": [
+          "Goethe C1: Großes Deutsches Sprachdiplom"
+        ],
+        "C2": [
+          "Goethe C2: Großes Deutsches Sprachdiplom"
+        ]
+      }
+    },
+    {
+      "code": "es",
+      "label": "Spanish",
+      "certifications": {
+        "A1": [
+          "DELE A1"
+        ],
+        "A2": [
+          "DELE A2"
+        ],
+        "B1": [
+          "DELE B1",
+          "SIELE nivel B1"
+        ],
+        "B2": [
+          "DELE B2",
+          "SIELE nivel B2"
+        ],
+        "C1": [
+          "DELE C1"
+        ],
+        "C2": [
+          "DELE C2"
+        ]
+      }
+    },
+    {
+      "code": "it",
+      "label": "Italian",
+      "certifications": {
+        "A1": [
+          "CILS A1",
+          "CELI 1"
+        ],
+        "A2": [
+          "CILS A2",
+          "CELI 2"
+        ],
+        "B1": [
+          "CILS B1",
+          "CELI 3",
+          "PLIDA B1"
+        ],
+        "B2": [
+          "CILS B2",
+          "CELI 4",
+          "PLIDA B2"
+        ],
+        "C1": [
+          "CILS C1",
+          "CELI 5",
+          "PLIDA C1"
+        ],
+        "C2": [
+          "CILS C2",
+          "PLIDA C2"
+        ]
+      }
+    },
+    {
+      "code": "zh",
+      "label": "Chinese (Mandarin)",
+      "certifications": {
+        "B1": [
+          "HSK 4"
+        ],
+        "B2": [
+          "HSK 5"
+        ],
+        "C1": [
+          "HSK 6"
+        ]
+      }
+    },
+    {
+      "code": "pt",
+      "label": "Portuguese",
+      "certifications": {
+        "B1": [
+          "CELPE-Bras Intermediário"
+        ],
+        "B2": [
+          "CELPE-Bras Intermediário Superior"
+        ],
+        "C1": [
+          "CELPE-Bras Avançado"
+        ],
+        "C2": [
+          "CELPE-Bras Avançado Superior"
+        ]
+      }
+    },
+    {
+      "code": "ar",
+      "label": "Arabic",
+      "certifications": {
+        "B2": [
+          "ALPT B2"
+        ],
+        "C1": [
+          "ALPT C1"
+        ]
+      }
+    },
+    {
+      "code": "ru",
+      "label": "Russian",
+      "certifications": {
+        "B1": [
+          "ТРКИ B1 (TORFL)"
+        ],
+        "B2": [
+          "ТРКИ B2 (TORFL)"
+        ],
+        "C1": [
+          "ТРКИ C1 (TORFL)"
+        ],
+        "C2": [
+          "ТРКИ C2 (TORFL)"
+        ]
+      }
+    },
+    {
+      "code": "ja",
+      "label": "Japanese",
+      "certifications": {
+        "B1": [
+          "JLPT N3"
+        ],
+        "B2": [
+          "JLPT N2"
+        ],
+        "C1": [
+          "JLPT N1"
+        ]
+      }
+    },
+    {
+      "code": "nl",
+      "label": "Dutch",
+      "certifications": {
+        "B1": [
+          "NT2 Staatsexamen I"
+        ],
+        "B2": [
+          "CNaVT PTHO"
+        ],
+        "C1": [
+          "NT2 Staatsexamen II"
+        ]
+      }
+    },
+    {
+      "code": "pl",
+      "label": "Polish",
+      "certifications": {
+        "B1": [
+          "Certyfikat Języka Polskiego B1"
+        ],
+        "B2": [
+          "Certyfikat Języka Polskiego B2"
+        ],
+        "C1": [
+          "Certyfikat Języka Polskiego C1"
+        ],
+        "C2": [
+          "Certyfikat Języka Polskiego C2"
+        ]
+      }
+    }
+  ],
+  "entries": {
+    "lang_en_a1": {
+      "id": "lang_en_a1",
+      "language_code": "en",
+      "language_label": "English",
+      "cefr_code": "A1",
+      "cefr_label": "Beginner",
+      "cefr_description": "Can understand and use familiar everyday expressions and very basic phrases.",
+      "weight": 0.1,
+      "certifications": []
+    },
+    "lang_en_a2": {
+      "id": "lang_en_a2",
+      "language_code": "en",
+      "language_label": "English",
+      "cefr_code": "A2",
+      "cefr_label": "Elementary",
+      "cefr_description": "Can understand sentences and frequently used expressions related to areas of immediate relevance.",
+      "weight": 0.25,
+      "certifications": []
+    },
+    "lang_en_b1": {
+      "id": "lang_en_b1",
+      "language_code": "en",
+      "language_label": "English",
+      "cefr_code": "B1",
+      "cefr_label": "Intermediate",
+      "cefr_description": "Can deal with most situations likely to arise while travelling in an area where the language is spoken.",
+      "weight": 0.45,
+      "certifications": [
+        "PET (Cambridge B1)",
+        "TOEIC 550+"
+      ]
+    },
+    "lang_en_b2": {
+      "id": "lang_en_b2",
+      "language_code": "en",
+      "language_label": "English",
+      "cefr_code": "B2",
+      "cefr_label": "Upper Intermediate",
+      "cefr_description": "Can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers possible.",
+      "weight": 0.65,
+      "certifications": [
+        "FCE (Cambridge B2)",
+        "TOEIC 785+",
+        "TOEFL iBT 72+",
+        "IELTS 5.5+"
+      ]
+    },
+    "lang_en_c1": {
+      "id": "lang_en_c1",
+      "language_code": "en",
+      "language_label": "English",
+      "cefr_code": "C1",
+      "cefr_label": "Advanced",
+      "cefr_description": "Can express ideas fluently and spontaneously without much obvious searching for expressions.",
+      "weight": 0.85,
+      "certifications": [
+        "CAE (Cambridge C1)",
+        "TOEFL iBT 95+",
+        "IELTS 7.0+",
+        "TOEIC 945+"
+      ]
+    },
+    "lang_en_c2": {
+      "id": "lang_en_c2",
+      "language_code": "en",
+      "language_label": "English",
+      "cefr_code": "C2",
+      "cefr_label": "Mastery / Proficiency",
+      "cefr_description": "Can understand with ease virtually everything heard or read.",
+      "weight": 1.0,
+      "certifications": [
+        "CPE (Cambridge C2)",
+        "TOEFL iBT 110+",
+        "IELTS 8.5+"
+      ]
+    },
+    "lang_fr_a1": {
+      "id": "lang_fr_a1",
+      "language_code": "fr",
+      "language_label": "French",
+      "cefr_code": "A1",
+      "cefr_label": "Beginner",
+      "cefr_description": "Can understand and use familiar everyday expressions and very basic phrases.",
+      "weight": 0.1,
+      "certifications": [
+        "DELF A1"
+      ]
+    },
+    "lang_fr_a2": {
+      "id": "lang_fr_a2",
+      "language_code": "fr",
+      "language_label": "French",
+      "cefr_code": "A2",
+      "cefr_label": "Elementary",
+      "cefr_description": "Can understand sentences and frequently used expressions related to areas of immediate relevance.",
+      "weight": 0.25,
+      "certifications": [
+        "DELF A2"
+      ]
+    },
+    "lang_fr_b1": {
+      "id": "lang_fr_b1",
+      "language_code": "fr",
+      "language_label": "French",
+      "cefr_code": "B1",
+      "cefr_label": "Intermediate",
+      "cefr_description": "Can deal with most situations likely to arise while travelling in an area where the language is spoken.",
+      "weight": 0.45,
+      "certifications": [
+        "DELF B1",
+        "TCF niveau B1"
+      ]
+    },
+    "lang_fr_b2": {
+      "id": "lang_fr_b2",
+      "language_code": "fr",
+      "language_label": "French",
+      "cefr_code": "B2",
+      "cefr_label": "Upper Intermediate",
+      "cefr_description": "Can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers possible.",
+      "weight": 0.65,
+      "certifications": [
+        "DELF B2",
+        "TCF niveau B2"
+      ]
+    },
+    "lang_fr_c1": {
+      "id": "lang_fr_c1",
+      "language_code": "fr",
+      "language_label": "French",
+      "cefr_code": "C1",
+      "cefr_label": "Advanced",
+      "cefr_description": "Can express ideas fluently and spontaneously without much obvious searching for expressions.",
+      "weight": 0.85,
+      "certifications": [
+        "DALF C1",
+        "TCF niveau C1"
+      ]
+    },
+    "lang_fr_c2": {
+      "id": "lang_fr_c2",
+      "language_code": "fr",
+      "language_label": "French",
+      "cefr_code": "C2",
+      "cefr_label": "Mastery / Proficiency",
+      "cefr_description": "Can understand with ease virtually everything heard or read.",
+      "weight": 1.0,
+      "certifications": [
+        "DALF C2",
+        "TCF niveau C2"
+      ]
+    },
+    "lang_de_a1": {
+      "id": "lang_de_a1",
+      "language_code": "de",
+      "language_label": "German",
+      "cefr_code": "A1",
+      "cefr_label": "Beginner",
+      "cefr_description": "Can understand and use familiar everyday expressions and very basic phrases.",
+      "weight": 0.1,
+      "certifications": [
+        "Goethe A1: Start Deutsch 1"
+      ]
+    },
+    "lang_de_a2": {
+      "id": "lang_de_a2",
+      "language_code": "de",
+      "language_label": "German",
+      "cefr_code": "A2",
+      "cefr_label": "Elementary",
+      "cefr_description": "Can understand sentences and frequently used expressions related to areas of immediate relevance.",
+      "weight": 0.25,
+      "certifications": [
+        "Goethe A2: Start Deutsch 2"
+      ]
+    },
+    "lang_de_b1": {
+      "id": "lang_de_b1",
+      "language_code": "de",
+      "language_label": "German",
+      "cefr_code": "B1",
+      "cefr_label": "Intermediate",
+      "cefr_description": "Can deal with most situations likely to arise while travelling in an area where the language is spoken.",
+      "weight": 0.45,
+      "certifications": [
+        "Goethe B1: Zertifikat Deutsch"
+      ]
+    },
+    "lang_de_b2": {
+      "id": "lang_de_b2",
+      "language_code": "de",
+      "language_label": "German",
+      "cefr_code": "B2",
+      "cefr_label": "Upper Intermediate",
+      "cefr_description": "Can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers possible.",
+      "weight": 0.65,
+      "certifications": [
+        "Goethe B2"
+      ]
+    },
+    "lang_de_c1": {
+      "id": "lang_de_c1",
+      "language_code": "de",
+      "language_label": "German",
+      "cefr_code": "C1",
+      "cefr_label": "Advanced",
+      "cefr_description": "Can express ideas fluently and spontaneously without much obvious searching for expressions.",
+      "weight": 0.85,
+      "certifications": [
+        "Goethe C1: Großes Deutsches Sprachdiplom"
+      ]
+    },
+    "lang_de_c2": {
+      "id": "lang_de_c2",
+      "language_code": "de",
+      "language_label": "German",
+      "cefr_code": "C2",
+      "cefr_label": "Mastery / Proficiency",
+      "cefr_description": "Can understand with ease virtually everything heard or read.",
+      "weight": 1.0,
+      "certifications": [
+        "Goethe C2: Großes Deutsches Sprachdiplom"
+      ]
+    },
+    "lang_es_a1": {
+      "id": "lang_es_a1",
+      "language_code": "es",
+      "language_label": "Spanish",
+      "cefr_code": "A1",
+      "cefr_label": "Beginner",
+      "cefr_description": "Can understand and use familiar everyday expressions and very basic phrases.",
+      "weight": 0.1,
+      "certifications": [
+        "DELE A1"
+      ]
+    },
+    "lang_es_a2": {
+      "id": "lang_es_a2",
+      "language_code": "es",
+      "language_label": "Spanish",
+      "cefr_code": "A2",
+      "cefr_label": "Elementary",
+      "cefr_description": "Can understand sentences and frequently used expressions related to areas of immediate relevance.",
+      "weight": 0.25,
+      "certifications": [
+        "DELE A2"
+      ]
+    },
+    "lang_es_b1": {
+      "id": "lang_es_b1",
+      "language_code": "es",
+      "language_label": "Spanish",
+      "cefr_code": "B1",
+      "cefr_label": "Intermediate",
+      "cefr_description": "Can deal with most situations likely to arise while travelling in an area where the language is spoken.",
+      "weight": 0.45,
+      "certifications": [
+        "DELE B1",
+        "SIELE nivel B1"
+      ]
+    },
+    "lang_es_b2": {
+      "id": "lang_es_b2",
+      "language_code": "es",
+      "language_label": "Spanish",
+      "cefr_code": "B2",
+      "cefr_label": "Upper Intermediate",
+      "cefr_description": "Can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers possible.",
+      "weight": 0.65,
+      "certifications": [
+        "DELE B2",
+        "SIELE nivel B2"
+      ]
+    },
+    "lang_es_c1": {
+      "id": "lang_es_c1",
+      "language_code": "es",
+      "language_label": "Spanish",
+      "cefr_code": "C1",
+      "cefr_label": "Advanced",
+      "cefr_description": "Can express ideas fluently and spontaneously without much obvious searching for expressions.",
+      "weight": 0.85,
+      "certifications": [
+        "DELE C1"
+      ]
+    },
+    "lang_es_c2": {
+      "id": "lang_es_c2",
+      "language_code": "es",
+      "language_label": "Spanish",
+      "cefr_code": "C2",
+      "cefr_label": "Mastery / Proficiency",
+      "cefr_description": "Can understand with ease virtually everything heard or read.",
+      "weight": 1.0,
+      "certifications": [
+        "DELE C2"
+      ]
+    },
+    "lang_it_a1": {
+      "id": "lang_it_a1",
+      "language_code": "it",
+      "language_label": "Italian",
+      "cefr_code": "A1",
+      "cefr_label": "Beginner",
+      "cefr_description": "Can understand and use familiar everyday expressions and very basic phrases.",
+      "weight": 0.1,
+      "certifications": [
+        "CILS A1",
+        "CELI 1"
+      ]
+    },
+    "lang_it_a2": {
+      "id": "lang_it_a2",
+      "language_code": "it",
+      "language_label": "Italian",
+      "cefr_code": "A2",
+      "cefr_label": "Elementary",
+      "cefr_description": "Can understand sentences and frequently used expressions related to areas of immediate relevance.",
+      "weight": 0.25,
+      "certifications": [
+        "CILS A2",
+        "CELI 2"
+      ]
+    },
+    "lang_it_b1": {
+      "id": "lang_it_b1",
+      "language_code": "it",
+      "language_label": "Italian",
+      "cefr_code": "B1",
+      "cefr_label": "Intermediate",
+      "cefr_description": "Can deal with most situations likely to arise while travelling in an area where the language is spoken.",
+      "weight": 0.45,
+      "certifications": [
+        "CILS B1",
+        "CELI 3",
+        "PLIDA B1"
+      ]
+    },
+    "lang_it_b2": {
+      "id": "lang_it_b2",
+      "language_code": "it",
+      "language_label": "Italian",
+      "cefr_code": "B2",
+      "cefr_label": "Upper Intermediate",
+      "cefr_description": "Can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers possible.",
+      "weight": 0.65,
+      "certifications": [
+        "CILS B2",
+        "CELI 4",
+        "PLIDA B2"
+      ]
+    },
+    "lang_it_c1": {
+      "id": "lang_it_c1",
+      "language_code": "it",
+      "language_label": "Italian",
+      "cefr_code": "C1",
+      "cefr_label": "Advanced",
+      "cefr_description": "Can express ideas fluently and spontaneously without much obvious searching for expressions.",
+      "weight": 0.85,
+      "certifications": [
+        "CILS C1",
+        "CELI 5",
+        "PLIDA C1"
+      ]
+    },
+    "lang_it_c2": {
+      "id": "lang_it_c2",
+      "language_code": "it",
+      "language_label": "Italian",
+      "cefr_code": "C2",
+      "cefr_label": "Mastery / Proficiency",
+      "cefr_description": "Can understand with ease virtually everything heard or read.",
+      "weight": 1.0,
+      "certifications": [
+        "CILS C2",
+        "PLIDA C2"
+      ]
+    },
+    "lang_zh_a1": {
+      "id": "lang_zh_a1",
+      "language_code": "zh",
+      "language_label": "Chinese (Mandarin)",
+      "cefr_code": "A1",
+      "cefr_label": "Beginner",
+      "cefr_description": "Can understand and use familiar everyday expressions and very basic phrases.",
+      "weight": 0.1,
+      "certifications": []
+    },
+    "lang_zh_a2": {
+      "id": "lang_zh_a2",
+      "language_code": "zh",
+      "language_label": "Chinese (Mandarin)",
+      "cefr_code": "A2",
+      "cefr_label": "Elementary",
+      "cefr_description": "Can understand sentences and frequently used expressions related to areas of immediate relevance.",
+      "weight": 0.25,
+      "certifications": []
+    },
+    "lang_zh_b1": {
+      "id": "lang_zh_b1",
+      "language_code": "zh",
+      "language_label": "Chinese (Mandarin)",
+      "cefr_code": "B1",
+      "cefr_label": "Intermediate",
+      "cefr_description": "Can deal with most situations likely to arise while travelling in an area where the language is spoken.",
+      "weight": 0.45,
+      "certifications": [
+        "HSK 4"
+      ]
+    },
+    "lang_zh_b2": {
+      "id": "lang_zh_b2",
+      "language_code": "zh",
+      "language_label": "Chinese (Mandarin)",
+      "cefr_code": "B2",
+      "cefr_label": "Upper Intermediate",
+      "cefr_description": "Can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers possible.",
+      "weight": 0.65,
+      "certifications": [
+        "HSK 5"
+      ]
+    },
+    "lang_zh_c1": {
+      "id": "lang_zh_c1",
+      "language_code": "zh",
+      "language_label": "Chinese (Mandarin)",
+      "cefr_code": "C1",
+      "cefr_label": "Advanced",
+      "cefr_description": "Can express ideas fluently and spontaneously without much obvious searching for expressions.",
+      "weight": 0.85,
+      "certifications": [
+        "HSK 6"
+      ]
+    },
+    "lang_zh_c2": {
+      "id": "lang_zh_c2",
+      "language_code": "zh",
+      "language_label": "Chinese (Mandarin)",
+      "cefr_code": "C2",
+      "cefr_label": "Mastery / Proficiency",
+      "cefr_description": "Can understand with ease virtually everything heard or read.",
+      "weight": 1.0,
+      "certifications": []
+    },
+    "lang_pt_a1": {
+      "id": "lang_pt_a1",
+      "language_code": "pt",
+      "language_label": "Portuguese",
+      "cefr_code": "A1",
+      "cefr_label": "Beginner",
+      "cefr_description": "Can understand and use familiar everyday expressions and very basic phrases.",
+      "weight": 0.1,
+      "certifications": []
+    },
+    "lang_pt_a2": {
+      "id": "lang_pt_a2",
+      "language_code": "pt",
+      "language_label": "Portuguese",
+      "cefr_code": "A2",
+      "cefr_label": "Elementary",
+      "cefr_description": "Can understand sentences and frequently used expressions related to areas of immediate relevance.",
+      "weight": 0.25,
+      "certifications": []
+    },
+    "lang_pt_b1": {
+      "id": "lang_pt_b1",
+      "language_code": "pt",
+      "language_label": "Portuguese",
+      "cefr_code": "B1",
+      "cefr_label": "Intermediate",
+      "cefr_description": "Can deal with most situations likely to arise while travelling in an area where the language is spoken.",
+      "weight": 0.45,
+      "certifications": [
+        "CELPE-Bras Intermediário"
+      ]
+    },
+    "lang_pt_b2": {
+      "id": "lang_pt_b2",
+      "language_code": "pt",
+      "language_label": "Portuguese",
+      "cefr_code": "B2",
+      "cefr_label": "Upper Intermediate",
+      "cefr_description": "Can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers possible.",
+      "weight": 0.65,
+      "certifications": [
+        "CELPE-Bras Intermediário Superior"
+      ]
+    },
+    "lang_pt_c1": {
+      "id": "lang_pt_c1",
+      "language_code": "pt",
+      "language_label": "Portuguese",
+      "cefr_code": "C1",
+      "cefr_label": "Advanced",
+      "cefr_description": "Can express ideas fluently and spontaneously without much obvious searching for expressions.",
+      "weight": 0.85,
+      "certifications": [
+        "CELPE-Bras Avançado"
+      ]
+    },
+    "lang_pt_c2": {
+      "id": "lang_pt_c2",
+      "language_code": "pt",
+      "language_label": "Portuguese",
+      "cefr_code": "C2",
+      "cefr_label": "Mastery / Proficiency",
+      "cefr_description": "Can understand with ease virtually everything heard or read.",
+      "weight": 1.0,
+      "certifications": [
+        "CELPE-Bras Avançado Superior"
+      ]
+    },
+    "lang_ar_a1": {
+      "id": "lang_ar_a1",
+      "language_code": "ar",
+      "language_label": "Arabic",
+      "cefr_code": "A1",
+      "cefr_label": "Beginner",
+      "cefr_description": "Can understand and use familiar everyday expressions and very basic phrases.",
+      "weight": 0.1,
+      "certifications": []
+    },
+    "lang_ar_a2": {
+      "id": "lang_ar_a2",
+      "language_code": "ar",
+      "language_label": "Arabic",
+      "cefr_code": "A2",
+      "cefr_label": "Elementary",
+      "cefr_description": "Can understand sentences and frequently used expressions related to areas of immediate relevance.",
+      "weight": 0.25,
+      "certifications": []
+    },
+    "lang_ar_b1": {
+      "id": "lang_ar_b1",
+      "language_code": "ar",
+      "language_label": "Arabic",
+      "cefr_code": "B1",
+      "cefr_label": "Intermediate",
+      "cefr_description": "Can deal with most situations likely to arise while travelling in an area where the language is spoken.",
+      "weight": 0.45,
+      "certifications": []
+    },
+    "lang_ar_b2": {
+      "id": "lang_ar_b2",
+      "language_code": "ar",
+      "language_label": "Arabic",
+      "cefr_code": "B2",
+      "cefr_label": "Upper Intermediate",
+      "cefr_description": "Can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers possible.",
+      "weight": 0.65,
+      "certifications": [
+        "ALPT B2"
+      ]
+    },
+    "lang_ar_c1": {
+      "id": "lang_ar_c1",
+      "language_code": "ar",
+      "language_label": "Arabic",
+      "cefr_code": "C1",
+      "cefr_label": "Advanced",
+      "cefr_description": "Can express ideas fluently and spontaneously without much obvious searching for expressions.",
+      "weight": 0.85,
+      "certifications": [
+        "ALPT C1"
+      ]
+    },
+    "lang_ar_c2": {
+      "id": "lang_ar_c2",
+      "language_code": "ar",
+      "language_label": "Arabic",
+      "cefr_code": "C2",
+      "cefr_label": "Mastery / Proficiency",
+      "cefr_description": "Can understand with ease virtually everything heard or read.",
+      "weight": 1.0,
+      "certifications": []
+    },
+    "lang_ru_a1": {
+      "id": "lang_ru_a1",
+      "language_code": "ru",
+      "language_label": "Russian",
+      "cefr_code": "A1",
+      "cefr_label": "Beginner",
+      "cefr_description": "Can understand and use familiar everyday expressions and very basic phrases.",
+      "weight": 0.1,
+      "certifications": []
+    },
+    "lang_ru_a2": {
+      "id": "lang_ru_a2",
+      "language_code": "ru",
+      "language_label": "Russian",
+      "cefr_code": "A2",
+      "cefr_label": "Elementary",
+      "cefr_description": "Can understand sentences and frequently used expressions related to areas of immediate relevance.",
+      "weight": 0.25,
+      "certifications": []
+    },
+    "lang_ru_b1": {
+      "id": "lang_ru_b1",
+      "language_code": "ru",
+      "language_label": "Russian",
+      "cefr_code": "B1",
+      "cefr_label": "Intermediate",
+      "cefr_description": "Can deal with most situations likely to arise while travelling in an area where the language is spoken.",
+      "weight": 0.45,
+      "certifications": [
+        "ТРКИ B1 (TORFL)"
+      ]
+    },
+    "lang_ru_b2": {
+      "id": "lang_ru_b2",
+      "language_code": "ru",
+      "language_label": "Russian",
+      "cefr_code": "B2",
+      "cefr_label": "Upper Intermediate",
+      "cefr_description": "Can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers possible.",
+      "weight": 0.65,
+      "certifications": [
+        "ТРКИ B2 (TORFL)"
+      ]
+    },
+    "lang_ru_c1": {
+      "id": "lang_ru_c1",
+      "language_code": "ru",
+      "language_label": "Russian",
+      "cefr_code": "C1",
+      "cefr_label": "Advanced",
+      "cefr_description": "Can express ideas fluently and spontaneously without much obvious searching for expressions.",
+      "weight": 0.85,
+      "certifications": [
+        "ТРКИ C1 (TORFL)"
+      ]
+    },
+    "lang_ru_c2": {
+      "id": "lang_ru_c2",
+      "language_code": "ru",
+      "language_label": "Russian",
+      "cefr_code": "C2",
+      "cefr_label": "Mastery / Proficiency",
+      "cefr_description": "Can understand with ease virtually everything heard or read.",
+      "weight": 1.0,
+      "certifications": [
+        "ТРКИ C2 (TORFL)"
+      ]
+    },
+    "lang_ja_a1": {
+      "id": "lang_ja_a1",
+      "language_code": "ja",
+      "language_label": "Japanese",
+      "cefr_code": "A1",
+      "cefr_label": "Beginner",
+      "cefr_description": "Can understand and use familiar everyday expressions and very basic phrases.",
+      "weight": 0.1,
+      "certifications": []
+    },
+    "lang_ja_a2": {
+      "id": "lang_ja_a2",
+      "language_code": "ja",
+      "language_label": "Japanese",
+      "cefr_code": "A2",
+      "cefr_label": "Elementary",
+      "cefr_description": "Can understand sentences and frequently used expressions related to areas of immediate relevance.",
+      "weight": 0.25,
+      "certifications": []
+    },
+    "lang_ja_b1": {
+      "id": "lang_ja_b1",
+      "language_code": "ja",
+      "language_label": "Japanese",
+      "cefr_code": "B1",
+      "cefr_label": "Intermediate",
+      "cefr_description": "Can deal with most situations likely to arise while travelling in an area where the language is spoken.",
+      "weight": 0.45,
+      "certifications": [
+        "JLPT N3"
+      ]
+    },
+    "lang_ja_b2": {
+      "id": "lang_ja_b2",
+      "language_code": "ja",
+      "language_label": "Japanese",
+      "cefr_code": "B2",
+      "cefr_label": "Upper Intermediate",
+      "cefr_description": "Can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers possible.",
+      "weight": 0.65,
+      "certifications": [
+        "JLPT N2"
+      ]
+    },
+    "lang_ja_c1": {
+      "id": "lang_ja_c1",
+      "language_code": "ja",
+      "language_label": "Japanese",
+      "cefr_code": "C1",
+      "cefr_label": "Advanced",
+      "cefr_description": "Can express ideas fluently and spontaneously without much obvious searching for expressions.",
+      "weight": 0.85,
+      "certifications": [
+        "JLPT N1"
+      ]
+    },
+    "lang_ja_c2": {
+      "id": "lang_ja_c2",
+      "language_code": "ja",
+      "language_label": "Japanese",
+      "cefr_code": "C2",
+      "cefr_label": "Mastery / Proficiency",
+      "cefr_description": "Can understand with ease virtually everything heard or read.",
+      "weight": 1.0,
+      "certifications": []
+    },
+    "lang_nl_a1": {
+      "id": "lang_nl_a1",
+      "language_code": "nl",
+      "language_label": "Dutch",
+      "cefr_code": "A1",
+      "cefr_label": "Beginner",
+      "cefr_description": "Can understand and use familiar everyday expressions and very basic phrases.",
+      "weight": 0.1,
+      "certifications": []
+    },
+    "lang_nl_a2": {
+      "id": "lang_nl_a2",
+      "language_code": "nl",
+      "language_label": "Dutch",
+      "cefr_code": "A2",
+      "cefr_label": "Elementary",
+      "cefr_description": "Can understand sentences and frequently used expressions related to areas of immediate relevance.",
+      "weight": 0.25,
+      "certifications": []
+    },
+    "lang_nl_b1": {
+      "id": "lang_nl_b1",
+      "language_code": "nl",
+      "language_label": "Dutch",
+      "cefr_code": "B1",
+      "cefr_label": "Intermediate",
+      "cefr_description": "Can deal with most situations likely to arise while travelling in an area where the language is spoken.",
+      "weight": 0.45,
+      "certifications": [
+        "NT2 Staatsexamen I"
+      ]
+    },
+    "lang_nl_b2": {
+      "id": "lang_nl_b2",
+      "language_code": "nl",
+      "language_label": "Dutch",
+      "cefr_code": "B2",
+      "cefr_label": "Upper Intermediate",
+      "cefr_description": "Can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers possible.",
+      "weight": 0.65,
+      "certifications": [
+        "CNaVT PTHO"
+      ]
+    },
+    "lang_nl_c1": {
+      "id": "lang_nl_c1",
+      "language_code": "nl",
+      "language_label": "Dutch",
+      "cefr_code": "C1",
+      "cefr_label": "Advanced",
+      "cefr_description": "Can express ideas fluently and spontaneously without much obvious searching for expressions.",
+      "weight": 0.85,
+      "certifications": [
+        "NT2 Staatsexamen II"
+      ]
+    },
+    "lang_nl_c2": {
+      "id": "lang_nl_c2",
+      "language_code": "nl",
+      "language_label": "Dutch",
+      "cefr_code": "C2",
+      "cefr_label": "Mastery / Proficiency",
+      "cefr_description": "Can understand with ease virtually everything heard or read.",
+      "weight": 1.0,
+      "certifications": []
+    },
+    "lang_pl_a1": {
+      "id": "lang_pl_a1",
+      "language_code": "pl",
+      "language_label": "Polish",
+      "cefr_code": "A1",
+      "cefr_label": "Beginner",
+      "cefr_description": "Can understand and use familiar everyday expressions and very basic phrases.",
+      "weight": 0.1,
+      "certifications": []
+    },
+    "lang_pl_a2": {
+      "id": "lang_pl_a2",
+      "language_code": "pl",
+      "language_label": "Polish",
+      "cefr_code": "A2",
+      "cefr_label": "Elementary",
+      "cefr_description": "Can understand sentences and frequently used expressions related to areas of immediate relevance.",
+      "weight": 0.25,
+      "certifications": []
+    },
+    "lang_pl_b1": {
+      "id": "lang_pl_b1",
+      "language_code": "pl",
+      "language_label": "Polish",
+      "cefr_code": "B1",
+      "cefr_label": "Intermediate",
+      "cefr_description": "Can deal with most situations likely to arise while travelling in an area where the language is spoken.",
+      "weight": 0.45,
+      "certifications": [
+        "Certyfikat Języka Polskiego B1"
+      ]
+    },
+    "lang_pl_b2": {
+      "id": "lang_pl_b2",
+      "language_code": "pl",
+      "language_label": "Polish",
+      "cefr_code": "B2",
+      "cefr_label": "Upper Intermediate",
+      "cefr_description": "Can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers possible.",
+      "weight": 0.65,
+      "certifications": [
+        "Certyfikat Języka Polskiego B2"
+      ]
+    },
+    "lang_pl_c1": {
+      "id": "lang_pl_c1",
+      "language_code": "pl",
+      "language_label": "Polish",
+      "cefr_code": "C1",
+      "cefr_label": "Advanced",
+      "cefr_description": "Can express ideas fluently and spontaneously without much obvious searching for expressions.",
+      "weight": 0.85,
+      "certifications": [
+        "Certyfikat Języka Polskiego C1"
+      ]
+    },
+    "lang_pl_c2": {
+      "id": "lang_pl_c2",
+      "language_code": "pl",
+      "language_label": "Polish",
+      "cefr_code": "C2",
+      "cefr_label": "Mastery / Proficiency",
+      "cefr_description": "Can understand with ease virtually everything heard or read.",
+      "weight": 1.0,
+      "certifications": [
+        "Certyfikat Języka Polskiego C2"
+      ]
+    },
+    "lang_en_native": {
+      "id": "lang_en_native",
+      "language_code": "en",
+      "language_label": "English",
+      "cefr_code": "native",
+      "cefr_label": "Native / Mother tongue",
+      "cefr_description": "Language acquired as a first language from birth. No certification required or applicable.",
+      "weight": 1.0,
+      "certifications": []
+    },
+    "lang_fr_native": {
+      "id": "lang_fr_native",
+      "language_code": "fr",
+      "language_label": "French",
+      "cefr_code": "native",
+      "cefr_label": "Native / Mother tongue",
+      "cefr_description": "Language acquired as a first language from birth. No certification required or applicable.",
+      "weight": 1.0,
+      "certifications": []
+    },
+    "lang_de_native": {
+      "id": "lang_de_native",
+      "language_code": "de",
+      "language_label": "German",
+      "cefr_code": "native",
+      "cefr_label": "Native / Mother tongue",
+      "cefr_description": "Language acquired as a first language from birth. No certification required or applicable.",
+      "weight": 1.0,
+      "certifications": []
+    },
+    "lang_es_native": {
+      "id": "lang_es_native",
+      "language_code": "es",
+      "language_label": "Spanish",
+      "cefr_code": "native",
+      "cefr_label": "Native / Mother tongue",
+      "cefr_description": "Language acquired as a first language from birth. No certification required or applicable.",
+      "weight": 1.0,
+      "certifications": []
+    },
+    "lang_it_native": {
+      "id": "lang_it_native",
+      "language_code": "it",
+      "language_label": "Italian",
+      "cefr_code": "native",
+      "cefr_label": "Native / Mother tongue",
+      "cefr_description": "Language acquired as a first language from birth. No certification required or applicable.",
+      "weight": 1.0,
+      "certifications": []
+    },
+    "lang_zh_native": {
+      "id": "lang_zh_native",
+      "language_code": "zh",
+      "language_label": "Chinese (Mandarin)",
+      "cefr_code": "native",
+      "cefr_label": "Native / Mother tongue",
+      "cefr_description": "Language acquired as a first language from birth. No certification required or applicable.",
+      "weight": 1.0,
+      "certifications": []
+    },
+    "lang_pt_native": {
+      "id": "lang_pt_native",
+      "language_code": "pt",
+      "language_label": "Portuguese",
+      "cefr_code": "native",
+      "cefr_label": "Native / Mother tongue",
+      "cefr_description": "Language acquired as a first language from birth. No certification required or applicable.",
+      "weight": 1.0,
+      "certifications": []
+    },
+    "lang_ar_native": {
+      "id": "lang_ar_native",
+      "language_code": "ar",
+      "language_label": "Arabic",
+      "cefr_code": "native",
+      "cefr_label": "Native / Mother tongue",
+      "cefr_description": "Language acquired as a first language from birth. No certification required or applicable.",
+      "weight": 1.0,
+      "certifications": []
+    },
+    "lang_ru_native": {
+      "id": "lang_ru_native",
+      "language_code": "ru",
+      "language_label": "Russian",
+      "cefr_code": "native",
+      "cefr_label": "Native / Mother tongue",
+      "cefr_description": "Language acquired as a first language from birth. No certification required or applicable.",
+      "weight": 1.0,
+      "certifications": []
+    },
+    "lang_ja_native": {
+      "id": "lang_ja_native",
+      "language_code": "ja",
+      "language_label": "Japanese",
+      "cefr_code": "native",
+      "cefr_label": "Native / Mother tongue",
+      "cefr_description": "Language acquired as a first language from birth. No certification required or applicable.",
+      "weight": 1.0,
+      "certifications": []
+    },
+    "lang_nl_native": {
+      "id": "lang_nl_native",
+      "language_code": "nl",
+      "language_label": "Dutch",
+      "cefr_code": "native",
+      "cefr_label": "Native / Mother tongue",
+      "cefr_description": "Language acquired as a first language from birth. No certification required or applicable.",
+      "weight": 1.0,
+      "certifications": []
+    },
+    "lang_pl_native": {
+      "id": "lang_pl_native",
+      "language_code": "pl",
+      "language_label": "Polish",
+      "cefr_code": "native",
+      "cefr_label": "Native / Mother tongue",
+      "cefr_description": "Language acquired as a first language from birth. No certification required or applicable.",
+      "weight": 1.0,
+      "certifications": []
+    }
+  },
+  "nationality_mother_tongue": {
+    "Italian": "it",
+    "German": "de",
+    "French": "fr",
+    "Spanish": "es",
+    "Polish": "pl",
+    "Dutch": "nl",
+    "Romanian": null,
+    "Swedish": null,
+    "Portuguese": "pt",
+    "Belgian": "fr"
+  }
+}

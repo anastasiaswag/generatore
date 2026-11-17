@@ -1,0 +1,7 @@
+ID: 194
+Area: Informatica
+Ruolo: Sistemista Networking
+Azienda: Aubay Italia
+Località: Monopoli
+
+Sistemista Networking - Aubay Italia (Monopoli, In sede). Contratto: Apprendistato; profilo: Middle. Attività principali: analisi dati, pipeline ETL e modelli predittivi; sviluppo e manutenzione di applicazioni software in ambiente enterprise. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di AI/ML, Computer Vision, PyTorch, buona capacità di lavoro in team e MLOps. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

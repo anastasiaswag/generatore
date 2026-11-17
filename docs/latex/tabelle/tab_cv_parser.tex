@@ -1,0 +1,15 @@
+% Risultati del parser CV — generata da analisi_parser.py --from-batch
+\begin{table}[htbp]
+  \centering
+  \caption{Prestazioni del parser dei CV su 810 curriculum sintetici.}
+  \label{tab:cv-parser}
+  \begin{tabular}{lccc}
+    \toprule
+    \textbf{Versione} & \textbf{Precision} & \textbf{Recall} & \textbf{F1} \\
+    \midrule
+    Baseline iniziale                  & 0,760 & 0,547 & 0,623 \\
+    Dopo dizionario alias e filtri     & 0,865 & 0,860 & 0,857 \\
+    \textbf{Dopo filtro nomi di lingua} & \textbf{0,907} & \textbf{0,860} & \textbf{0,878} \\
+    \bottomrule
+  \end{tabular}
+\end{table}

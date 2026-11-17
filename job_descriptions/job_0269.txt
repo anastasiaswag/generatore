@@ -1,0 +1,7 @@
+ID: 269
+Area: Informatica
+Ruolo: Computer Vision Engineer
+Azienda: Lutech
+Località: Caselle Torinese
+
+Computer Vision Engineer - Lutech (Caselle Torinese, In sede). Contratto: Tempo determinato; profilo: Senior. Attività principali: integrazione di sistemi IT, database e servizi cloud; gestione infrastruttura, deployment e automazione CI/CD. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di C/C++, Linux Embedded, Git, buona capacità di lavoro in team e Yocto. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

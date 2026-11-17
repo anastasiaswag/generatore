@@ -1,0 +1,7 @@
+ID: 228
+Area: Informatica
+Ruolo: Full Stack Developer
+Azienda: Experis
+Località: Melfi
+
+Full Stack Developer - Experis (Melfi, In sede). Contratto: Tempo indeterminato; profilo: Neolaureato. Attività principali: integrazione di sistemi IT, database e servizi cloud; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Python, SQL, Docker, buona capacità di lavoro in team e Kubernetes. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

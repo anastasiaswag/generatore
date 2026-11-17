@@ -1,0 +1,7 @@
+ID: 660
+Area: Elettronica
+Ruolo: Automation Engineer
+Azienda: IQM selezione
+Località: Veneto
+
+Automation Engineer - IQM selezione (Veneto, In sede). Contratto: Tempo indeterminato; profilo: Senior. Attività principali: integrazione sensori, bus di comunicazione e sistemi di controllo; sviluppo firmware per microcontrollori e sistemi real-time. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di RF, antenne, strumentazione, buona capacità di lavoro in team e test di laboratorio. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

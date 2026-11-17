@@ -1,0 +1,7 @@
+ID: 128
+Area: Informatica
+Ruolo: IoT Platform Engineer
+Azienda: Satispay
+Località: Monopoli
+
+IoT Platform Engineer - Satispay (Monopoli, In sede). Contratto: Tempo indeterminato; profilo: Neolaureato. Attività principali: progettazione di architetture backend e API per piattaforme digitali; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Data pipeline, ETL, Spark, buona capacità di lavoro in team e Python. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

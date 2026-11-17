@@ -1,0 +1,7 @@
+ID: 141
+Area: Informatica
+Ruolo: Data Engineer
+Azienda: inRebus Technologies
+Località: Lombardia
+
+Data Engineer - inRebus Technologies (Lombardia, Da remoto). Contratto: Tempo determinato; profilo: Middle. Attività principali: progettazione di architetture backend e API per piattaforme digitali; gestione infrastruttura, deployment e automazione CI/CD. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Cybersecurity, SIEM, Network Security, buona capacità di lavoro in team e ISO 27001. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

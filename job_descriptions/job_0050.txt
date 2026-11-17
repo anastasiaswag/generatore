@@ -1,0 +1,7 @@
+ID: 50
+Area: Informatica
+Ruolo: System Engineer
+Azienda: Satispay
+Località: Foligno
+
+System Engineer - Satispay (Foligno, Da remoto). Contratto: Tempo determinato; profilo: Neolaureato. Attività principali: testing, quality assurance e documentazione tecnica; sviluppo firmware/embedded software per dispositivi connessi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di PLC/SCADA, OPC-UA, Industrial IoT, buona capacità di lavoro in team e SQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

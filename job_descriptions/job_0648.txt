@@ -1,0 +1,7 @@
+ID: 648
+Area: Elettronica
+Ruolo: Senior Electronic Process Engineer
+Azienda: Skytechnology srl
+Località: Torino
+
+Senior Electronic Process Engineer - Skytechnology srl (Torino, In sede). Contratto: Tempo indeterminato; profilo: Lead/Responsabile. Attività principali: sviluppo firmware per microcontrollori e sistemi real-time; redazione documentazione tecnica, specifiche e report di validazione. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di railway/automotive, CAN bus, LIN, buona capacità di lavoro in team e diagnostica. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

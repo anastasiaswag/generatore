@@ -1,0 +1,7 @@
+ID: 13
+Area: Informatica
+Ruolo: IT Infrastructure Engineer
+Azienda: Alten Italia
+Località: Caselle Torinese
+
+IT Infrastructure Engineer - Alten Italia (Caselle Torinese, In sede). Contratto: Tempo determinato; profilo: Junior. Attività principali: testing, quality assurance e documentazione tecnica; integrazione di sistemi IT, database e servizi cloud. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di React, Node.js, TypeScript, buona capacità di lavoro in team e PostgreSQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

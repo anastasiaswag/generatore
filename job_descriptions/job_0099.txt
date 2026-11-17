@@ -1,0 +1,7 @@
+ID: 99
+Area: Informatica
+Ruolo: AI/ML Engineer
+Azienda: Satispay
+Località: Pesaro
+
+AI/ML Engineer - Satispay (Pesaro, In sede). Contratto: Tempo indeterminato; profilo: Middle. Attività principali: sviluppo firmware/embedded software per dispositivi connessi; progettazione di architetture backend e API per piattaforme digitali. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Azure/AWS, Terraform, CI/CD, buona capacità di lavoro in team e Monitoring. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

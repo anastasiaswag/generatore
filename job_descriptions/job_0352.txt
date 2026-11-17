@@ -1,0 +1,7 @@
+ID: 352
+Area: Elettronica
+Ruolo: Embedded Hardware Engineer
+Azienda: AYES
+Località: Foligno
+
+Embedded Hardware Engineer - AYES (Foligno, In sede). Contratto: Tempo determinato; profilo: Middle. Attività principali: sviluppo firmware per microcontrollori e sistemi real-time; supporto a progetti automotive, railway, industrial o space/defence. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di FMEDA, DFA, safety analysis, buona capacità di lavoro in team e validazione. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

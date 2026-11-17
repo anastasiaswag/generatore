@@ -1,0 +1,7 @@
+ID: 65
+Area: Informatica
+Ruolo: PLC/SCADA Software Engineer
+Azienda: Accenture
+Località: Emilia Romagna
+
+PLC/SCADA Software Engineer - Accenture (Emilia Romagna, In sede). Contratto: Tempo indeterminato; profilo: Senior. Attività principali: integrazione di sistemi IT, database e servizi cloud; gestione infrastruttura, deployment e automazione CI/CD. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di AI/ML, Computer Vision, PyTorch, buona capacità di lavoro in team e MLOps. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 238
+Area: Informatica
+Ruolo: Junior Agentic Developer
+Azienda: Net Reply
+Località: Reggio Emilia
+
+Junior Agentic Developer - Net Reply (Reggio Emilia, Da remoto). Contratto: Tempo indeterminato; profilo: Middle. Attività principali: analisi dati, pipeline ETL e modelli predittivi; sviluppo e manutenzione di applicazioni software in ambiente enterprise. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Azure/AWS, Terraform, CI/CD, buona capacità di lavoro in team e Monitoring. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 80
+Area: Informatica
+Ruolo: Cybersecurity Engineer
+Azienda: Teoresi Group
+Località: Bacoli
+
+Cybersecurity Engineer - Teoresi Group (Bacoli, In sede). Contratto: Tempo determinato; profilo: Junior. Attività principali: sviluppo e manutenzione di applicazioni software in ambiente enterprise; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Windows/Linux Server, VMware, Backup, buona capacità di lavoro in team e Networking. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 259
+Area: Informatica
+Ruolo: Cybersecurity Engineer
+Azienda: Zucchetti
+Località: Firenze
+
+Cybersecurity Engineer - Zucchetti (Firenze, In sede). Contratto: Tempo indeterminato; profilo: Middle. Attività principali: sviluppo firmware/embedded software per dispositivi connessi; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di PLC/SCADA, OPC-UA, Industrial IoT, buona capacità di lavoro in team e SQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

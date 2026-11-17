@@ -1,0 +1,7 @@
+ID: 66
+Area: Informatica
+Ruolo: Software Tester / QA Engineer
+Azienda: Capgemini
+Località: Brescia
+
+Software Tester / QA Engineer - Capgemini (Brescia, In sede). Contratto: Consulenza; profilo: Senior. Attività principali: sviluppo firmware/embedded software per dispositivi connessi; integrazione di sistemi IT, database e servizi cloud. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di PLC/SCADA, OPC-UA, Industrial IoT, buona capacità di lavoro in team e SQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 576
+Area: Elettronica
+Ruolo: PCB Designer
+Azienda: Openjobmetis
+Località: Collegno
+
+PCB Designer - Openjobmetis (Collegno, In sede). Contratto: Tempo indeterminato; profilo: Lead/Responsabile. Attività principali: integrazione sensori, bus di comunicazione e sistemi di controllo; redazione documentazione tecnica, specifiche e report di validazione. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di power electronics, inverter, convertitori, buona capacità di lavoro in team e EMC. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

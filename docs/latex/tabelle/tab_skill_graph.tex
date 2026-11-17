@@ -1,0 +1,69 @@
+% Validazione dell'ordinamento del divario formativo
+% Richiede: \usepackage{booktabs}
+\begin{table}[htbp]
+  \centering
+  \caption{Confronto fra la prossimità fra competenze ricostruita per
+           co-occorrenza e la gerarchia ufficiale ESCO v1.2.1. Le coppie
+           selezionate dalla ricostruzione sono 2,5 volte più vicine di
+           coppie casuali, ma il numero di co-occorrenze non predice la
+           vicinanza tassonomica: la ricostruzione conteneva informazione
+           binaria e veniva usata come misura graduata.}
+  \label{tab:skill-graph-accordo}
+  \begin{tabular}{lrr}
+    \toprule
+    \textbf{Indicatore} & \textbf{Coppie co-occorrenti}
+      & \textbf{Coppie casuali} \\
+    \midrule
+    Coppie esaminate                       & 10.000 & 10.000 \\
+    Similarità tassonomica media           & \textbf{0,103} & 0,040 \\
+    Quota con antenato comune              & 28,3\% & 13,9\% \\
+    Quota concettualmente vicine ($\geq$ 0,5) & \textbf{7,9\%} & 1,8\% \\
+    \midrule
+    \multicolumn{3}{l}{Correlazione di rango co-occorrenze $\sim$ similarità:
+      $\rho = 0{,}033$} \\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+\begin{table}[htbp]
+  \centering
+  \caption{Contributo effettivo delle tre componenti del punteggio di
+           priorità, misurato su 787 divari formativi reali. Lo scarto fra
+           peso nominale e contributo effettivo dipende dalla scala su cui
+           ciascuna componente si distribuisce; per la co-occorrenza deriva
+           da una normalizzazione che divide una media di co-occorrenze per
+           una frequenza massima.}
+  \label{tab:skill-graph-contributi}
+  \begin{tabular}{lrr}
+    \toprule
+    \textbf{Componente} & \textbf{Peso nominale}
+      & \textbf{Contributo effettivo} \\
+    \midrule
+    Trasversalità (\texttt{reuse\_level}) & 40\% & \textbf{72,6\%} \\
+    Frequenza fra le occupazioni          & 40\% & 20,7\% \\
+    Co-occorrenza ricostruita             & 20\% & \textbf{1,6\%} \\
+    \midrule
+    Prossimità tassonomica (sostituzione) & 20\% & 6,7\% \\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+\begin{table}[htbp]
+  \centering
+  \caption{Effetto della sostituzione sull'ordinamento finale del divario, a
+           pesi invariati. Il campione è costruito per ciascun curriculum come
+           differenza fra le competenze essenziali dell'occupazione di
+           riferimento e quelle estratte dal parser: 787 casi su 1.346
+           competenze distinte.}
+  \label{tab:skill-graph-effetto}
+  \begin{tabular}{lr}
+    \toprule
+    \textbf{Indicatore} & \textbf{Valore} \\
+    \midrule
+    Casi esaminati                            & 787 \\
+    Tau di Kendall medio                      & \textbf{0,791} \\
+    Ordinamento invariato                     & 20,5\% \\
+    Prima competenza raccomandata cambiata    & \textbf{14,2\%} \\
+    \bottomrule
+  \end{tabular}
+\end{table}

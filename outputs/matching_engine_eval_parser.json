@@ -1,0 +1,226 @@
+{
+  "occ_source": "parser",
+  "jobs_file": "job_gt_batch_results.json",
+  "n_cv_totali": 810,
+  "n_cv_testabili": 738,
+  "n_cv_valutati": 30,
+  "n_jobs_pool": 300,
+  "top_k": 10,
+  "precision_at_1": 96.7,
+  "precision_at_3": 100.0,
+  "precision_at_10": 100.0,
+  "mrr": 0.983,
+  "baseline_precision_at_1_media": 1.6,
+  "dettaglio_per_cv": [
+    {
+      "cv_id": "parsed_cv_49b21ca8-04be-4912-a2f7-0170550e18fa_junior_1.pdf",
+      "target_occupation": "bindery operator",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_35e42c87-faf7-465f-abe4-f26717996dd1_mid_0.pdf",
+      "target_occupation": "religious education teacher at secondary school",
+      "hit_rank": 1,
+      "n_correct_in_pool": 5,
+      "baseline_p1": 0.0167
+    },
+    {
+      "cv_id": "parsed_cv_d0d7d777-073f-4c33-8f27-1d4a0e8e626f_senior_1.pdf",
+      "target_occupation": "pulp control operator",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_2cbb23b0-0bf1-4871-9e6d-18f005987310_mid_0.pdf",
+      "target_occupation": "audio production technician",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_e16e4cb0-6f7d-4bf9-8f90-d1d866ad229b_senior_1.pdf",
+      "target_occupation": "laundromat attendant",
+      "hit_rank": 1,
+      "n_correct_in_pool": 5,
+      "baseline_p1": 0.0167
+    },
+    {
+      "cv_id": "parsed_cv_12da0bb1-26c8-46eb-9476-797f4f1c441e_mid_0.pdf",
+      "target_occupation": "crossing guard",
+      "hit_rank": 1,
+      "n_correct_in_pool": 5,
+      "baseline_p1": 0.0167
+    },
+    {
+      "cv_id": "parsed_cv_463558cd-6e02-43a8-a675-d4e65af70431_senior_1.pdf",
+      "target_occupation": "herbal therapist",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_e9cf8b24-6b8b-47cc-9dd3-b601aa135960_junior_1.pdf",
+      "target_occupation": "special-interest groups' official",
+      "hit_rank": 1,
+      "n_correct_in_pool": 4,
+      "baseline_p1": 0.0133
+    },
+    {
+      "cv_id": "parsed_cv_4fe4b1f1-e84d-4056-b062-83d5a64fc571_junior_0.pdf",
+      "target_occupation": "aquaculture harvesting manager",
+      "hit_rank": 1,
+      "n_correct_in_pool": 4,
+      "baseline_p1": 0.0133
+    },
+    {
+      "cv_id": "parsed_cv_a99b38bc-6e71-4bef-b127-0f2b5e357815_mid_1.pdf",
+      "target_occupation": "ICT resilience manager",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_d2df16f3-87d7-4c6e-a640-95cee39a8f4e_senior_1.pdf",
+      "target_occupation": "cider master",
+      "hit_rank": 1,
+      "n_correct_in_pool": 5,
+      "baseline_p1": 0.0167
+    },
+    {
+      "cv_id": "parsed_cv_c56295bb-ef33-4ccd-a929-59e3dd73f876_mid_1.pdf",
+      "target_occupation": "vineyard cellar master",
+      "hit_rank": 1,
+      "n_correct_in_pool": 4,
+      "baseline_p1": 0.0133
+    },
+    {
+      "cv_id": "parsed_cv_23e3a8a0-905a-45be-983f-4cf32e133e09_junior_1.pdf",
+      "target_occupation": "imagesetter",
+      "hit_rank": 1,
+      "n_correct_in_pool": 2,
+      "baseline_p1": 0.0067
+    },
+    {
+      "cv_id": "parsed_cv_a98f93a6-b1df-4759-88a9-3234f334afad_mid_1.pdf",
+      "target_occupation": "screen printer",
+      "hit_rank": 1,
+      "n_correct_in_pool": 4,
+      "baseline_p1": 0.0133
+    },
+    {
+      "cv_id": "parsed_cv_aecb033a-2be8-459c-bbdc-87bbae922894_mid_1.pdf",
+      "target_occupation": "plastering supervisor",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_aecb033a-2be8-459c-bbdc-87bbae922894_mid_0.pdf",
+      "target_occupation": "plastering supervisor",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_1391bdf9-bd61-4fb5-91ca-c29036ab2b60_mid_0.pdf",
+      "target_occupation": "home care aide",
+      "hit_rank": 1,
+      "n_correct_in_pool": 2,
+      "baseline_p1": 0.0067
+    },
+    {
+      "cv_id": "parsed_cv_753939ad-b03e-47cd-913b-56f30b5ae8fc_senior_0.pdf",
+      "target_occupation": "product assembly inspector",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_974d4eab-fbee-4c52-b16e-73bdd8c25b53_senior_0.pdf",
+      "target_occupation": "lawyer",
+      "hit_rank": 1,
+      "n_correct_in_pool": 2,
+      "baseline_p1": 0.0067
+    },
+    {
+      "cv_id": "parsed_cv_02447817-ea01-4d8b-b09c-8bc128e447e6_senior_1.pdf",
+      "target_occupation": "tile fitter",
+      "hit_rank": 1,
+      "n_correct_in_pool": 5,
+      "baseline_p1": 0.0167
+    },
+    {
+      "cv_id": "parsed_cv_db55bf08-3ad3-4bf6-bf59-7f9f426a6de5_senior_0.pdf",
+      "target_occupation": "clothing alteration machinist",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_39c89133-bd2a-45db-b3eb-529b94daeeaf_mid_0.pdf",
+      "target_occupation": "licensing officer",
+      "hit_rank": 2,
+      "n_correct_in_pool": 1,
+      "baseline_p1": 0.0033
+    },
+    {
+      "cv_id": "parsed_cv_753939ad-b03e-47cd-913b-56f30b5ae8fc_mid_1.pdf",
+      "target_occupation": "product assembly inspector",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_245be6d1-fe9a-4ac8-9f81-122a687e4724_mid_1.pdf",
+      "target_occupation": "factory hand",
+      "hit_rank": 1,
+      "n_correct_in_pool": 4,
+      "baseline_p1": 0.0133
+    },
+    {
+      "cv_id": "parsed_cv_2cbb23b0-0bf1-4871-9e6d-18f005987310_senior_1.pdf",
+      "target_occupation": "audio production technician",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_73357956-f607-4baa-9ce6-03beb9b39da2_mid_0.pdf",
+      "target_occupation": "sales processor",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_5efb4fff-8c5f-4697-9587-034d9f6af094_senior_1.pdf",
+      "target_occupation": "nuclear medicine radiographer",
+      "hit_rank": 1,
+      "n_correct_in_pool": 2,
+      "baseline_p1": 0.0067
+    },
+    {
+      "cv_id": "parsed_cv_7819669b-30c2-42e6-a1c4-0bcd6f0379ff_junior_0.pdf",
+      "target_occupation": "international relations officer",
+      "hit_rank": 1,
+      "n_correct_in_pool": 5,
+      "baseline_p1": 0.0167
+    },
+    {
+      "cv_id": "parsed_cv_2cbb23b0-0bf1-4871-9e6d-18f005987310_mid_1.pdf",
+      "target_occupation": "audio production technician",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_2ff9e53c-6e7f-42af-8d71-b5dd7f283089_junior_0.pdf",
+      "target_occupation": "bank teller",
+      "hit_rank": 1,
+      "n_correct_in_pool": 4,
+      "baseline_p1": 0.0133
+    }
+  ]
+}

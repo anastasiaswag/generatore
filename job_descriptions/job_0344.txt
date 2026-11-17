@@ -1,0 +1,7 @@
+ID: 344
+Area: Informatica
+Ruolo: Full Stack Developer
+Azienda: Lutech
+Località: Torino
+
+Full Stack Developer - Lutech (Torino, In sede). Contratto: Apprendistato; profilo: Stage/Tirocinio. Attività principali: sviluppo e manutenzione di applicazioni software in ambiente enterprise; gestione infrastruttura, deployment e automazione CI/CD. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Windows/Linux Server, VMware, Backup, buona capacità di lavoro in team e Networking. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

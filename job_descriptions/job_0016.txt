@@ -1,0 +1,7 @@
+ID: 16
+Area: Informatica
+Ruolo: Full Stack Developer
+Azienda: YCOM
+Località: Lazio
+
+Full Stack Developer - YCOM (Lazio, Ibrido). Contratto: Tempo indeterminato; profilo: Lead/Responsabile. Attività principali: analisi dati, pipeline ETL e modelli predittivi; gestione infrastruttura, deployment e automazione CI/CD. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di C/C++, Linux Embedded, Git, buona capacità di lavoro in team e Yocto. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

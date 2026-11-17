@@ -1,0 +1,7 @@
+ID: 359
+Area: Elettronica
+Ruolo: PCB Designer
+Azienda: Sumitomo Electric
+Località: Pesaro
+
+PCB Designer - Sumitomo Electric (Pesaro, Ibrido). Contratto: Tempo indeterminato; profilo: Senior. Attività principali: test di laboratorio, debugging, misure e qualifiche EMC; supporto a progetti automotive, railway, industrial o space/defence. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di LabVIEW, Matlab, Python, buona capacità di lavoro in team e test automation. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

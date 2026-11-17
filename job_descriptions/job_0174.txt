@@ -1,0 +1,7 @@
+ID: 174
+Area: Informatica
+Ruolo: Application Engineer IT
+Azienda: Leonardo
+Località: Monopoli
+
+Application Engineer IT - Leonardo (Monopoli, Ibrido). Contratto: Tempo indeterminato; profilo: Neolaureato. Attività principali: sviluppo e manutenzione di applicazioni software in ambiente enterprise; gestione infrastruttura, deployment e automazione CI/CD. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Cybersecurity, SIEM, Network Security, buona capacità di lavoro in team e ISO 27001. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

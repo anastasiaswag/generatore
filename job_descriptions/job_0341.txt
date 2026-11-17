@@ -1,0 +1,7 @@
+ID: 341
+Area: Informatica
+Ruolo: Full Stack Developer
+Azienda: Umana S.p.A.
+Località: Verona
+
+Full Stack Developer - Umana S.p.A. (Verona, In sede). Contratto: Tempo indeterminato; profilo: Neolaureato. Attività principali: progettazione di architetture backend e API per piattaforme digitali; gestione infrastruttura, deployment e automazione CI/CD. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di AI/ML, Computer Vision, PyTorch, buona capacità di lavoro in team e MLOps. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

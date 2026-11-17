@@ -1,0 +1,7 @@
+ID: 313
+Area: Informatica
+Ruolo: IT Infrastructure Engineer
+Azienda: Net Reply
+Località: Trieste
+
+IT Infrastructure Engineer - Net Reply (Trieste, Ibrido). Contratto: Tempo determinato; profilo: Middle. Attività principali: integrazione di sistemi IT, database e servizi cloud; progettazione di architetture backend e API per piattaforme digitali. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Windows/Linux Server, VMware, Backup, buona capacità di lavoro in team e Networking. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 267
+Area: Informatica
+Ruolo: IoT Platform Engineer
+Azienda: Lutech
+Località: Napoli
+
+IoT Platform Engineer - Lutech (Napoli, In sede). Contratto: Tempo determinato; profilo: Neolaureato. Attività principali: sviluppo firmware/embedded software per dispositivi connessi; sviluppo e manutenzione di applicazioni software in ambiente enterprise. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di React, Node.js, TypeScript, buona capacità di lavoro in team e PostgreSQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 44
+Area: Informatica
+Ruolo: Firmware/Embedded Software Engineer
+Azienda: Randstad Digital
+Località: Monopoli
+
+Firmware/Embedded Software Engineer - Randstad Digital (Monopoli, In sede). Contratto: Tempo determinato; profilo: Senior. Attività principali: analisi dati, pipeline ETL e modelli predittivi; gestione infrastruttura, deployment e automazione CI/CD. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Azure/AWS, Terraform, CI/CD, buona capacità di lavoro in team e Monitoring. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

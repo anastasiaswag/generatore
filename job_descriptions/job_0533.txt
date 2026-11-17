@@ -1,0 +1,7 @@
+ID: 533
+Area: Elettronica
+Ruolo: Controls Engineer
+Azienda: Skytechnology srl
+Località: Napoli
+
+Controls Engineer - Skytechnology srl (Napoli, In sede). Contratto: Tempo indeterminato; profilo: Neolaureato. Attività principali: test di laboratorio, debugging, misure e qualifiche EMC; supporto a progetti automotive, railway, industrial o space/defence. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di PCB, KiCad/Altium, schematic capture, buona capacità di lavoro in team e layout. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

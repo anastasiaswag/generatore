@@ -1,0 +1,7 @@
+ID: 632
+Area: Elettronica
+Ruolo: Power Electronics Engineer
+Azienda: Kineton
+Località: Torino
+
+Power Electronics Engineer - Kineton (Torino, Da remoto). Contratto: Tempo indeterminato; profilo: Senior. Attività principali: supporto a progetti automotive, railway, industrial o space/defence; integrazione sensori, bus di comunicazione e sistemi di controllo. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di LabVIEW, Matlab, Python, buona capacità di lavoro in team e test automation. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

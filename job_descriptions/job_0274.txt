@@ -1,0 +1,7 @@
+ID: 274
+Area: Informatica
+Ruolo: PLC/SCADA Software Engineer
+Azienda: IBM
+Località: Melfi
+
+PLC/SCADA Software Engineer - IBM (Melfi, Da remoto). Contratto: Consulenza; profilo: Junior. Attività principali: testing, quality assurance e documentazione tecnica; sviluppo e manutenzione di applicazioni software in ambiente enterprise. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Azure/AWS, Terraform, CI/CD, buona capacità di lavoro in team e Monitoring. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

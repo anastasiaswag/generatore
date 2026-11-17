@@ -1,0 +1,7 @@
+ID: 59
+Area: Informatica
+Ruolo: Software Engineer
+Azienda: Accenture
+Località: Frascati
+
+Software Engineer - Accenture (Frascati, Ibrido). Contratto: Tempo indeterminato; profilo: Senior. Attività principali: sviluppo e manutenzione di applicazioni software in ambiente enterprise; sviluppo firmware/embedded software per dispositivi connessi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di AI/ML, Computer Vision, PyTorch, buona capacità di lavoro in team e MLOps. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 595
+Area: Elettronica
+Ruolo: Vehicle Electric Engineer
+Azienda: Leonardo
+Località: Genova
+
+Vehicle Electric Engineer - Leonardo (Genova, In sede). Contratto: Consulenza; profilo: Neolaureato. Attività principali: supporto a progetti automotive, railway, industrial o space/defence; sviluppo firmware per microcontrollori e sistemi real-time. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di LabVIEW, Matlab, Python, buona capacità di lavoro in team e test automation. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

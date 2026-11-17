@@ -1,0 +1,7 @@
+ID: 169
+Area: Informatica
+Ruolo: Data Engineer
+Azienda: Gruppo Gpi
+Località: Milano
+
+Data Engineer - Gruppo Gpi (Milano, Ibrido). Contratto: Tempo indeterminato; profilo: Middle. Attività principali: progettazione di architetture backend e API per piattaforme digitali; testing, quality assurance e documentazione tecnica. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di PLC/SCADA, OPC-UA, Industrial IoT, buona capacità di lavoro in team e SQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

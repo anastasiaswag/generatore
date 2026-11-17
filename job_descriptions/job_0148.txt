@@ -1,0 +1,7 @@
+ID: 148
+Area: Informatica
+Ruolo: Sistemista Networking
+Azienda: Kineton
+Località: Collegno
+
+Sistemista Networking - Kineton (Collegno, Da remoto). Contratto: Apprendistato; profilo: Senior. Attività principali: sviluppo firmware/embedded software per dispositivi connessi; integrazione di sistemi IT, database e servizi cloud. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di AI/ML, Computer Vision, PyTorch, buona capacità di lavoro in team e MLOps. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

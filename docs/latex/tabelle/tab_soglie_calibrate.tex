@@ -1,0 +1,26 @@
+% Soglie calibrate per encoder — la prova che non sono trasferibili
+\begin{table}[htbp]
+  \centering
+  \caption{Soglie di similarità ricavate dalla calibrazione automatica, per
+           ciascun encoder. La soglia sull'occupazione si dispone su due livelli
+           nettamente separati secondo la famiglia di addestramento: attorno a
+           0,83 per E5, attorno a 0,54 per le altre due. Il valore 0,72 scelto
+           inizialmente osservando i punteggi di e5-base non è quindi un
+           parametro del sistema ma un parametro di quel modello.}
+  \label{tab:soglie-calibrate}
+  \begin{tabular}{llrrrrr}
+    \toprule
+    \textbf{Modello} & \textbf{Famiglia} & \textbf{Dim.}
+      & \textbf{Occup.} & \textbf{1 parola} & \textbf{$>$1 parola}
+      & \textbf{Acronimi} \\
+    \midrule
+    multilingual-e5-small & E5  & 384  & 0,84 & 0,82 & 0,88 & 0,90 \\
+    multilingual-e5-base  & E5  & 768  & 0,82 & 0,82 & 0,88 & 0,90 \\
+    \midrule
+    MiniLM-L12-v2         & S-T & 384  & 0,52 & 0,82 & 0,90 & 0,94 \\
+    mpnet-base-v2         & S-T & 768  & 0,56 & 0,82 & 0,82 & 0,98 \\
+    \midrule
+    bge-m3                & BGE & 1024 & 0,54 & 0,82 & 0,80 & 0,84 \\
+    \bottomrule
+  \end{tabular}
+\end{table}

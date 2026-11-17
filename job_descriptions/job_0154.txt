@@ -1,0 +1,7 @@
+ID: 154
+Area: Informatica
+Ruolo: PLC/SCADA Software Engineer
+Azienda: Teoresi Group
+Località: Roma
+
+PLC/SCADA Software Engineer - Teoresi Group (Roma, Ibrido). Contratto: Tempo indeterminato; profilo: Junior. Attività principali: analisi dati, pipeline ETL e modelli predittivi; sviluppo firmware/embedded software per dispositivi connessi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di C/C++, Linux Embedded, Git, buona capacità di lavoro in team e Yocto. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 409
+Area: Elettronica
+Ruolo: Hardware Engineer
+Azienda: Intecs
+Località: Foligno
+
+Hardware Engineer - Intecs (Foligno, In sede). Contratto: Tempo determinato; profilo: Neolaureato. Attività principali: redazione documentazione tecnica, specifiche e report di validazione; integrazione sensori, bus di comunicazione e sistemi di controllo. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di sensori, I2C/SPI/UART, microcontrollori, buona capacità di lavoro in team e firmware. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

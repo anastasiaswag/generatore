@@ -1,0 +1,11 @@
+{
+  "modello": "intfloat/multilingual-e5-base",
+  "soglie": {
+    "sw": 0.82,
+    "mw": 0.9,
+    "acr": 0.84,
+    "occ": 0.84
+  },
+  "n_taratura": 15,
+  "n_riporto": 45
+}

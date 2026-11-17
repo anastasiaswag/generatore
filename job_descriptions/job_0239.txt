@@ -1,0 +1,7 @@
+ID: 239
+Area: Informatica
+Ruolo: Backend Developer
+Azienda: Net Reply
+Località: Vicenza
+
+Backend Developer - Net Reply (Vicenza, In sede). Contratto: Tempo indeterminato; profilo: Senior. Attività principali: integrazione di sistemi IT, database e servizi cloud; sviluppo e manutenzione di applicazioni software in ambiente enterprise. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Python, SQL, Docker, buona capacità di lavoro in team e Kubernetes. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

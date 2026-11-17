@@ -1,0 +1,7 @@
+ID: 105
+Area: Informatica
+Ruolo: Software Engineer
+Azienda: Capgemini
+Località: Napoli
+
+Software Engineer - Capgemini (Napoli, In sede). Contratto: Tempo determinato; profilo: Senior. Attività principali: testing, quality assurance e documentazione tecnica; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Windows/Linux Server, VMware, Backup, buona capacità di lavoro in team e Networking. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

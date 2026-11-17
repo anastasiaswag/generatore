@@ -1,0 +1,7 @@
+ID: 439
+Area: Elettronica
+Ruolo: Junior PCB Designer
+Azienda: Intecs
+Località: Trieste
+
+Junior PCB Designer - Intecs (Trieste, In sede). Contratto: Consulenza; profilo: Middle. Attività principali: sviluppo firmware per microcontrollori e sistemi real-time; test di laboratorio, debugging, misure e qualifiche EMC. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di RF, antenne, strumentazione, buona capacità di lavoro in team e test di laboratorio. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 200
+Area: Informatica
+Ruolo: AI/ML Engineer
+Azienda: YCOM
+Località: Veneto
+
+AI/ML Engineer - YCOM (Veneto, In sede). Contratto: Tempo indeterminato; profilo: Neolaureato. Attività principali: progettazione di architetture backend e API per piattaforme digitali; integrazione di sistemi IT, database e servizi cloud. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di PLC/SCADA, OPC-UA, Industrial IoT, buona capacità di lavoro in team e SQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

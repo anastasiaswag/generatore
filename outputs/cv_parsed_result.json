@@ -1,0 +1,224 @@
+{
+  "cv_id": "parsed_cv_test.pdf",
+  "cv": {
+    "persona": {
+      "seniority": "senior",
+      "years_of_experience": 11.0
+    },
+    "education": {
+      "degree_id": "deg_lm53",
+      "candidates": [
+        {
+          "id": "deg_lm53",
+          "label": "Scienza e Ingegneria dei Materiali",
+          "score": 0.8641
+        },
+        {
+          "id": "deg_lm33",
+          "label": "Ingegneria Meccanica",
+          "score": 0.8544
+        },
+        {
+          "id": "deg_l30",
+          "label": "Scienze e Tecnologie Fisiche",
+          "score": 0.82
+        }
+      ]
+    },
+    "languages": [
+      {
+        "lang_id": "lang_en_B2",
+        "label": "Inglese — B2",
+        "score": 1.0
+      },
+      {
+        "lang_id": "lang_it_native",
+        "label": "Italian — native",
+        "score": 1.0
+      }
+    ],
+    "skills": {
+      "essential_ids": [],
+      "optional_ids": [
+        "3506d31c-3bb0-4a6d-90bb-aff03bca01b5",
+        "e26e07ca-4a35-42e3-940d-e5868fd38fba",
+        "52f53839-858c-482d-a9cb-c2f40dd1c506",
+        "7808ccb8-9797-4864-80e3-37119ca32b30",
+        "a4557e97-d7f9-4669-88b0-c57591acce80",
+        "6a609f8f-1451-4102-ad2d-62c5270e1237",
+        "09f4c52b-ac72-4f0e-a8ae-78bb1d7bffba",
+        "d181042e-c531-4461-af7c-4071c53418fe",
+        "a311a3e3-efe3-4cce-9515-c07eb0341e4f",
+        "b1fd9eda-3d2e-48ef-9c1d-0ba318e3c7e6",
+        "6d87af20-e2fe-4303-ac80-337e5266b242",
+        "cffc3e97-e942-4b13-a2f3-0bf4910c06d3",
+        "f266380e-9830-44db-8f93-60a6e8b9a1b6",
+        "1973c966-f236-40c9-b2d4-5d71a89019be",
+        "bb99af26-71ff-4dca-bde7-1eb1f6194426",
+        "339ac029-066a-4985-9f9d-b3d7c8fea0bb"
+      ],
+      "all_matches": [
+        {
+          "id": "3506d31c-3bb0-4a6d-90bb-aff03bca01b5",
+          "label": "set up date",
+          "score": 0.9056
+        },
+        {
+          "id": "e26e07ca-4a35-42e3-940d-e5868fd38fba",
+          "label": "building materials industries",
+          "score": 0.9014
+        },
+        {
+          "id": "52f53839-858c-482d-a9cb-c2f40dd1c506",
+          "label": "management of time in casting processes",
+          "score": 0.8967
+        },
+        {
+          "id": "7808ccb8-9797-4864-80e3-37119ca32b30",
+          "label": "composting overseeing",
+          "score": 0.8903
+        },
+        {
+          "id": "a4557e97-d7f9-4669-88b0-c57591acce80",
+          "label": "mechanics of solids",
+          "score": 0.8902
+        },
+        {
+          "id": "6a609f8f-1451-4102-ad2d-62c5270e1237",
+          "label": "office administration",
+          "score": 0.8896
+        },
+        {
+          "id": "09f4c52b-ac72-4f0e-a8ae-78bb1d7bffba",
+          "label": "transportation software relating to ERP systems",
+          "score": 0.8863
+        },
+        {
+          "id": "d181042e-c531-4461-af7c-4071c53418fe",
+          "label": "write on electronic devices",
+          "score": 0.885
+        },
+        {
+          "id": "a311a3e3-efe3-4cce-9515-c07eb0341e4f",
+          "label": "daily work overseeing",
+          "score": 0.8841
+        },
+        {
+          "id": "b1fd9eda-3d2e-48ef-9c1d-0ba318e3c7e6",
+          "label": "direct subordinates",
+          "score": 0.8838
+        },
+        {
+          "id": "6d87af20-e2fe-4303-ac80-337e5266b242",
+          "label": "get involved in the production's technical matters",
+          "score": 0.8817
+        },
+        {
+          "id": "cffc3e97-e942-4b13-a2f3-0bf4910c06d3",
+          "label": "understand and implement technical documentation",
+          "score": 0.8807
+        },
+        {
+          "id": "f266380e-9830-44db-8f93-60a6e8b9a1b6",
+          "label": "construction of mechanical appliances",
+          "score": 0.8806
+        },
+        {
+          "id": "1973c966-f236-40c9-b2d4-5d71a89019be",
+          "label": "MS Excel",
+          "score": 0.874
+        },
+        {
+          "id": "bb99af26-71ff-4dca-bde7-1eb1f6194426",
+          "label": "SAP ERP",
+          "score": 0.8607
+        },
+        {
+          "id": "339ac029-066a-4985-9f9d-b3d7c8fea0bb",
+          "label": "manage staff",
+          "score": 0.95,
+          "match_type": "alias"
+        }
+      ]
+    },
+    "work_experience": [
+      {
+        "job_title_id": "fdb16700-109e-4d02-949e-3213f278df93",
+        "label": "engineering and quality control manager",
+        "score": 0.9001
+      },
+      {
+        "job_title_id": "1313aeea-63a9-4b4d-82d1-dbe00ff9ed10",
+        "label": "corporate responsibility manager",
+        "score": 0.8952
+      },
+      {
+        "job_title_id": "79fed799-ab3a-43d9-bd91-414c2c3b2f57",
+        "label": "tooling engineering consultant",
+        "score": 0.8922
+      }
+    ],
+    "certifications": [
+      {
+        "id": "cert_elettrico",
+        "label": "Abilitazione PES/PAV (Lavori elettrici)",
+        "score": 0.8549
+      },
+      {
+        "id": "cert_prince2",
+        "label": "PRINCE2 Foundation",
+        "score": 0.8537
+      },
+      {
+        "id": "cert_prince2p",
+        "label": "PRINCE2 Practitioner",
+        "score": 0.8497
+      },
+      {
+        "id": "cert_haccp",
+        "label": "Certificazione HACCP",
+        "score": 0.8431
+      },
+      {
+        "id": "cert_rspp",
+        "label": "RSPP (Responsabile Servizio Prevenzione e Protezione)",
+        "score": 0.8259
+      },
+      {
+        "id": "cert_muletto",
+        "label": "Abilitazione Muletto / Carrello Elevatore",
+        "score": 0.8212
+      },
+      {
+        "id": "cert_cpa",
+        "label": "CPA (Certified Public Accountant)",
+        "score": 0.8205
+      },
+      {
+        "id": "cert_bls",
+        "label": "BLS-D (Basic Life Support & Defibrillation)",
+        "score": 0.8072
+      },
+      {
+        "id": "cert_pat_cqc",
+        "label": "CQC (Certificato di Qualificazione Conducenti)",
+        "score": 0.8036
+      },
+      {
+        "id": "cert_pat_b",
+        "label": "Patente B (autoveicoli)",
+        "score": 0.7977
+      }
+    ]
+  },
+  "debug": {
+    "section_sizes": {
+      "experience": 87,
+      "education": 3,
+      "skills": 20,
+      "languages": 0,
+      "certifications": 0,
+      "summary": 9
+    }
+  }
+}

@@ -1,0 +1,7 @@
+ID: 39
+Area: Informatica
+Ruolo: Junior Agentic Developer
+Azienda: Reply
+Località: Veneto
+
+Junior Agentic Developer - Reply (Veneto, In sede). Contratto: Tempo indeterminato; profilo: Neolaureato. Attività principali: integrazione di sistemi IT, database e servizi cloud; sviluppo e manutenzione di applicazioni software in ambiente enterprise. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di React, Node.js, TypeScript, buona capacità di lavoro in team e PostgreSQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

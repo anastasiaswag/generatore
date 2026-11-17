@@ -1,0 +1,7 @@
+ID: 345
+Area: Informatica
+Ruolo: DevOps Engineer
+Azienda: aizoOn Technology Consulting
+Località: Melfi
+
+DevOps Engineer - aizoOn Technology Consulting (Melfi, Ibrido). Contratto: Tempo indeterminato; profilo: Junior. Attività principali: testing, quality assurance e documentazione tecnica; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Data pipeline, ETL, Spark, buona capacità di lavoro in team e Python. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 495
+Area: Elettronica
+Ruolo: Field Application Engineer
+Azienda: TempJob Italia
+Località: Genova
+
+Field Application Engineer - TempJob Italia (Genova, In sede). Contratto: Tempo indeterminato; profilo: Junior. Attività principali: redazione documentazione tecnica, specifiche e report di validazione; test di laboratorio, debugging, misure e qualifiche EMC. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di C embedded, STM32, RTOS, buona capacità di lavoro in team e debugging. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

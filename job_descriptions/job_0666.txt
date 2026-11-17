@@ -1,0 +1,7 @@
+ID: 666
+Area: Elettronica
+Ruolo: RF Engineer
+Azienda: exida
+Località: Pozzuoli
+
+RF Engineer - exida (Pozzuoli, In sede). Contratto: Tempo indeterminato; profilo: Middle. Attività principali: sviluppo firmware per microcontrollori e sistemi real-time; integrazione sensori, bus di comunicazione e sistemi di controllo. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di RF, antenne, strumentazione, buona capacità di lavoro in team e test di laboratorio. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

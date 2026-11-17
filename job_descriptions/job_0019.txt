@@ -1,0 +1,7 @@
+ID: 19
+Area: Informatica
+Ruolo: Software Engineer
+Azienda: Net Reply
+Località: Bologna
+
+Software Engineer - Net Reply (Bologna, In sede). Contratto: Consulenza; profilo: Stage/Tirocinio. Attività principali: integrazione di sistemi IT, database e servizi cloud; progettazione di architetture backend e API per piattaforme digitali. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Java, Spring Boot, REST API, buona capacità di lavoro in team e Microservizi. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

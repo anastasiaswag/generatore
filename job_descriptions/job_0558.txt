@@ -1,0 +1,7 @@
+ID: 558
+Area: Elettronica
+Ruolo: Vehicle Electric Engineer
+Azienda: Alten Italia
+Località: Milano
+
+Vehicle Electric Engineer - Alten Italia (Milano, Ibrido). Contratto: Consulenza; profilo: Junior. Attività principali: progettazione e validazione di schede elettroniche e apparati embedded; sviluppo firmware per microcontrollori e sistemi real-time. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di railway/automotive, CAN bus, LIN, buona capacità di lavoro in team e diagnostica. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

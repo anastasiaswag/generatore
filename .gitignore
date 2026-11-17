@@ -1,0 +1,63 @@
+# ──────────────────────────────────────────────────────────────────────
+# CREDENZIALI — mai nel repository
+# ──────────────────────────────────────────────────────────────────────
+# Il file .env contiene le chiavi di Groq e OpenRouter usate dai
+# generatori del dataset. Il codice le legge con os.getenv(), quindi il
+# repository resta funzionante: chi clona crea il proprio .env partendo
+# da .env.example.
+.env
+.env.*
+!.env.example
+*.key
+credentials.json
+
+# ──────────────────────────────────────────────────────────────────────
+# DATI PERSONALI — non pubblicare mai
+# ──────────────────────────────────────────────────────────────────────
+# pool_annotazione.json contiene il TESTO INTEGRALE dei 15 curriculum reali.
+# I file *_nomi.json legano gli identificativi anonimi ai nomi delle persone.
+# Git conserva la cronologia: una volta pubblicati non si tolgono più.
+outputs/*_nomi.json
+outputs/pool_annotazione.json
+outputs/cv_reali_*.json
+outputs/cert_sezione.json
+
+# ──────────────────────────────────────────────────────────────────────
+# CACHE DI EMBEDDING — rigenerabili, e oltre il limite di 100 MB di GitHub
+# ──────────────────────────────────────────────────────────────────────
+# Si ricalcolano da sole al primo avvio (circa un'ora, una volta sola).
+# Il codice le usa solo se esistono sia il .pt sia il _meta.json
+# corrispondente, quindi escluderle entrambe è sicuro.
+*.pt
+*_cache.pt
+*_meta.json
+*_pref.json
+
+# ──────────────────────────────────────────────────────────────────────
+# AMBIENTI E TEMPORANEI
+# ──────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+.venv/
+.venv-esco/
+venv/
+env/
+.ipynb_checkpoints/
+
+# ──────────────────────────────────────────────────────────────────────
+# SISTEMA OPERATIVO ED EDITOR
+# ──────────────────────────────────────────────────────────────────────
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# ──────────────────────────────────────────────────────────────────────
+# OPZIONALE — togliere il commento per un repository leggero
+# ──────────────────────────────────────────────────────────────────────
+# Senza questa riga il repository pesa circa 200 MB: ESCO, il dataset
+# sintetico e l'indice dei corsi. Con questa riga scende a pochi MB, ma
+# chi clona deve ricostruire i dati (ESCO è scaricabile pubblicamente,
+# il dataset sintetico si rigenera con src/generate_dataset.py).
+# dataset/

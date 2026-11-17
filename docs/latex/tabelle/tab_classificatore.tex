@@ -1,0 +1,17 @@
+% Confronto classificatore vs regola scritta a mano
+\begin{table}[htbp]
+  \centering
+  \caption{Confronto fra la regola scritta a mano e il classificatore appreso,
+           valutati su 27 occupazioni mai viste in addestramento. Entrambi
+           costruiti sulle stesse 81 occupazioni di training.}
+  \label{tab:classificatore}
+  \begin{tabular}{lccc}
+    \toprule
+    \textbf{Filtro} & \textbf{Precision} & \textbf{Recall} & \textbf{F1} \\
+    \midrule
+    Nessuno                        & 0,532 & 1,000 & 0,694 \\
+    Denylist (41 etichette)        & 0,567 & 0,988 & 0,721 \\
+    \textbf{Classificatore appreso} & \textbf{0,643} & 0,856 & \textbf{0,734} \\
+    \bottomrule
+  \end{tabular}
+\end{table}

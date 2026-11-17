@@ -1,0 +1,7 @@
+ID: 463
+Area: Elettronica
+Ruolo: PCB Designer
+Azienda: Sumitomo Electric
+Località: Melfi
+
+PCB Designer - Sumitomo Electric (Melfi, In sede). Contratto: Consulenza; profilo: Neolaureato. Attività principali: progettazione e validazione di schede elettroniche e apparati embedded; integrazione sensori, bus di comunicazione e sistemi di controllo. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di power electronics, inverter, convertitori, buona capacità di lavoro in team e EMC. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

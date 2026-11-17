@@ -1,0 +1,7 @@
+ID: 544
+Area: Elettronica
+Ruolo: Ingegnere Elettronico Junior
+Azienda: Leonardo
+Località: Napoli
+
+Ingegnere Elettronico Junior - Leonardo (Napoli, Ibrido). Contratto: Tempo indeterminato; profilo: Senior. Attività principali: redazione documentazione tecnica, specifiche e report di validazione; integrazione sensori, bus di comunicazione e sistemi di controllo. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di LabVIEW, Matlab, Python, buona capacità di lavoro in team e test automation. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

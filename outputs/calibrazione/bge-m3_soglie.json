@@ -1,0 +1,11 @@
+{
+  "modello": "BAAI/bge-m3",
+  "soglie": {
+    "sw": 0.82,
+    "mw": 0.8,
+    "acr": 0.84,
+    "occ": 0.54
+  },
+  "n_taratura": 202,
+  "n_riporto": 608
+}

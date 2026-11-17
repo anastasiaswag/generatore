@@ -1,0 +1,478 @@
+{
+  "description": "Dizionario supplementare skill: pattern italiani → ESCO ID. Bypassa la pipeline semantica per le skill verb-start che il filtro _ESCO_TASK_LABEL_RE altrimenti rimuove. Ogni entry ha una lista di pattern regex (case-insensitive) che vengono cercati nel testo grezzo del CV.",
+  "version": "1.0",
+  "entries": [
+    {
+      "esco_id": "415abd43-e8e5-4643-b5da-5f11307af57a",
+      "label": "use different communication channels",
+      "patterns": [
+        "doti comunicative",
+        "capacità comunicative",
+        "abilità comunicative",
+        "competenze comunicative",
+        "comunicazione efficace",
+        "eccellenti capacità di comunicazione",
+        "ottime capacità comunicative",
+        "forte capacità comunicativa",
+        "comunicazione interpersonale"
+      ]
+    },
+    {
+      "esco_id": "7ff2c668-0e86-418a-a962-4958262ee337",
+      "label": "use communication techniques",
+      "patterns": [
+        "tecniche di comunicazione",
+        "tecniche comunicative",
+        "comunicare efficacemente",
+        "metodi di comunicazione"
+      ]
+    },
+    {
+      "esco_id": "68698869-c13c-4563-adc7-118b7644f45d",
+      "label": "identify customer's needs",
+      "patterns": [
+        "bisogni del cliente",
+        "esigenze del cliente",
+        "necessità del cliente",
+        "analisi dei bisogni",
+        "customer needs",
+        "identificare le esigenze",
+        "rilevazione bisogni"
+      ]
+    },
+    {
+      "esco_id": "339ac029-066a-4985-9f9d-b3d7c8fea0bb",
+      "label": "manage staff",
+      "patterns": [
+        "gestione del personale",
+        "gestione risorse umane",
+        "coordinamento del team",
+        "gestione team",
+        "gestione collaboratori",
+        "management del personale",
+        "supervisione del personale",
+        "coordinamento risorse"
+      ]
+    },
+    {
+      "esco_id": "bf5d77ad-e18c-48d8-83f0-bc79c011c74a",
+      "label": "develop professional network",
+      "patterns": [
+        "networking",
+        "network professionale",
+        "rete professionale",
+        "sviluppo rete professionale",
+        "relazioni professionali",
+        "costruzione network"
+      ]
+    },
+    {
+      "esco_id": "334e3e49-fb02-4051-809a-f06adfdc1c40",
+      "label": "troubleshoot",
+      "patterns": [
+        "troubleshooting",
+        "risoluzione guasti",
+        "diagnosi guasti",
+        "diagnosi problemi tecnici",
+        "problem solving tecnico",
+        "risoluzione anomalie",
+        "diagnostica tecnica",
+        "fault finding",
+        "fault diagnosis"
+      ]
+    },
+    {
+      "esco_id": "c81c9ea3-4689-4146-9076-24dd175c69bc",
+      "label": "carry out active selling",
+      "patterns": [
+        "vendita attiva",
+        "tecniche di vendita",
+        "attività di vendita",
+        "vendita diretta",
+        "promozione prodotti",
+        "sviluppo commerciale",
+        "acquisizione clienti"
+      ]
+    },
+    {
+      "esco_id": "c643e59b-d74c-4f44-b76e-6e1d96c05ec4",
+      "label": "use safety equipment in construction",
+      "patterns": [
+        "sicurezza in cantiere",
+        "attrezzature di sicurezza edilizia",
+        "dispositivi sicurezza cantiere",
+        "norme sicurezza cantiere",
+        "sicurezza sul lavoro in cantiere"
+      ]
+    },
+    {
+      "esco_id": "e54ff029-1ce9-447d-a5b2-eb7283a23e6e",
+      "label": "train employees",
+      "patterns": [
+        "formazione del personale",
+        "formazione dipendenti",
+        "addestramento del personale",
+        "affiancamento",
+        "coaching",
+        "tutoraggio",
+        "mentoring",
+        "training del personale",
+        "onboarding"
+      ]
+    },
+    {
+      "esco_id": "1dae8445-12e5-423a-bb26-824010e299b9",
+      "label": "ensure compliance with legal requirements",
+      "patterns": [
+        "conformità normativa",
+        "compliance normativa",
+        "adempimenti normativi",
+        "rispetto delle normative",
+        "normative vigenti",
+        "requisiti normativi",
+        "conformità legislativa",
+        "adempimento normativo"
+      ]
+    },
+    {
+      "esco_id": "7837ef5c-2c81-4a89-8227-b4d4f1f7331e",
+      "label": "maintain professional records",
+      "patterns": [
+        "tenuta registri",
+        "gestione documentazione",
+        "documentazione professionale",
+        "archiviazione documenti",
+        "gestione archivio",
+        "mantenimento registri",
+        "documentazione tecnica"
+      ]
+    },
+    {
+      "esco_id": "debb8d81-ed7f-447d-853a-5d107fda6fcf",
+      "label": "provide customer follow-up services",
+      "patterns": [
+        "post.?vendita",
+        "follow.?up clienti",
+        "assistenza post.?vendita",
+        "servizio post.?vendita",
+        "follow up",
+        "gestione post.?vendita"
+      ]
+    },
+    {
+      "esco_id": "b92758d4-4591-4df1-9ceb-f907aa71ebd9",
+      "label": "use measurement instruments",
+      "patterns": [
+        "strumenti di misura",
+        "strumentazione di misura",
+        "calibrazione strumenti",
+        "strumenti di misurazione",
+        "uso strumentazione",
+        "metrologia",
+        "misurazioni strumentali"
+      ]
+    },
+    {
+      "esco_id": "51754b8a-3e2c-4cc1-86e6-cf510d9c6fe4",
+      "label": "use personal protection equipment",
+      "patterns": [
+        "dispositivi di protezione individuale",
+        "\\bDPI\\b",
+        "equipaggiamento protettivo",
+        "protezione individuale",
+        "dispositivi protettivi",
+        "attrezzature di protezione"
+      ]
+    },
+    {
+      "esco_id": "75dfe1ee-5935-42ce-b820-697f827825c3",
+      "label": "maintain customer service",
+      "patterns": [
+        "customer service",
+        "customer care",
+        "assistenza clienti",
+        "servizio clienti",
+        "soddisfazione del cliente",
+        "customer satisfaction",
+        "gestione clienti",
+        "relazione con il cliente"
+      ]
+    },
+    {
+      "esco_id": "21c5790c-0930-4d74-b3b0-84caf5af12ea",
+      "label": "manage budgets",
+      "patterns": [
+        "gestione budget",
+        "budget management",
+        "pianificazione budget",
+        "controllo budget",
+        "gestione finanziaria",
+        "budget planning",
+        "controllo costi",
+        "gestione costi"
+      ]
+    },
+    {
+      "esco_id": "0b144726-21c2-46ed-8d13-c03d27f61604",
+      "label": "perform multiple tasks at the same time",
+      "patterns": [
+        "multitasking",
+        "multi.?tasking",
+        "gestione simultanea",
+        "più attività contemporaneamente",
+        "lavorare su più progetti",
+        "gestione attività multiple"
+      ]
+    },
+    {
+      "esco_id": "7aa52bdc-9c56-4341-be65-e8e30f64403f",
+      "label": "monitor automated machines",
+      "patterns": [
+        "monitoraggio macchine automatizzate",
+        "supervisione impianti",
+        "controllo automazione",
+        "supervisione linea produzione",
+        "monitoraggio impianti automatizzati",
+        "supervisione macchine"
+      ]
+    },
+    {
+      "esco_id": "a349fbfc-8b65-44f2-a112-761be2218cbc",
+      "label": "report defective manufacturing materials",
+      "patterns": [
+        "segnalazione difetti",
+        "reporting non conformità",
+        "segnalazione materiali difettosi",
+        "non conformità produttive",
+        "segnalazione anomalie produttive",
+        "report difetti"
+      ]
+    },
+    {
+      "esco_id": "b1272de4-1f5f-408b-8b26-061f2550fc72",
+      "label": "e-commerce systems",
+      "patterns": [
+        "\\be-?commerce\\b",
+        "commercio elettronico",
+        "piattaforme e.?commerce",
+        "negozio online",
+        "shop online",
+        "vendita online",
+        "marketplace"
+      ]
+    },
+    {
+      "esco_id": "a89c463d-e6f0-417d-9216-b59b92249226",
+      "label": "carry out order intake",
+      "patterns": [
+        "gestione ordini",
+        "presa ordini",
+        "order management",
+        "inserimento ordini",
+        "acquisizione ordini",
+        "ricezione ordini",
+        "order intake"
+      ]
+    },
+    {
+      "esco_id": "af607e5e-4ba1-4e5f-a2a6-dc05806567c7",
+      "label": "coordinate technological activities",
+      "patterns": [
+        "coordinamento attività tecnologiche",
+        "coordinamento tecnico",
+        "coordinamento IT",
+        "gestione attività tecnologiche",
+        "coordinamento tecnologico"
+      ]
+    },
+    {
+      "esco_id": "61970f8b-099c-4e7e-82e0-9ccdced0baf3",
+      "label": "assist customers",
+      "patterns": [
+        "supporto al cliente",
+        "supporto clienti",
+        "aiuto ai clienti",
+        "assistenza al cliente",
+        "assistenza verso il cliente"
+      ]
+    },
+    {
+      "esco_id": "dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1",
+      "label": "build business relationships",
+      "patterns": [
+        "relazioni commerciali",
+        "sviluppo business",
+        "business development",
+        "costruzione relazioni commerciali",
+        "sviluppo partnership",
+        "relazioni con partner",
+        "sviluppo relazioni con clienti"
+      ]
+    },
+    {
+      "esco_id": "faf8943c-72ff-4736-a587-25508695d6f0",
+      "label": "maintain financial records",
+      "patterns": [
+        "registrazioni contabili",
+        "prima nota",
+        "tenuta libri contabili",
+        "archivio contabile",
+        "contabilità generale",
+        "libri contabili",
+        "registrazione contabile"
+      ]
+    },
+    {
+      "esco_id": "69f23426-9279-4fe6-a283-24c2aa4c855d",
+      "label": "ensure equipment availability",
+      "patterns": [
+        "disponibilità attrezzature",
+        "manutenzione preventiva",
+        "gestione manutenzione",
+        "disponibilità impianti",
+        "gestione attrezzature"
+      ]
+    },
+    {
+      "esco_id": "912f7556-6b75-4d73-9658-4e710050199d",
+      "label": "apply animal hygiene practices",
+      "patterns": [
+        "igiene degli animali",
+        "pratiche igieniche animali",
+        "igiene veterinaria",
+        "pulizia e igiene animali",
+        "norme igieniche veterinarie"
+      ]
+    },
+    {
+      "esco_id": "d33b9bd2-6dcb-4abc-b3c2-96b8983d5c97",
+      "label": "assess animal behaviour",
+      "patterns": [
+        "comportamento animale",
+        "valutazione comportamento animale",
+        "etologia",
+        "analisi comportamentale animali",
+        "osservazione comportamento animale"
+      ]
+    },
+    {
+      "esco_id": "546aaf54-8f69-4573-837c-b60e00327edc",
+      "label": "provide first aid to animals",
+      "patterns": [
+        "primo soccorso animali",
+        "pronto soccorso veterinario",
+        "soccorso animali",
+        "emergenze veterinarie",
+        "assistenza animali infortunati"
+      ]
+    },
+    {
+      "esco_id": "89d25455-184b-4c20-9cbc-9f5f89df500f",
+      "label": "maintain animal accommodation hygienic",
+      "patterns": [
+        "pulizia stalle",
+        "igiene ricoveri animali",
+        "manutenzione strutture animali",
+        "pulizia e sanificazione stalle",
+        "igiene strutture zootecniche"
+      ]
+    },
+    {
+      "esco_id": "80c4d5a3-fe4a-4f6f-9bb0-1f6605f98d43",
+      "label": "create animal records",
+      "patterns": [
+        "schede animali",
+        "registrazioni animali",
+        "cartelle cliniche animali",
+        "anagrafe animale",
+        "documentazione veterinaria"
+      ]
+    },
+    {
+      "esco_id": "3ab0d7fc-a266-4609-bdab-85d09d5de10e",
+      "label": "provide nutrition to animals",
+      "patterns": [
+        "alimentazione animali",
+        "nutrizione animale",
+        "gestione alimentazione animali",
+        "razioni alimentari animali",
+        "mangimi e alimentazione"
+      ]
+    },
+    {
+      "esco_id": "51f30679-bc69-4fc8-b456-d3e6a560fe0b",
+      "label": "assist in transportation of animals",
+      "patterns": [
+        "trasporto animali",
+        "gestione trasporto animali",
+        "movimentazione animali",
+        "assistenza trasporto animali"
+      ]
+    },
+    {
+      "esco_id": "d300a8db-f353-4acb-aa6e-9dc757daf1bf",
+      "label": "operate farm equipment",
+      "patterns": [
+        "macchinari agricoli",
+        "attrezzature agricole",
+        "macchine agricole",
+        "gestione mezzi agricoli",
+        "utilizzo macchinari azienda agricola"
+      ]
+    },
+    {
+      "esco_id": "7b4bc709-5888-4f78-bbaf-fb760d4e2e4b",
+      "label": "maintain cleaning equipment",
+      "patterns": [
+        "manutenzione attrezzature pulizia",
+        "gestione attrezzature pulizia",
+        "cura strumenti pulizia",
+        "attrezzature per la pulizia"
+      ]
+    },
+    {
+      "esco_id": "4f1b6304-f54a-42f0-9604-5427a28d240f",
+      "label": "perform cleaning duties",
+      "patterns": [
+        "attività di pulizia",
+        "mansioni di pulizia",
+        "servizi di pulizia",
+        "pulizie professionali",
+        "pulizia ambienti"
+      ]
+    },
+    {
+      "esco_id": "57c1debf-3867-4e64-baf8-ce70d84f88c9",
+      "label": "maintain store cleanliness",
+      "patterns": [
+        "pulizia negozio",
+        "igiene del punto vendita",
+        "mantenimento pulizia punto vendita",
+        "pulizia e ordine del negozio"
+      ]
+    },
+    {
+      "esco_id": "188ad0ce-1703-4d41-801b-201d739aeede",
+      "label": "maintain storage facilities",
+      "patterns": [
+        "gestione magazzino",
+        "manutenzione magazzino",
+        "gestione deposito",
+        "magazzinaggio",
+        "gestione aree di stoccaggio"
+      ]
+    },
+    {
+      "esco_id": "cde9911c-f92e-4de1-811f-336e177ac4ce",
+      "label": "chemistry",
+      "patterns": [
+        "\\bchimica\\b",
+        "analisi chimiche",
+        "laboratorio chimico",
+        "competenze chimiche",
+        "processi chimici",
+        "reazioni chimiche"
+      ]
+    }
+  ]
+}

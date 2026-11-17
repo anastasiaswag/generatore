@@ -1,0 +1,7 @@
+ID: 604
+Area: Elettronica
+Ruolo: Junior Electronic Process Engineer
+Azienda: Sumitomo Electric
+Località: Bologna
+
+Junior Electronic Process Engineer - Sumitomo Electric (Bologna, In sede). Contratto: Tempo indeterminato; profilo: Middle. Attività principali: supporto a progetti automotive, railway, industrial o space/defence; progettazione e validazione di schede elettroniche e apparati embedded. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di sensori, I2C/SPI/UART, microcontrollori, buona capacità di lavoro in team e firmware. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

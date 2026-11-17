@@ -1,0 +1,7 @@
+ID: 517
+Area: Elettronica
+Ruolo: Firmware Engineer
+Azienda: SEWS-CABIND
+Località: Caselle Torinese
+
+Firmware Engineer - SEWS-CABIND (Caselle Torinese, In sede). Contratto: Tempo indeterminato; profilo: Middle. Attività principali: redazione documentazione tecnica, specifiche e report di validazione; progettazione e validazione di schede elettroniche e apparati embedded. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di C embedded, STM32, RTOS, buona capacità di lavoro in team e debugging. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

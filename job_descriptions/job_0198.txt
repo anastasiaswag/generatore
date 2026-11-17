@@ -1,0 +1,7 @@
+ID: 198
+Area: Informatica
+Ruolo: Application Engineer IT
+Azienda: Akkodis
+Località: Veneto
+
+Application Engineer IT - Akkodis (Veneto, In sede). Contratto: Apprendistato; profilo: Stage/Tirocinio. Attività principali: sviluppo e manutenzione di applicazioni software in ambiente enterprise; sviluppo firmware/embedded software per dispositivi connessi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di React, Node.js, TypeScript, buona capacità di lavoro in team e PostgreSQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

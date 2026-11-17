@@ -1,0 +1,7 @@
+ID: 249
+Area: Informatica
+Ruolo: IoT Platform Engineer
+Azienda: Akkodis
+Località: Verona
+
+IoT Platform Engineer - Akkodis (Verona, In sede). Contratto: Apprendistato; profilo: Middle. Attività principali: sviluppo firmware/embedded software per dispositivi connessi; testing, quality assurance e documentazione tecnica. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di PLC/SCADA, OPC-UA, Industrial IoT, buona capacità di lavoro in team e SQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

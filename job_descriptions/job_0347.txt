@@ -1,0 +1,7 @@
+ID: 347
+Area: Informatica
+Ruolo: Cybersecurity Engineer
+Azienda: Capgemini
+Località: Emilia Romagna
+
+Cybersecurity Engineer - Capgemini (Emilia Romagna, Ibrido). Contratto: Tempo determinato; profilo: Junior. Attività principali: testing, quality assurance e documentazione tecnica; gestione infrastruttura, deployment e automazione CI/CD. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Windows/Linux Server, VMware, Backup, buona capacità di lavoro in team e Networking. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

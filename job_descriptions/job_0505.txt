@@ -1,0 +1,7 @@
+ID: 505
+Area: Elettronica
+Ruolo: Junior Electrical/Electronic Engineer
+Azienda: Honeywell
+Località: Firenze
+
+Junior Electrical/Electronic Engineer - Honeywell (Firenze, In sede). Contratto: Tempo indeterminato; profilo: Junior. Attività principali: integrazione sensori, bus di comunicazione e sistemi di controllo; sviluppo firmware per microcontrollori e sistemi real-time. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di FMEDA, DFA, safety analysis, buona capacità di lavoro in team e validazione. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

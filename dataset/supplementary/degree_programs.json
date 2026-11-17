@@ -1,0 +1,711 @@
+{
+  "programs": {
+    "deg_l8": {
+      "id": "deg_l8",
+      "label": "Ingegneria dell'Informazione",
+      "class": "L-8",
+      "cycle": "triennale",
+      "area": "STEM",
+      "isco_relevant": [
+        "2",
+        "3"
+      ],
+      "weight": 0.6
+    },
+    "deg_lm32": {
+      "id": "deg_lm32",
+      "label": "Ingegneria Informatica",
+      "class": "LM-32",
+      "cycle": "magistrale",
+      "area": "STEM",
+      "isco_relevant": [
+        "2",
+        "3"
+      ],
+      "weight": 0.8
+    },
+    "deg_lm53": {
+      "id": "deg_lm53",
+      "label": "Scienza e Ingegneria dei Materiali",
+      "class": "LM-53",
+      "cycle": "magistrale",
+      "area": "STEM",
+      "isco_relevant": [
+        "2",
+        "3"
+      ],
+      "weight": 0.8
+    },
+    "deg_l31": {
+      "id": "deg_l31",
+      "label": "Scienze e Tecnologie Informatiche",
+      "class": "L-31",
+      "cycle": "triennale",
+      "area": "STEM",
+      "isco_relevant": [
+        "2",
+        "3"
+      ],
+      "weight": 0.6
+    },
+    "deg_lm18": {
+      "id": "deg_lm18",
+      "label": "Informatica",
+      "class": "LM-18",
+      "cycle": "magistrale",
+      "area": "STEM",
+      "isco_relevant": [
+        "2",
+        "3"
+      ],
+      "weight": 0.8
+    },
+    "deg_l9": {
+      "id": "deg_l9",
+      "label": "Ingegneria Industriale",
+      "class": "L-9",
+      "cycle": "triennale",
+      "area": "STEM",
+      "isco_relevant": [
+        "2",
+        "3"
+      ],
+      "weight": 0.6
+    },
+    "deg_lm33": {
+      "id": "deg_lm33",
+      "label": "Ingegneria Meccanica",
+      "class": "LM-33",
+      "cycle": "magistrale",
+      "area": "STEM",
+      "isco_relevant": [
+        "2",
+        "3"
+      ],
+      "weight": 0.8
+    },
+    "deg_lm28": {
+      "id": "deg_lm28",
+      "label": "Ingegneria Elettrica",
+      "class": "LM-28",
+      "cycle": "magistrale",
+      "area": "STEM",
+      "isco_relevant": [
+        "2",
+        "3"
+      ],
+      "weight": 0.8
+    },
+    "deg_lm29": {
+      "id": "deg_lm29",
+      "label": "Ingegneria Elettronica",
+      "class": "LM-29",
+      "cycle": "magistrale",
+      "area": "STEM",
+      "isco_relevant": [
+        "2",
+        "3"
+      ],
+      "weight": 0.8
+    },
+    "deg_lm35": {
+      "id": "deg_lm35",
+      "label": "Ingegneria per l'Ambiente e il Territorio",
+      "class": "LM-35",
+      "cycle": "magistrale",
+      "area": "STEM",
+      "isco_relevant": [
+        "2",
+        "3"
+      ],
+      "weight": 0.8
+    },
+    "deg_l35": {
+      "id": "deg_l35",
+      "label": "Scienze Matematiche",
+      "class": "L-35",
+      "cycle": "triennale",
+      "area": "STEM",
+      "isco_relevant": [
+        "2"
+      ],
+      "weight": 0.6
+    },
+    "deg_lm40": {
+      "id": "deg_lm40",
+      "label": "Matematica",
+      "class": "LM-40",
+      "cycle": "magistrale",
+      "area": "STEM",
+      "isco_relevant": [
+        "2"
+      ],
+      "weight": 0.8
+    },
+    "deg_l30": {
+      "id": "deg_l30",
+      "label": "Scienze e Tecnologie Fisiche",
+      "class": "L-30",
+      "cycle": "triennale",
+      "area": "STEM",
+      "isco_relevant": [
+        "2"
+      ],
+      "weight": 0.6
+    },
+    "deg_lm17": {
+      "id": "deg_lm17",
+      "label": "Fisica",
+      "class": "LM-17",
+      "cycle": "magistrale",
+      "area": "STEM",
+      "isco_relevant": [
+        "2"
+      ],
+      "weight": 0.8
+    },
+    "deg_l27": {
+      "id": "deg_l27",
+      "label": "Scienze e Tecnologie Chimiche",
+      "class": "L-27",
+      "cycle": "triennale",
+      "area": "STEM",
+      "isco_relevant": [
+        "2",
+        "3"
+      ],
+      "weight": 0.6
+    },
+    "deg_lm54": {
+      "id": "deg_lm54",
+      "label": "Scienze Chimiche",
+      "class": "LM-54",
+      "cycle": "magistrale",
+      "area": "STEM",
+      "isco_relevant": [
+        "2",
+        "3"
+      ],
+      "weight": 0.8
+    },
+    "deg_l13": {
+      "id": "deg_l13",
+      "label": "Scienze Biologiche",
+      "class": "L-13",
+      "cycle": "triennale",
+      "area": "STEM",
+      "isco_relevant": [
+        "2",
+        "3"
+      ],
+      "weight": 0.6
+    },
+    "deg_lm6": {
+      "id": "deg_lm6",
+      "label": "Biologia",
+      "class": "LM-6",
+      "cycle": "magistrale",
+      "area": "STEM",
+      "isco_relevant": [
+        "2",
+        "3"
+      ],
+      "weight": 0.8
+    },
+    "deg_lmcu41": {
+      "id": "deg_lmcu41",
+      "label": "Medicina e Chirurgia",
+      "class": "LM/CU-41",
+      "cycle": "ciclo_unico",
+      "area": "Sanitario",
+      "isco_relevant": [
+        "2"
+      ],
+      "weight": 0.85
+    },
+    "deg_lmcu46": {
+      "id": "deg_lmcu46",
+      "label": "Odontoiatria e Protesi Dentaria",
+      "class": "LM/CU-46",
+      "cycle": "ciclo_unico",
+      "area": "Sanitario",
+      "isco_relevant": [
+        "2"
+      ],
+      "weight": 0.85
+    },
+    "deg_l2": {
+      "id": "deg_l2",
+      "label": "Biotecnologie",
+      "class": "L-2",
+      "cycle": "triennale",
+      "area": "Sanitario",
+      "isco_relevant": [
+        "2",
+        "3"
+      ],
+      "weight": 0.6
+    },
+    "deg_lm9": {
+      "id": "deg_lm9",
+      "label": "Biotecnologie Mediche",
+      "class": "LM-9",
+      "cycle": "magistrale",
+      "area": "Sanitario",
+      "isco_relevant": [
+        "2"
+      ],
+      "weight": 0.8
+    },
+    "deg_l22": {
+      "id": "deg_l22",
+      "label": "Scienze delle Attività Motorie",
+      "class": "L-22",
+      "cycle": "triennale",
+      "area": "Sanitario",
+      "isco_relevant": [
+        "3",
+        "5"
+      ],
+      "weight": 0.6
+    },
+    "deg_lm67": {
+      "id": "deg_lm67",
+      "label": "Scienze e Tecniche dello Sport",
+      "class": "LM-67",
+      "cycle": "magistrale",
+      "area": "Sanitario",
+      "isco_relevant": [
+        "2",
+        "3"
+      ],
+      "weight": 0.8
+    },
+    "deg_l18": {
+      "id": "deg_l18",
+      "label": "Scienze dell'Economia e della Gestione Aziendale",
+      "class": "L-18",
+      "cycle": "triennale",
+      "area": "Economico",
+      "isco_relevant": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "weight": 0.6
+    },
+    "deg_lm77": {
+      "id": "deg_lm77",
+      "label": "Scienze Economico-Aziendali",
+      "class": "LM-77",
+      "cycle": "magistrale",
+      "area": "Economico",
+      "isco_relevant": [
+        "1",
+        "2"
+      ],
+      "weight": 0.8
+    },
+    "deg_l33": {
+      "id": "deg_l33",
+      "label": "Scienze Economiche",
+      "class": "L-33",
+      "cycle": "triennale",
+      "area": "Economico",
+      "isco_relevant": [
+        "1",
+        "2",
+        "3"
+      ],
+      "weight": 0.6
+    },
+    "deg_lm56": {
+      "id": "deg_lm56",
+      "label": "Scienze dell'Economia",
+      "class": "LM-56",
+      "cycle": "magistrale",
+      "area": "Economico",
+      "isco_relevant": [
+        "2"
+      ],
+      "weight": 0.8
+    },
+    "deg_lm16": {
+      "id": "deg_lm16",
+      "label": "Finanza",
+      "class": "LM-16",
+      "cycle": "magistrale",
+      "area": "Economico",
+      "isco_relevant": [
+        "2",
+        "3"
+      ],
+      "weight": 0.8
+    },
+    "deg_lmcu22": {
+      "id": "deg_lmcu22",
+      "label": "Giurisprudenza",
+      "class": "LM/CU-22",
+      "cycle": "ciclo_unico",
+      "area": "Giuridico",
+      "isco_relevant": [
+        "2",
+        "1"
+      ],
+      "weight": 0.85
+    },
+    "deg_l14": {
+      "id": "deg_l14",
+      "label": "Scienze dei Servizi Giuridici",
+      "class": "L-14",
+      "cycle": "triennale",
+      "area": "Giuridico",
+      "isco_relevant": [
+        "3",
+        "4"
+      ],
+      "weight": 0.6
+    },
+    "deg_l20": {
+      "id": "deg_l20",
+      "label": "Scienze della Comunicazione",
+      "class": "L-20",
+      "cycle": "triennale",
+      "area": "Umanistico",
+      "isco_relevant": [
+        "2",
+        "3",
+        "4"
+      ],
+      "weight": 0.6
+    },
+    "deg_lm59": {
+      "id": "deg_lm59",
+      "label": "Scienze della Comunicazione Pubblica",
+      "class": "LM-59",
+      "cycle": "magistrale",
+      "area": "Umanistico",
+      "isco_relevant": [
+        "2",
+        "3"
+      ],
+      "weight": 0.8
+    },
+    "deg_l11": {
+      "id": "deg_l11",
+      "label": "Lingue e Culture Moderne",
+      "class": "L-11",
+      "cycle": "triennale",
+      "area": "Umanistico",
+      "isco_relevant": [
+        "2",
+        "3",
+        "4"
+      ],
+      "weight": 0.6
+    },
+    "deg_lm38": {
+      "id": "deg_lm38",
+      "label": "Lingue Moderne per la Comunicazione",
+      "class": "LM-38",
+      "cycle": "magistrale",
+      "area": "Umanistico",
+      "isco_relevant": [
+        "2",
+        "3"
+      ],
+      "weight": 0.8
+    },
+    "deg_l24": {
+      "id": "deg_l24",
+      "label": "Scienze e Tecniche Psicologiche",
+      "class": "L-24",
+      "cycle": "triennale",
+      "area": "Sociale",
+      "isco_relevant": [
+        "2",
+        "3"
+      ],
+      "weight": 0.6
+    },
+    "deg_lm51": {
+      "id": "deg_lm51",
+      "label": "Psicologia",
+      "class": "LM-51",
+      "cycle": "magistrale",
+      "area": "Sociale",
+      "isco_relevant": [
+        "2"
+      ],
+      "weight": 0.8
+    },
+    "deg_l39": {
+      "id": "deg_l39",
+      "label": "Servizio Sociale",
+      "class": "L-39",
+      "cycle": "triennale",
+      "area": "Sociale",
+      "isco_relevant": [
+        "2",
+        "3"
+      ],
+      "weight": 0.6
+    },
+    "deg_lm87": {
+      "id": "deg_lm87",
+      "label": "Servizio Sociale e Politiche Sociali",
+      "class": "LM-87",
+      "cycle": "magistrale",
+      "area": "Sociale",
+      "isco_relevant": [
+        "2"
+      ],
+      "weight": 0.8
+    },
+    "deg_l37": {
+      "id": "deg_l37",
+      "label": "Scienze Sociali per la Cooperazione",
+      "class": "L-37",
+      "cycle": "triennale",
+      "area": "Sociale",
+      "isco_relevant": [
+        "2",
+        "3"
+      ],
+      "weight": 0.6
+    },
+    "deg_lmcu4": {
+      "id": "deg_lmcu4",
+      "label": "Architettura e Ingegneria Edile",
+      "class": "LM/CU-4",
+      "cycle": "ciclo_unico",
+      "area": "STEM",
+      "isco_relevant": [
+        "2",
+        "3"
+      ],
+      "weight": 0.85
+    },
+    "deg_lm4": {
+      "id": "deg_lm4",
+      "label": "Architettura e Ingegneria Edile-Architettura",
+      "class": "LM-4",
+      "cycle": "magistrale",
+      "area": "STEM",
+      "isco_relevant": [
+        "2"
+      ],
+      "weight": 0.8
+    },
+    "deg_l4": {
+      "id": "deg_l4",
+      "label": "Disegno Industriale",
+      "class": "L-4",
+      "cycle": "triennale",
+      "area": "Umanistico",
+      "isco_relevant": [
+        "2",
+        "3"
+      ],
+      "weight": 0.6
+    },
+    "deg_lm12": {
+      "id": "deg_lm12",
+      "label": "Design",
+      "class": "LM-12",
+      "cycle": "magistrale",
+      "area": "Umanistico",
+      "isco_relevant": [
+        "2"
+      ],
+      "weight": 0.8
+    },
+    "deg_l25": {
+      "id": "deg_l25",
+      "label": "Scienze e Tecnologie Agrarie",
+      "class": "L-25",
+      "cycle": "triennale",
+      "area": "STEM",
+      "isco_relevant": [
+        "2",
+        "6"
+      ],
+      "weight": 0.6
+    },
+    "deg_lm69": {
+      "id": "deg_lm69",
+      "label": "Scienze e Tecnologie Agrarie",
+      "class": "LM-69",
+      "cycle": "magistrale",
+      "area": "STEM",
+      "isco_relevant": [
+        "2",
+        "6"
+      ],
+      "weight": 0.8
+    },
+    "deg_l26": {
+      "id": "deg_l26",
+      "label": "Scienze e Tecnologie Alimentari",
+      "class": "L-26",
+      "cycle": "triennale",
+      "area": "STEM",
+      "isco_relevant": [
+        "2",
+        "3",
+        "6"
+      ],
+      "weight": 0.6
+    },
+    "deg_lmcu42": {
+      "id": "deg_lmcu42",
+      "label": "Medicina Veterinaria",
+      "class": "LM/CU-42",
+      "cycle": "ciclo_unico",
+      "area": "Sanitario",
+      "isco_relevant": [
+        "2",
+        "6"
+      ],
+      "weight": 0.85
+    },
+    "deg_lm85": {
+      "id": "deg_lm85",
+      "label": "Scienze della Formazione Primaria",
+      "class": "LM-85bis",
+      "cycle": "ciclo_unico",
+      "area": "Sociale",
+      "isco_relevant": [
+        "2"
+      ],
+      "weight": 0.85
+    },
+    "deg_lm57": {
+      "id": "deg_lm57",
+      "label": "Scienze dell'Educazione",
+      "class": "LM-57",
+      "cycle": "magistrale",
+      "area": "Sociale",
+      "isco_relevant": [
+        "2",
+        "3"
+      ],
+      "weight": 0.8
+    },
+    "deg_l19": {
+      "id": "deg_l19",
+      "label": "Scienze dell'Educazione e della Formazione",
+      "class": "L-19",
+      "cycle": "triennale",
+      "area": "Sociale",
+      "isco_relevant": [
+        "3"
+      ],
+      "weight": 0.6
+    },
+    "deg_diploma": {
+      "id": "deg_diploma",
+      "label": "Diploma di Scuola Superiore",
+      "class": null,
+      "cycle": "secondario",
+      "area": "Generale",
+      "isco_relevant": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "weight": 0.2
+    },
+    "deg_its": {
+      "id": "deg_its",
+      "label": "Diploma ITS (Istituto Tecnico Superiore)",
+      "class": null,
+      "cycle": "terziario_non_uni",
+      "area": "Tecnico",
+      "isco_relevant": [
+        "3",
+        "4",
+        "7",
+        "8"
+      ],
+      "weight": 0.4
+    },
+    "deg_laurea_gen": {
+      "id": "deg_laurea_gen",
+      "label": "Laurea Triennale (area generica)",
+      "class": "L",
+      "cycle": "triennale",
+      "area": "Generale",
+      "isco_relevant": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "weight": 0.6
+    },
+    "deg_magistrale_gen": {
+      "id": "deg_magistrale_gen",
+      "label": "Laurea Magistrale (area generica)",
+      "class": "LM",
+      "cycle": "magistrale",
+      "area": "Generale",
+      "isco_relevant": [
+        "1",
+        "2"
+      ],
+      "weight": 0.8
+    },
+    "deg_phd": {
+      "id": "deg_phd",
+      "label": "Dottorato di Ricerca (PhD)",
+      "class": null,
+      "cycle": "dottorato",
+      "area": "Ricerca",
+      "isco_relevant": [
+        "2"
+      ],
+      "weight": 1.0
+    },
+    "deg_none": {
+      "id": "deg_none",
+      "label": "Nessun titolo universitario",
+      "class": null,
+      "cycle": null,
+      "area": null,
+      "isco_relevant": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "weight": 0.1
+    }
+  },
+  "cycle_weights": {
+    "secondario": 0.2,
+    "terziario_non_uni": 0.4,
+    "triennale": 0.6,
+    "magistrale": 0.8,
+    "ciclo_unico": 0.85,
+    "dottorato": 1.0,
+    "null": 0.1
+  },
+  "areas": [
+    "Tecnico",
+    "Sanitario",
+    "Sociale",
+    "Umanistico",
+    "Economico",
+    "Ricerca",
+    "Generale",
+    "STEM",
+    "Giuridico"
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "job_id": "offerta_test_preferred",
+  "raw_title": "Backend Developer Python — TechCorp (Milano, Ibrido)",
+  "occupation": {
+    "id": "866c7813-2c03-47d7-9bdc-192cfbace57c",
+    "label": "sviluppatore di interfacce utente/sviluppatrice di interfacce utente",
+    "score": 0.8378
+  },
+  "skills": {
+    "required_ids": [
+      "29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+      "63f9a5bc-f070-46a6-bea7-c6b9e9dbacc3",
+      "9d1b08b3-ba1e-41f6-a466-1ac1e62eb5f0",
+      "abdc7ac8-151f-40c6-bc1a-1e9b4b073290",
+      "ce37e233-64c4-4b48-a09a-04ec08fb9740",
+      "99207709-d076-4cce-ba38-e90d3bb28806",
+      "eda4d727-4374-49af-ace4-118c7c906835",
+      "82de2df7-0d6c-42b1-94ac-b3e9a029e917",
+      "598de5b0-5b58-4ea7-8058-a4bc4d18c742",
+      "550e2d00-bd89-4614-8e15-330ae5277af3",
+      "7961413f-61d0-4722-9cd9-20a050a29899",
+      "b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+      "a8d07b5a-c1a1-42c6-9d53-db9c7a2ca996",
+      "7369f779-4b71-4aab-8836-48b69c676eec",
+      "67a118f4-8a5f-48f7-8e5f-de34b9ca2c37",
+      "de3072e6-b7c7-48ff-8e63-a8f7f88029ba",
+      "ac516e9b-8bfa-4b72-8e3e-340b0a3a51d5",
+      "5cf70b66-f1b4-4c50-94fb-15ec74fad028"
+    ],
+    "preferred_ids": [
+      "5c606d18-6404-4047-b235-350f18e11827",
+      "66654c94-4657-46f2-aecb-606fea2cb14e",
+      "f47a1998-0beb-43be-9f46-380aa4d183da",
+      "cab119c5-ff95-4499-b91a-54e9f6c5cde1",
+      "bec4359e-cb92-468f-a997-8fb28e32fba9",
+      "ae4f0cc6-e0b9-47f5-bdca-2fc2e6316dce",
+      "5edaf4c4-6747-4eb8-b898-72dd2351dca8",
+      "e43084e8-6e3d-4649-93e9-2455ff53bc84",
+      "9bafaea2-76cd-4532-ab77-8b3d21fa6235"
+    ],
+    "all_matches": [
+      {
+        "id": "67a118f4-8a5f-48f7-8e5f-de34b9ca2c37",
+        "label": "modello ibrido",
+        "score": 0.8832
+      },
+      {
+        "id": "29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+        "label": "gestire database",
+        "score": 0.9003
+      },
+      {
+        "id": "9d1b08b3-ba1e-41f6-a466-1ac1e62eb5f0",
+        "label": "eseguire una revisione del codice TIC",
+        "score": 0.8939
+      },
+      {
+        "id": "82de2df7-0d6c-42b1-94ac-b3e9a029e917",
+        "label": "utilizzare strumenti di back-up e di recupero",
+        "score": 0.8823
+      },
+      {
+        "id": "7369f779-4b71-4aab-8836-48b69c676eec",
+        "label": "utilizzare sistemi di gestione di database relazionali",
+        "score": 0.8817
+      },
+      {
+        "id": "abdc7ac8-151f-40c6-bc1a-1e9b4b073290",
+        "label": "augmented reality",
+        "score": 0.8809
+      },
+      {
+        "id": "ac516e9b-8bfa-4b72-8e3e-340b0a3a51d5",
+        "label": "gestire progetti di sviluppo dei contenuti",
+        "score": 0.878
+      },
+      {
+        "id": "63f9a5bc-f070-46a6-bea7-c6b9e9dbacc3",
+        "label": "envelope systems for buildings",
+        "score": 0.8772
+      },
+      {
+        "id": "5cf70b66-f1b4-4c50-94fb-15ec74fad028",
+        "label": "comunicare utilizzando il sistema globale di soccorso e sicurezza in mare",
+        "score": 0.8745
+      },
+      {
+        "id": "550e2d00-bd89-4614-8e15-330ae5277af3",
+        "label": "assess candidates",
+        "score": 0.874
+      },
+      {
+        "id": "eda4d727-4374-49af-ace4-118c7c906835",
+        "label": "SEO",
+        "score": 0.8684
+      },
+      {
+        "id": "ce37e233-64c4-4b48-a09a-04ec08fb9740",
+        "label": "garantire il corretto uso delle apparecchiature da panetteria",
+        "score": 0.8657
+      },
+      {
+        "id": "de3072e6-b7c7-48ff-8e63-a8f7f88029ba",
+        "label": "manutenere sistemi microelettromeccanici",
+        "score": 0.8555
+      },
+      {
+        "id": "7961413f-61d0-4722-9cd9-20a050a29899",
+        "label": "eseguire lo unit testing di un software",
+        "score": 0.852
+      },
+      {
+        "id": "99207709-d076-4cce-ba38-e90d3bb28806",
+        "label": "linguaggio di interrogazione resource description framework",
+        "score": 0.8466
+      },
+      {
+        "id": "598de5b0-5b58-4ea7-8058-a4bc4d18c742",
+        "label": "SQL",
+        "score": 0.8939
+      },
+      {
+        "id": "a8d07b5a-c1a1-42c6-9d53-db9c7a2ca996",
+        "label": "PostgreSQL",
+        "score": 0.8871
+      },
+      {
+        "id": "b0096dc5-2e2d-4bc1-8172-05bf486c3968",
+        "label": "progettare interfacce di applicazioni",
+        "score": 0.8617
+      },
+      {
+        "id": "bec4359e-cb92-468f-a997-8fb28e32fba9",
+        "label": "metodologie di project management TIC",
+        "score": 0.8875
+      },
+      {
+        "id": "f47a1998-0beb-43be-9f46-380aa4d183da",
+        "label": "Jenkins (strumenti per la gestione della configurazione software)",
+        "score": 0.8884
+      },
+      {
+        "id": "cab119c5-ff95-4499-b91a-54e9f6c5cde1",
+        "label": "lavorare nell’ambito di squadre di produzione tessile",
+        "score": 0.8752
+      },
+      {
+        "id": "5c606d18-6404-4047-b235-350f18e11827",
+        "label": "diritto contrattuale",
+        "score": 0.8744
+      },
+      {
+        "id": "66654c94-4657-46f2-aecb-606fea2cb14e",
+        "label": "seguire una formazione professionale continua nelle operazioni di pesca",
+        "score": 0.8742
+      },
+      {
+        "id": "ae4f0cc6-e0b9-47f5-bdca-2fc2e6316dce",
+        "label": "gestire macchine di virtualizzazione TIC",
+        "score": 0.8676
+      },
+      {
+        "id": "9bafaea2-76cd-4532-ab77-8b3d21fa6235",
+        "label": "coordinare le comunicazioni a distanza",
+        "score": 0.8651
+      },
+      {
+        "id": "5edaf4c4-6747-4eb8-b898-72dd2351dca8",
+        "label": "controllare a distanza il ciclo di produzione",
+        "score": 0.8611
+      },
+      {
+        "id": "e43084e8-6e3d-4649-93e9-2455ff53bc84",
+        "label": "preparare schede tecniche sui pozzi",
+        "score": 0.8584
+      }
+    ]
+  }
+}

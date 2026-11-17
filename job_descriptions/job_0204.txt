@@ -1,0 +1,7 @@
+ID: 204
+Area: Informatica
+Ruolo: Backend Developer
+Azienda: aizoOn Technology Consulting
+Località: Monopoli
+
+Backend Developer - aizoOn Technology Consulting (Monopoli, Ibrido). Contratto: Consulenza; profilo: Junior. Attività principali: integrazione di sistemi IT, database e servizi cloud; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Data pipeline, ETL, Spark, buona capacità di lavoro in team e Python. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 485
+Area: Elettronica
+Ruolo: Test & Validation Engineer
+Azienda: Akkodis
+Località: Caselle Torinese
+
+Test & Validation Engineer - Akkodis (Caselle Torinese, In sede). Contratto: Apprendistato; profilo: Junior. Attività principali: supporto a progetti automotive, railway, industrial o space/defence; sviluppo firmware per microcontrollori e sistemi real-time. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di LabVIEW, Matlab, Python, buona capacità di lavoro in team e test automation. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

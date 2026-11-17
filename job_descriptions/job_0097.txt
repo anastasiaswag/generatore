@@ -1,0 +1,7 @@
+ID: 97
+Area: Informatica
+Ruolo: IoT Platform Engineer
+Azienda: Randstad Digital
+Località: Collegno
+
+IoT Platform Engineer - Randstad Digital (Collegno, In sede). Contratto: Tempo indeterminato; profilo: Senior. Attività principali: progettazione di architetture backend e API per piattaforme digitali; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di React, Node.js, TypeScript, buona capacità di lavoro in team e PostgreSQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

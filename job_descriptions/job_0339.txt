@@ -1,0 +1,7 @@
+ID: 339
+Area: Informatica
+Ruolo: Backend Developer
+Azienda: Kineton
+Località: Roma
+
+Backend Developer - Kineton (Roma, In sede). Contratto: Tempo determinato; profilo: Middle. Attività principali: integrazione di sistemi IT, database e servizi cloud; sviluppo e manutenzione di applicazioni software in ambiente enterprise. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Windows/Linux Server, VMware, Backup, buona capacità di lavoro in team e Networking. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

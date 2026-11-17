@@ -1,0 +1,7 @@
+ID: 234
+Area: Informatica
+Ruolo: Full Stack Developer
+Azienda: Randstad Digital
+Località: Bologna
+
+Full Stack Developer - Randstad Digital (Bologna, Ibrido). Contratto: Consulenza; profilo: Middle. Attività principali: analisi dati, pipeline ETL e modelli predittivi; integrazione di sistemi IT, database e servizi cloud. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Azure/AWS, Terraform, CI/CD, buona capacità di lavoro in team e Monitoring. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

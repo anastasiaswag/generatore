@@ -1,0 +1,7 @@
+ID: 614
+Area: Elettronica
+Ruolo: Instrumentation Engineer
+Azienda: SEWS-CABIND
+Località: Padova
+
+Instrumentation Engineer - SEWS-CABIND (Padova, In sede). Contratto: Tempo determinato; profilo: Junior. Attività principali: progettazione e validazione di schede elettroniche e apparati embedded; sviluppo firmware per microcontrollori e sistemi real-time. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di railway/automotive, CAN bus, LIN, buona capacità di lavoro in team e diagnostica. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

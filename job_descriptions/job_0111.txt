@@ -1,0 +1,7 @@
+ID: 111
+Area: Informatica
+Ruolo: Senior AI/ML Engineer
+Azienda: Gruppo Gpi
+Località: Emilia Romagna
+
+Senior AI/ML Engineer - Gruppo Gpi (Emilia Romagna, In sede). Contratto: Tempo determinato; profilo: Junior. Attività principali: testing, quality assurance e documentazione tecnica; progettazione di architetture backend e API per piattaforme digitali. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Python, SQL, Docker, buona capacità di lavoro in team e Kubernetes. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

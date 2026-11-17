@@ -1,0 +1,7 @@
+ID: 382
+Area: Elettronica
+Ruolo: Electrical/Electronic Engineer
+Azienda: Sumitomo Electric
+Località: Emilia Romagna
+
+Electrical/Electronic Engineer - Sumitomo Electric (Emilia Romagna, In sede). Contratto: Consulenza; profilo: Neolaureato. Attività principali: integrazione sensori, bus di comunicazione e sistemi di controllo; test di laboratorio, debugging, misure e qualifiche EMC. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di sensori, I2C/SPI/UART, microcontrollori, buona capacità di lavoro in team e firmware. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

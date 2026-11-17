@@ -1,0 +1,7 @@
+ID: 522
+Area: Elettronica
+Ruolo: Firmware Engineer
+Azienda: Teoresi MedTech
+Località: Bologna
+
+Firmware Engineer - Teoresi MedTech (Bologna, In sede). Contratto: Tempo indeterminato; profilo: Senior. Attività principali: test di laboratorio, debugging, misure e qualifiche EMC; progettazione e validazione di schede elettroniche e apparati embedded. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di sensori, I2C/SPI/UART, microcontrollori, buona capacità di lavoro in team e firmware. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 91
+Area: Informatica
+Ruolo: Backend Developer
+Azienda: Akkodis
+Località: Veneto
+
+Backend Developer - Akkodis (Veneto, Ibrido). Contratto: Tempo indeterminato; profilo: Neolaureato. Attività principali: sviluppo e manutenzione di applicazioni software in ambiente enterprise; integrazione di sistemi IT, database e servizi cloud. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di C/C++, Linux Embedded, Git, buona capacità di lavoro in team e Yocto. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

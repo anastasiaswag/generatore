@@ -1,0 +1,7 @@
+ID: 226
+Area: Informatica
+Ruolo: System Engineer
+Azienda: Satispay
+Località: Bologna
+
+System Engineer - Satispay (Bologna, In sede). Contratto: Tempo determinato; profilo: Lead/Responsabile. Attività principali: integrazione di sistemi IT, database e servizi cloud; progettazione di architetture backend e API per piattaforme digitali. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di C/C++, Linux Embedded, Git, buona capacità di lavoro in team e Yocto. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

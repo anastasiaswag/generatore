@@ -1,0 +1,7 @@
+ID: 511
+Area: Elettronica
+Ruolo: Automation Engineer
+Azienda: Skytechnology srl
+Località: Piemonte
+
+Automation Engineer - Skytechnology srl (Piemonte, In sede). Contratto: Tempo indeterminato; profilo: Stage/Tirocinio. Attività principali: test di laboratorio, debugging, misure e qualifiche EMC; sviluppo firmware per microcontrollori e sistemi real-time. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di PCB, KiCad/Altium, schematic capture, buona capacità di lavoro in team e layout. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

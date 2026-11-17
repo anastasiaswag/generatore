@@ -1,0 +1,7 @@
+ID: 306
+Area: Informatica
+Ruolo: Software Tester / QA Engineer
+Azienda: Fastweb
+Località: Lazio
+
+Software Tester / QA Engineer - Fastweb (Lazio, Da remoto). Contratto: Apprendistato; profilo: Neolaureato. Attività principali: integrazione di sistemi IT, database e servizi cloud; sviluppo e manutenzione di applicazioni software in ambiente enterprise. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di PLC/SCADA, OPC-UA, Industrial IoT, buona capacità di lavoro in team e SQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

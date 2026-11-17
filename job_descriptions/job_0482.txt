@@ -1,0 +1,7 @@
+ID: 482
+Area: Elettronica
+Ruolo: Power Electronics Engineer
+Azienda: exida
+Località: Pesaro
+
+Power Electronics Engineer - exida (Pesaro, Ibrido). Contratto: Tempo indeterminato; profilo: Middle. Attività principali: test di laboratorio, debugging, misure e qualifiche EMC; integrazione sensori, bus di comunicazione e sistemi di controllo. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di C embedded, STM32, RTOS, buona capacità di lavoro in team e debugging. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 136
+Area: Informatica
+Ruolo: PLC/SCADA Software Engineer
+Azienda: Gruppo Maggioli
+Località: Lombardia
+
+PLC/SCADA Software Engineer - Gruppo Maggioli (Lombardia, In sede). Contratto: Tempo determinato; profilo: Neolaureato. Attività principali: testing, quality assurance e documentazione tecnica; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Windows/Linux Server, VMware, Backup, buona capacità di lavoro in team e Networking. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

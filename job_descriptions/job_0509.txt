@@ -1,0 +1,7 @@
+ID: 509
+Area: Elettronica
+Ruolo: Railway Hardware Engineer
+Azienda: AYES
+Località: Bacoli
+
+Railway Hardware Engineer - AYES (Bacoli, In sede). Contratto: Stage; profilo: Middle. Attività principali: progettazione e validazione di schede elettroniche e apparati embedded; test di laboratorio, debugging, misure e qualifiche EMC. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di PCB, KiCad/Altium, schematic capture, buona capacità di lavoro in team e layout. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

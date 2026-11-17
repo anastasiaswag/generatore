@@ -1,0 +1,18 @@
+% Ablazione del parser degli annunci
+\begin{table}[htbp]
+  \centering
+  \caption{Contributo delle singole contromisure nel parser degli annunci,
+           misurato su 810 annunci sintetici.}
+  \label{tab:job-ablazione}
+  \begin{tabular}{lccc}
+    \toprule
+    \textbf{Configurazione} & \textbf{Precision} & \textbf{Recall} & \textbf{F1} \\
+    \midrule
+    Nessun rimedio                       & 0,297 & 0,615 & 0,391 \\
+    Denylist di 232 etichette            & 0,529 & 0,607 & 0,551 \\
+    Vincolo multi-parola                 & 0,540 & 0,581 & 0,546 \\
+    Multi-parola + denylist di 64        & 0,614 & 0,577 & 0,580 \\
+    \textbf{Multi-parola + classificatore} & \textbf{0,807} & 0,539 & \textbf{0,629} \\
+    \bottomrule
+  \end{tabular}
+\end{table}

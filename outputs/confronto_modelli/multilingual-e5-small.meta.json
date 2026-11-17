@@ -1,0 +1,16 @@
+{
+  "modello": "intfloat/multilingual-e5-small",
+  "soglie": {
+    "occ": 0.84,
+    "sw": 0.82,
+    "mw": 0.88,
+    "acr": 0.9
+  },
+  "hubness": false,
+  "mutual": true,
+  "denylist": false,
+  "lexical": false,
+  "spacy": false,
+  "classificatore": true,
+  "n_annunci": 810
+}

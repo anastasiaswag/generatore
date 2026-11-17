@@ -1,0 +1,11 @@
+{
+  "modello": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
+  "soglie": {
+    "sw": 0.82,
+    "mw": 0.82,
+    "acr": 0.98,
+    "occ": 0.56
+  },
+  "n_taratura": 202,
+  "n_riporto": 608
+}

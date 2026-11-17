@@ -1,0 +1,7 @@
+ID: 310
+Area: Informatica
+Ruolo: Junior Agentic Developer
+Azienda: Net Reply
+Località: Bologna
+
+Junior Agentic Developer - Net Reply (Bologna, In sede). Contratto: Tempo indeterminato; profilo: Lead/Responsabile. Attività principali: testing, quality assurance e documentazione tecnica; gestione infrastruttura, deployment e automazione CI/CD. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di React, Node.js, TypeScript, buona capacità di lavoro in team e PostgreSQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

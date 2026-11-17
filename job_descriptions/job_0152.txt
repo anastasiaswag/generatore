@@ -1,0 +1,7 @@
+ID: 152
+Area: Informatica
+Ruolo: Software Tester / QA Engineer
+Azienda: Engineering Group
+Località: Monopoli
+
+Software Tester / QA Engineer - Engineering Group (Monopoli, In sede). Contratto: Tempo indeterminato; profilo: Middle. Attività principali: integrazione di sistemi IT, database e servizi cloud; sviluppo e manutenzione di applicazioni software in ambiente enterprise. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Java, Spring Boot, REST API, buona capacità di lavoro in team e Microservizi. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

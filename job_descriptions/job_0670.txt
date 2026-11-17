@@ -1,0 +1,7 @@
+ID: 670
+Area: Elettronica
+Ruolo: Firmware Engineer
+Azienda: TempJob Italia
+Località: Napoli
+
+Firmware Engineer - TempJob Italia (Napoli, In sede). Contratto: Apprendistato; profilo: Neolaureato. Attività principali: progettazione e validazione di schede elettroniche e apparati embedded; integrazione sensori, bus di comunicazione e sistemi di controllo. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di PCB, KiCad/Altium, schematic capture, buona capacità di lavoro in team e layout. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

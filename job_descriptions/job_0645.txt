@@ -1,0 +1,7 @@
+ID: 645
+Area: Elettronica
+Ruolo: Vehicle Electric Engineer
+Azienda: Umana S.p.A.
+Località: Lombardia
+
+Vehicle Electric Engineer - Umana S.p.A. (Lombardia, In sede). Contratto: Consulenza; profilo: Senior. Attività principali: test di laboratorio, debugging, misure e qualifiche EMC; sviluppo firmware per microcontrollori e sistemi real-time. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di sensori, I2C/SPI/UART, microcontrollori, buona capacità di lavoro in team e firmware. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

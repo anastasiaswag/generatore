@@ -1,0 +1,7 @@
+ID: 395
+Area: Elettronica
+Ruolo: Junior Ingegnere Elettronico Junior
+Azienda: Amaris Consulting
+Località: Lazio
+
+Junior Ingegnere Elettronico Junior - Amaris Consulting (Lazio, In sede). Contratto: Tempo determinato; profilo: Senior. Attività principali: redazione documentazione tecnica, specifiche e report di validazione; sviluppo firmware per microcontrollori e sistemi real-time. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di C embedded, STM32, RTOS, buona capacità di lavoro in team e debugging. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,1795 @@
+{
+  "companies": {
+    "co_mckinsey": {
+      "id": "co_mckinsey",
+      "name": "McKinsey & Company",
+      "country": "USA",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2"
+      ]
+    },
+    "co_bcg": {
+      "id": "co_bcg",
+      "name": "Boston Consulting Group",
+      "country": "USA",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2"
+      ]
+    },
+    "co_pwc": {
+      "id": "co_pwc",
+      "name": "PricewaterhouseCoopers",
+      "country": "UK",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "co_deloitte": {
+      "id": "co_deloitte",
+      "name": "Deloitte",
+      "country": "UK",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "co_kpmg": {
+      "id": "co_kpmg",
+      "name": "KPMG",
+      "country": "Netherlands",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2"
+      ]
+    },
+    "co_ey": {
+      "id": "co_ey",
+      "name": "Ernst & Young",
+      "country": "UK",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2"
+      ]
+    },
+    "co_bain": {
+      "id": "co_bain",
+      "name": "Bain & Company",
+      "country": "USA",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2"
+      ]
+    },
+    "co_oliver": {
+      "id": "co_oliver",
+      "name": "Oliver Wyman",
+      "country": "USA",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2"
+      ]
+    },
+    "co_reply": {
+      "id": "co_reply",
+      "name": "Reply S.p.A.",
+      "country": "Italy",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "co_engineering": {
+      "id": "co_engineering",
+      "name": "Engineering Ingegneria Informatica",
+      "country": "Italy",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "co_sap": {
+      "id": "co_sap",
+      "name": "SAP SE",
+      "country": "Germany",
+      "real": true,
+      "isco_sectors": [
+        "2",
+        "3"
+      ]
+    },
+    "co_siemens": {
+      "id": "co_siemens",
+      "name": "Siemens AG",
+      "country": "Germany",
+      "real": true,
+      "isco_sectors": [
+        "2",
+        "3",
+        "7",
+        "8"
+      ]
+    },
+    "co_philips": {
+      "id": "co_philips",
+      "name": "Philips",
+      "country": "Netherlands",
+      "real": true,
+      "isco_sectors": [
+        "2",
+        "3"
+      ]
+    },
+    "co_ericsson": {
+      "id": "co_ericsson",
+      "name": "Ericsson",
+      "country": "Sweden",
+      "real": true,
+      "isco_sectors": [
+        "2",
+        "3"
+      ]
+    },
+    "co_nokia": {
+      "id": "co_nokia",
+      "name": "Nokia",
+      "country": "Finland",
+      "real": true,
+      "isco_sectors": [
+        "2",
+        "3"
+      ]
+    },
+    "co_capgemini": {
+      "id": "co_capgemini",
+      "name": "Capgemini",
+      "country": "France",
+      "real": true,
+      "isco_sectors": [
+        "2",
+        "3"
+      ]
+    },
+    "co_accenture": {
+      "id": "co_accenture",
+      "name": "Accenture",
+      "country": "Ireland",
+      "real": true,
+      "isco_sectors": [
+        "2",
+        "3"
+      ]
+    },
+    "co_ibm_eu": {
+      "id": "co_ibm_eu",
+      "name": "IBM Europe",
+      "country": "France",
+      "real": true,
+      "isco_sectors": [
+        "2",
+        "3"
+      ]
+    },
+    "co_infosys": {
+      "id": "co_infosys",
+      "name": "Infosys BPM Europe",
+      "country": "Germany",
+      "real": true,
+      "isco_sectors": [
+        "2",
+        "3"
+      ]
+    },
+    "co_booking": {
+      "id": "co_booking",
+      "name": "Booking.com",
+      "country": "Netherlands",
+      "real": true,
+      "isco_sectors": [
+        "2",
+        "3"
+      ]
+    },
+    "co_spotify": {
+      "id": "co_spotify",
+      "name": "Spotify",
+      "country": "Sweden",
+      "real": true,
+      "isco_sectors": [
+        "2"
+      ]
+    },
+    "co_adyen": {
+      "id": "co_adyen",
+      "name": "Adyen",
+      "country": "Netherlands",
+      "real": true,
+      "isco_sectors": [
+        "2",
+        "3"
+      ]
+    },
+    "co_tim": {
+      "id": "co_tim",
+      "name": "TIM (Telecom Italia)",
+      "country": "Italy",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "co_wind": {
+      "id": "co_wind",
+      "name": "Wind Tre S.p.A.",
+      "country": "Italy",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "co_vodafone_it": {
+      "id": "co_vodafone_it",
+      "name": "Vodafone Italia",
+      "country": "Italy",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "co_fastweb": {
+      "id": "co_fastweb",
+      "name": "Fastweb S.p.A.",
+      "country": "Italy",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "co_vodafone_eu": {
+      "id": "co_vodafone_eu",
+      "name": "Vodafone Group",
+      "country": "UK",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "co_orange": {
+      "id": "co_orange",
+      "name": "Orange S.A.",
+      "country": "France",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "co_telekom": {
+      "id": "co_telekom",
+      "name": "Deutsche Telekom",
+      "country": "Germany",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "co_telefonica": {
+      "id": "co_telefonica",
+      "name": "Telefónica",
+      "country": "Spain",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "co_swisscom": {
+      "id": "co_swisscom",
+      "name": "Swisscom",
+      "country": "Switzerland",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "co_roche": {
+      "id": "co_roche",
+      "name": "Roche",
+      "country": "Switzerland",
+      "real": true,
+      "isco_sectors": [
+        "2",
+        "3"
+      ]
+    },
+    "co_novartis": {
+      "id": "co_novartis",
+      "name": "Novartis",
+      "country": "Switzerland",
+      "real": true,
+      "isco_sectors": [
+        "2",
+        "3"
+      ]
+    },
+    "co_bayer": {
+      "id": "co_bayer",
+      "name": "Bayer AG",
+      "country": "Germany",
+      "real": true,
+      "isco_sectors": [
+        "2",
+        "3",
+        "6"
+      ]
+    },
+    "co_sanofi": {
+      "id": "co_sanofi",
+      "name": "Sanofi",
+      "country": "France",
+      "real": true,
+      "isco_sectors": [
+        "2",
+        "3"
+      ]
+    },
+    "co_astrazeneca": {
+      "id": "co_astrazeneca",
+      "name": "AstraZeneca",
+      "country": "UK",
+      "real": true,
+      "isco_sectors": [
+        "2",
+        "3"
+      ]
+    },
+    "co_bnpparibas": {
+      "id": "co_bnpparibas",
+      "name": "BNP Paribas",
+      "country": "France",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "co_unicredit": {
+      "id": "co_unicredit",
+      "name": "UniCredit",
+      "country": "Italy",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "co_intesa": {
+      "id": "co_intesa",
+      "name": "Intesa Sanpaolo",
+      "country": "Italy",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "co_ing": {
+      "id": "co_ing",
+      "name": "ING Group",
+      "country": "Netherlands",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "co_deutsche": {
+      "id": "co_deutsche",
+      "name": "Deutsche Bank",
+      "country": "Germany",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "co_allianz": {
+      "id": "co_allianz",
+      "name": "Allianz SE",
+      "country": "Germany",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "co_zara": {
+      "id": "co_zara",
+      "name": "Zara (Inditex)",
+      "country": "Spain",
+      "real": true,
+      "isco_sectors": [
+        "5",
+        "4"
+      ]
+    },
+    "co_hm": {
+      "id": "co_hm",
+      "name": "H&M",
+      "country": "Sweden",
+      "real": true,
+      "isco_sectors": [
+        "5",
+        "4"
+      ]
+    },
+    "co_ikea": {
+      "id": "co_ikea",
+      "name": "IKEA",
+      "country": "Sweden",
+      "real": true,
+      "isco_sectors": [
+        "5",
+        "4",
+        "8"
+      ]
+    },
+    "co_carrefour": {
+      "id": "co_carrefour",
+      "name": "Carrefour",
+      "country": "France",
+      "real": true,
+      "isco_sectors": [
+        "5",
+        "4",
+        "9"
+      ]
+    },
+    "co_lidl": {
+      "id": "co_lidl",
+      "name": "Lidl",
+      "country": "Germany",
+      "real": true,
+      "isco_sectors": [
+        "5",
+        "4",
+        "9"
+      ]
+    },
+    "co_hilton": {
+      "id": "co_hilton",
+      "name": "Hilton Hotels Europe",
+      "country": "UK",
+      "real": true,
+      "isco_sectors": [
+        "5",
+        "4"
+      ]
+    },
+    "co_accor": {
+      "id": "co_accor",
+      "name": "Accor Hotels",
+      "country": "France",
+      "real": true,
+      "isco_sectors": [
+        "5",
+        "4"
+      ]
+    },
+    "co_basf": {
+      "id": "co_basf",
+      "name": "BASF SE (Agro Division)",
+      "country": "Germany",
+      "real": true,
+      "isco_sectors": [
+        "6",
+        "2"
+      ]
+    },
+    "co_syngenta": {
+      "id": "co_syngenta",
+      "name": "Syngenta",
+      "country": "Switzerland",
+      "real": true,
+      "isco_sectors": [
+        "6",
+        "2"
+      ]
+    },
+    "co_volkswagen": {
+      "id": "co_volkswagen",
+      "name": "Volkswagen AG",
+      "country": "Germany",
+      "real": true,
+      "isco_sectors": [
+        "7",
+        "8",
+        "2",
+        "3"
+      ]
+    },
+    "co_bmw": {
+      "id": "co_bmw",
+      "name": "BMW Group",
+      "country": "Germany",
+      "real": true,
+      "isco_sectors": [
+        "7",
+        "8",
+        "2",
+        "3"
+      ]
+    },
+    "co_stellantis": {
+      "id": "co_stellantis",
+      "name": "Stellantis",
+      "country": "Netherlands",
+      "real": true,
+      "isco_sectors": [
+        "7",
+        "8",
+        "2",
+        "3"
+      ]
+    },
+    "co_airbus": {
+      "id": "co_airbus",
+      "name": "Airbus",
+      "country": "France",
+      "real": true,
+      "isco_sectors": [
+        "7",
+        "8",
+        "2",
+        "3"
+      ]
+    },
+    "co_bosch": {
+      "id": "co_bosch",
+      "name": "Robert Bosch GmbH",
+      "country": "Germany",
+      "real": true,
+      "isco_sectors": [
+        "7",
+        "8",
+        "2",
+        "3"
+      ]
+    },
+    "co_michelin": {
+      "id": "co_michelin",
+      "name": "Michelin",
+      "country": "France",
+      "real": true,
+      "isco_sectors": [
+        "7",
+        "8"
+      ]
+    },
+    "co_saint_gobain": {
+      "id": "co_saint_gobain",
+      "name": "Saint-Gobain",
+      "country": "France",
+      "real": true,
+      "isco_sectors": [
+        "7",
+        "8",
+        "3"
+      ]
+    },
+    "co_electrolux": {
+      "id": "co_electrolux",
+      "name": "Electrolux",
+      "country": "Sweden",
+      "real": true,
+      "isco_sectors": [
+        "7",
+        "8"
+      ]
+    },
+    "co_enel": {
+      "id": "co_enel",
+      "name": "Enel S.p.A.",
+      "country": "Italy",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3",
+        "7",
+        "8"
+      ]
+    },
+    "co_eni": {
+      "id": "co_eni",
+      "name": "Eni S.p.A.",
+      "country": "Italy",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3",
+        "6",
+        "7",
+        "8"
+      ]
+    },
+    "co_total": {
+      "id": "co_total",
+      "name": "TotalEnergies",
+      "country": "France",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3",
+        "6",
+        "7",
+        "8"
+      ]
+    },
+    "co_shell": {
+      "id": "co_shell",
+      "name": "Shell",
+      "country": "Netherlands",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3",
+        "6",
+        "7",
+        "8"
+      ]
+    },
+    "co_rwe": {
+      "id": "co_rwe",
+      "name": "RWE AG",
+      "country": "Germany",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3",
+        "7",
+        "8"
+      ]
+    },
+    "co_edf": {
+      "id": "co_edf",
+      "name": "EDF (Électricité de France)",
+      "country": "France",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3",
+        "7",
+        "8"
+      ]
+    },
+    "co_a2a": {
+      "id": "co_a2a",
+      "name": "A2A S.p.A.",
+      "country": "Italy",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3",
+        "7",
+        "8"
+      ]
+    },
+    "co_snam": {
+      "id": "co_snam",
+      "name": "Snam S.p.A.",
+      "country": "Italy",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3",
+        "7",
+        "8"
+      ]
+    },
+    "co_dhl": {
+      "id": "co_dhl",
+      "name": "DHL Group",
+      "country": "Germany",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "3",
+        "4",
+        "8",
+        "9"
+      ]
+    },
+    "co_fedex": {
+      "id": "co_fedex",
+      "name": "FedEx Europe",
+      "country": "USA",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "3",
+        "4",
+        "8",
+        "9"
+      ]
+    },
+    "co_ups": {
+      "id": "co_ups",
+      "name": "UPS Europe",
+      "country": "USA",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "3",
+        "4",
+        "8",
+        "9"
+      ]
+    },
+    "co_gls": {
+      "id": "co_gls",
+      "name": "GLS Group",
+      "country": "Germany",
+      "real": true,
+      "isco_sectors": [
+        "3",
+        "4",
+        "8",
+        "9"
+      ]
+    },
+    "co_brt": {
+      "id": "co_brt",
+      "name": "BRT Corriere Espresso",
+      "country": "Italy",
+      "real": true,
+      "isco_sectors": [
+        "3",
+        "4",
+        "8",
+        "9"
+      ]
+    },
+    "co_sda": {
+      "id": "co_sda",
+      "name": "SDA Express Courier",
+      "country": "Italy",
+      "real": true,
+      "isco_sectors": [
+        "3",
+        "4",
+        "8",
+        "9"
+      ]
+    },
+    "co_maersk": {
+      "id": "co_maersk",
+      "name": "Maersk",
+      "country": "Denmark",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3",
+        "8",
+        "9"
+      ]
+    },
+    "co_dbschenker": {
+      "id": "co_dbschenker",
+      "name": "DB Schenker",
+      "country": "Germany",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "3",
+        "4",
+        "8",
+        "9"
+      ]
+    },
+    "co_kuehne": {
+      "id": "co_kuehne",
+      "name": "Kuehne+Nagel",
+      "country": "Switzerland",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "8"
+      ]
+    },
+    "co_gucci": {
+      "id": "co_gucci",
+      "name": "Gucci (Kering)",
+      "country": "Italy",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3",
+        "5",
+        "7"
+      ]
+    },
+    "co_ferragamo": {
+      "id": "co_ferragamo",
+      "name": "Salvatore Ferragamo",
+      "country": "Italy",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3",
+        "5",
+        "7"
+      ]
+    },
+    "co_luxottica": {
+      "id": "co_luxottica",
+      "name": "Luxottica (EssilorLuxottica)",
+      "country": "Italy",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3",
+        "5",
+        "7",
+        "8"
+      ]
+    },
+    "co_prada": {
+      "id": "co_prada",
+      "name": "Prada Group",
+      "country": "Italy",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3",
+        "5",
+        "7"
+      ]
+    },
+    "co_lvmh": {
+      "id": "co_lvmh",
+      "name": "LVMH",
+      "country": "France",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3",
+        "5",
+        "7"
+      ]
+    },
+    "co_hermes": {
+      "id": "co_hermes",
+      "name": "Hermès",
+      "country": "France",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "5",
+        "7"
+      ]
+    },
+    "co_zalando": {
+      "id": "co_zalando",
+      "name": "Zalando",
+      "country": "Germany",
+      "real": true,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "co_primark": {
+      "id": "co_primark",
+      "name": "Primark",
+      "country": "Ireland",
+      "real": true,
+      "isco_sectors": [
+        "5",
+        "4",
+        "9"
+      ]
+    },
+    "co_f_nordtech": {
+      "id": "co_f_nordtech",
+      "name": "NordTech Solutions AB",
+      "country": "Sweden",
+      "real": false,
+      "isco_sectors": [
+        "2",
+        "3"
+      ]
+    },
+    "co_f_alphasoft": {
+      "id": "co_f_alphasoft",
+      "name": "AlphaSoft GmbH",
+      "country": "Germany",
+      "real": false,
+      "isco_sectors": [
+        "2",
+        "3"
+      ]
+    },
+    "co_f_digitalia": {
+      "id": "co_f_digitalia",
+      "name": "Digitalia S.r.l.",
+      "country": "Italy",
+      "real": false,
+      "isco_sectors": [
+        "2",
+        "3"
+      ]
+    },
+    "co_f_pixelwave": {
+      "id": "co_f_pixelwave",
+      "name": "PixelWave B.V.",
+      "country": "Netherlands",
+      "real": false,
+      "isco_sectors": [
+        "2",
+        "3"
+      ]
+    },
+    "co_f_codeforge": {
+      "id": "co_f_codeforge",
+      "name": "CodeForge S.A.S.",
+      "country": "France",
+      "real": false,
+      "isco_sectors": [
+        "2",
+        "3"
+      ]
+    },
+    "co_f_cyberlink": {
+      "id": "co_f_cyberlink",
+      "name": "CyberLink Sp. z o.o.",
+      "country": "Poland",
+      "real": false,
+      "isco_sectors": [
+        "2",
+        "3"
+      ]
+    },
+    "co_f_techvision": {
+      "id": "co_f_techvision",
+      "name": "TechVision Kft.",
+      "country": "Hungary",
+      "real": false,
+      "isco_sectors": [
+        "2",
+        "3"
+      ]
+    },
+    "co_f_databridge": {
+      "id": "co_f_databridge",
+      "name": "DataBridge S.L.",
+      "country": "Spain",
+      "real": false,
+      "isco_sectors": [
+        "2",
+        "3"
+      ]
+    },
+    "co_f_eurofinance": {
+      "id": "co_f_eurofinance",
+      "name": "EuroFinance Advisors S.A.",
+      "country": "Belgium",
+      "real": false,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "co_f_alphacons": {
+      "id": "co_f_alphacons",
+      "name": "Alpha Consulting GmbH",
+      "country": "Austria",
+      "real": false,
+      "isco_sectors": [
+        "1",
+        "2"
+      ]
+    },
+    "co_f_meridian": {
+      "id": "co_f_meridian",
+      "name": "Meridian Capital S.r.l.",
+      "country": "Italy",
+      "real": false,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "co_f_nordbank": {
+      "id": "co_f_nordbank",
+      "name": "NordBank A/S",
+      "country": "Denmark",
+      "real": false,
+      "isco_sectors": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "co_f_vitacare": {
+      "id": "co_f_vitacare",
+      "name": "VitaCare GmbH",
+      "country": "Germany",
+      "real": false,
+      "isco_sectors": [
+        "2",
+        "3"
+      ]
+    },
+    "co_f_medplus": {
+      "id": "co_f_medplus",
+      "name": "MedPlus S.r.l.",
+      "country": "Italy",
+      "real": false,
+      "isco_sectors": [
+        "2",
+        "3"
+      ]
+    },
+    "co_f_healthnet": {
+      "id": "co_f_healthnet",
+      "name": "HealthNet B.V.",
+      "country": "Netherlands",
+      "real": false,
+      "isco_sectors": [
+        "2",
+        "3"
+      ]
+    },
+    "co_f_edugroup": {
+      "id": "co_f_edugroup",
+      "name": "EduGroup S.A.",
+      "country": "France",
+      "real": false,
+      "isco_sectors": [
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "co_f_learnhub": {
+      "id": "co_f_learnhub",
+      "name": "LearnHub Sp. z o.o.",
+      "country": "Poland",
+      "real": false,
+      "isco_sectors": [
+        "2",
+        "3"
+      ]
+    },
+    "co_f_euromart": {
+      "id": "co_f_euromart",
+      "name": "EuroMart S.A.",
+      "country": "Spain",
+      "real": false,
+      "isco_sectors": [
+        "5",
+        "4",
+        "9"
+      ]
+    },
+    "co_f_bellaristor": {
+      "id": "co_f_bellaristor",
+      "name": "BellaRistoro S.r.l.",
+      "country": "Italy",
+      "real": false,
+      "isco_sectors": [
+        "5"
+      ]
+    },
+    "co_f_nordhotel": {
+      "id": "co_f_nordhotel",
+      "name": "NordHotel AB",
+      "country": "Sweden",
+      "real": false,
+      "isco_sectors": [
+        "5",
+        "4"
+      ]
+    },
+    "co_f_secureplus": {
+      "id": "co_f_secureplus",
+      "name": "SecurePlus GmbH",
+      "country": "Germany",
+      "real": false,
+      "isco_sectors": [
+        "5",
+        "3"
+      ]
+    },
+    "co_f_greenfarm": {
+      "id": "co_f_greenfarm",
+      "name": "GreenFarm Cooperative",
+      "country": "Netherlands",
+      "real": false,
+      "isco_sectors": [
+        "6"
+      ]
+    },
+    "co_f_agriplus": {
+      "id": "co_f_agriplus",
+      "name": "AgriPlus S.r.l.",
+      "country": "Italy",
+      "real": false,
+      "isco_sectors": [
+        "6"
+      ]
+    },
+    "co_f_vineland": {
+      "id": "co_f_vineland",
+      "name": "Vineland Estate S.L.",
+      "country": "Spain",
+      "real": false,
+      "isco_sectors": [
+        "6"
+      ]
+    },
+    "co_f_bioprod": {
+      "id": "co_f_bioprod",
+      "name": "BioProduits S.A.S.",
+      "country": "France",
+      "real": false,
+      "isco_sectors": [
+        "6",
+        "2"
+      ]
+    },
+    "co_f_metalwerk": {
+      "id": "co_f_metalwerk",
+      "name": "MetalWerk GmbH",
+      "country": "Germany",
+      "real": false,
+      "isco_sectors": [
+        "7",
+        "8"
+      ]
+    },
+    "co_f_italicraft": {
+      "id": "co_f_italicraft",
+      "name": "ItaliCraft S.r.l.",
+      "country": "Italy",
+      "real": false,
+      "isco_sectors": [
+        "7"
+      ]
+    },
+    "co_f_nordmach": {
+      "id": "co_f_nordmach",
+      "name": "NordMach A/S",
+      "country": "Denmark",
+      "real": false,
+      "isco_sectors": [
+        "7",
+        "8"
+      ]
+    },
+    "co_f_poliind": {
+      "id": "co_f_poliind",
+      "name": "PoliIndustria S.A.",
+      "country": "Portugal",
+      "real": false,
+      "isco_sectors": [
+        "8",
+        "7"
+      ]
+    },
+    "co_f_techassem": {
+      "id": "co_f_techassem",
+      "name": "TechAssembly B.V.",
+      "country": "Netherlands",
+      "real": false,
+      "isco_sectors": [
+        "8",
+        "3"
+      ]
+    },
+    "co_f_eurofreight": {
+      "id": "co_f_eurofreight",
+      "name": "EuroFreight S.A.",
+      "country": "Belgium",
+      "real": false,
+      "isco_sectors": [
+        "8",
+        "9",
+        "4"
+      ]
+    },
+    "co_f_rapidlog": {
+      "id": "co_f_rapidlog",
+      "name": "RapidLog GmbH",
+      "country": "Germany",
+      "real": false,
+      "isco_sectors": [
+        "8",
+        "9"
+      ]
+    },
+    "co_f_ibertrans": {
+      "id": "co_f_ibertrans",
+      "name": "IberTrans S.L.",
+      "country": "Spain",
+      "real": false,
+      "isco_sectors": [
+        "8",
+        "9"
+      ]
+    },
+    "co_f_eurobpo": {
+      "id": "co_f_eurobpo",
+      "name": "EuroBPO S.A.",
+      "country": "Luxembourg",
+      "real": false,
+      "isco_sectors": [
+        "4",
+        "3"
+      ]
+    },
+    "co_f_adminpro": {
+      "id": "co_f_adminpro",
+      "name": "AdminPro Sp. z o.o.",
+      "country": "Poland",
+      "real": false,
+      "isco_sectors": [
+        "4"
+      ]
+    },
+    "co_f_cleanserv": {
+      "id": "co_f_cleanserv",
+      "name": "CleanServ S.r.l.",
+      "country": "Italy",
+      "real": false,
+      "isco_sectors": [
+        "9",
+        "5"
+      ]
+    },
+    "co_f_facilityeu": {
+      "id": "co_f_facilityeu",
+      "name": "FacilityEU B.V.",
+      "country": "Netherlands",
+      "real": false,
+      "isco_sectors": [
+        "9",
+        "5"
+      ]
+    }
+  },
+  "by_sector": {
+    "1": [
+      "co_mckinsey",
+      "co_bcg",
+      "co_pwc",
+      "co_deloitte",
+      "co_kpmg",
+      "co_ey",
+      "co_bain",
+      "co_oliver",
+      "co_reply",
+      "co_engineering",
+      "co_tim",
+      "co_wind",
+      "co_vodafone_it",
+      "co_fastweb",
+      "co_vodafone_eu",
+      "co_orange",
+      "co_telekom",
+      "co_telefonica",
+      "co_swisscom",
+      "co_bnpparibas",
+      "co_unicredit",
+      "co_intesa",
+      "co_ing",
+      "co_deutsche",
+      "co_allianz",
+      "co_tim",
+      "co_wind",
+      "co_vodafone_it",
+      "co_fastweb",
+      "co_vodafone_eu",
+      "co_orange",
+      "co_telekom",
+      "co_telefonica",
+      "co_swisscom",
+      "co_bain",
+      "co_oliver",
+      "co_reply",
+      "co_engineering",
+      "co_enel",
+      "co_eni",
+      "co_total",
+      "co_shell",
+      "co_rwe",
+      "co_edf",
+      "co_a2a",
+      "co_snam",
+      "co_dhl",
+      "co_fedex",
+      "co_ups",
+      "co_maersk",
+      "co_dbschenker",
+      "co_kuehne",
+      "co_gucci",
+      "co_ferragamo",
+      "co_luxottica",
+      "co_prada",
+      "co_lvmh",
+      "co_hermes",
+      "co_zalando",
+      "co_f_eurofinance",
+      "co_f_alphacons",
+      "co_f_meridian",
+      "co_f_nordbank"
+    ],
+    "2": [
+      "co_mckinsey",
+      "co_bcg",
+      "co_pwc",
+      "co_deloitte",
+      "co_kpmg",
+      "co_ey",
+      "co_bain",
+      "co_oliver",
+      "co_reply",
+      "co_engineering",
+      "co_sap",
+      "co_siemens",
+      "co_philips",
+      "co_ericsson",
+      "co_nokia",
+      "co_capgemini",
+      "co_accenture",
+      "co_ibm_eu",
+      "co_infosys",
+      "co_booking",
+      "co_spotify",
+      "co_adyen",
+      "co_tim",
+      "co_wind",
+      "co_vodafone_it",
+      "co_fastweb",
+      "co_vodafone_eu",
+      "co_orange",
+      "co_telekom",
+      "co_telefonica",
+      "co_swisscom",
+      "co_roche",
+      "co_novartis",
+      "co_bayer",
+      "co_sanofi",
+      "co_astrazeneca",
+      "co_bnpparibas",
+      "co_unicredit",
+      "co_intesa",
+      "co_ing",
+      "co_deutsche",
+      "co_allianz",
+      "co_basf",
+      "co_syngenta",
+      "co_volkswagen",
+      "co_bmw",
+      "co_stellantis",
+      "co_airbus",
+      "co_bosch",
+      "co_tim",
+      "co_wind",
+      "co_vodafone_it",
+      "co_fastweb",
+      "co_vodafone_eu",
+      "co_orange",
+      "co_telekom",
+      "co_telefonica",
+      "co_swisscom",
+      "co_bain",
+      "co_oliver",
+      "co_reply",
+      "co_engineering",
+      "co_enel",
+      "co_eni",
+      "co_total",
+      "co_shell",
+      "co_rwe",
+      "co_edf",
+      "co_a2a",
+      "co_snam",
+      "co_maersk",
+      "co_kuehne",
+      "co_gucci",
+      "co_ferragamo",
+      "co_luxottica",
+      "co_prada",
+      "co_lvmh",
+      "co_hermes",
+      "co_zalando",
+      "co_f_nordtech",
+      "co_f_alphasoft",
+      "co_f_digitalia",
+      "co_f_pixelwave",
+      "co_f_codeforge",
+      "co_f_cyberlink",
+      "co_f_techvision",
+      "co_f_databridge",
+      "co_f_eurofinance",
+      "co_f_alphacons",
+      "co_f_meridian",
+      "co_f_nordbank",
+      "co_f_vitacare",
+      "co_f_medplus",
+      "co_f_healthnet",
+      "co_f_edugroup",
+      "co_f_learnhub",
+      "co_f_bioprod"
+    ],
+    "3": [
+      "co_pwc",
+      "co_deloitte",
+      "co_reply",
+      "co_engineering",
+      "co_sap",
+      "co_siemens",
+      "co_philips",
+      "co_ericsson",
+      "co_nokia",
+      "co_capgemini",
+      "co_accenture",
+      "co_ibm_eu",
+      "co_infosys",
+      "co_booking",
+      "co_adyen",
+      "co_tim",
+      "co_wind",
+      "co_vodafone_it",
+      "co_fastweb",
+      "co_vodafone_eu",
+      "co_orange",
+      "co_telekom",
+      "co_telefonica",
+      "co_swisscom",
+      "co_roche",
+      "co_novartis",
+      "co_bayer",
+      "co_sanofi",
+      "co_astrazeneca",
+      "co_bnpparibas",
+      "co_unicredit",
+      "co_intesa",
+      "co_ing",
+      "co_deutsche",
+      "co_allianz",
+      "co_volkswagen",
+      "co_bmw",
+      "co_stellantis",
+      "co_airbus",
+      "co_bosch",
+      "co_saint_gobain",
+      "co_tim",
+      "co_wind",
+      "co_vodafone_it",
+      "co_fastweb",
+      "co_vodafone_eu",
+      "co_orange",
+      "co_telekom",
+      "co_telefonica",
+      "co_swisscom",
+      "co_reply",
+      "co_engineering",
+      "co_enel",
+      "co_eni",
+      "co_total",
+      "co_shell",
+      "co_rwe",
+      "co_edf",
+      "co_a2a",
+      "co_snam",
+      "co_dhl",
+      "co_fedex",
+      "co_ups",
+      "co_gls",
+      "co_brt",
+      "co_sda",
+      "co_maersk",
+      "co_dbschenker",
+      "co_kuehne",
+      "co_gucci",
+      "co_ferragamo",
+      "co_luxottica",
+      "co_prada",
+      "co_lvmh",
+      "co_zalando",
+      "co_f_nordtech",
+      "co_f_alphasoft",
+      "co_f_digitalia",
+      "co_f_pixelwave",
+      "co_f_codeforge",
+      "co_f_cyberlink",
+      "co_f_techvision",
+      "co_f_databridge",
+      "co_f_eurofinance",
+      "co_f_meridian",
+      "co_f_nordbank",
+      "co_f_vitacare",
+      "co_f_medplus",
+      "co_f_healthnet",
+      "co_f_edugroup",
+      "co_f_learnhub",
+      "co_f_secureplus",
+      "co_f_techassem",
+      "co_f_eurobpo"
+    ],
+    "7": [
+      "co_siemens",
+      "co_volkswagen",
+      "co_bmw",
+      "co_stellantis",
+      "co_airbus",
+      "co_bosch",
+      "co_michelin",
+      "co_saint_gobain",
+      "co_electrolux",
+      "co_enel",
+      "co_eni",
+      "co_total",
+      "co_shell",
+      "co_rwe",
+      "co_edf",
+      "co_a2a",
+      "co_snam",
+      "co_gucci",
+      "co_ferragamo",
+      "co_luxottica",
+      "co_prada",
+      "co_lvmh",
+      "co_hermes",
+      "co_f_metalwerk",
+      "co_f_italicraft",
+      "co_f_nordmach",
+      "co_f_poliind"
+    ],
+    "8": [
+      "co_siemens",
+      "co_ikea",
+      "co_volkswagen",
+      "co_bmw",
+      "co_stellantis",
+      "co_airbus",
+      "co_bosch",
+      "co_michelin",
+      "co_saint_gobain",
+      "co_electrolux",
+      "co_enel",
+      "co_eni",
+      "co_total",
+      "co_shell",
+      "co_rwe",
+      "co_edf",
+      "co_a2a",
+      "co_snam",
+      "co_dhl",
+      "co_fedex",
+      "co_ups",
+      "co_gls",
+      "co_brt",
+      "co_sda",
+      "co_maersk",
+      "co_dbschenker",
+      "co_kuehne",
+      "co_luxottica",
+      "co_f_metalwerk",
+      "co_f_nordmach",
+      "co_f_poliind",
+      "co_f_techassem",
+      "co_f_eurofreight",
+      "co_f_rapidlog",
+      "co_f_ibertrans"
+    ],
+    "4": [
+      "co_tim",
+      "co_wind",
+      "co_vodafone_it",
+      "co_fastweb",
+      "co_vodafone_eu",
+      "co_orange",
+      "co_telekom",
+      "co_telefonica",
+      "co_swisscom",
+      "co_bnpparibas",
+      "co_unicredit",
+      "co_intesa",
+      "co_ing",
+      "co_zara",
+      "co_hm",
+      "co_ikea",
+      "co_carrefour",
+      "co_lidl",
+      "co_hilton",
+      "co_accor",
+      "co_tim",
+      "co_wind",
+      "co_vodafone_it",
+      "co_fastweb",
+      "co_vodafone_eu",
+      "co_orange",
+      "co_telekom",
+      "co_telefonica",
+      "co_swisscom",
+      "co_dhl",
+      "co_fedex",
+      "co_ups",
+      "co_gls",
+      "co_brt",
+      "co_sda",
+      "co_dbschenker",
+      "co_kuehne",
+      "co_zalando",
+      "co_primark",
+      "co_f_nordbank",
+      "co_f_edugroup",
+      "co_f_euromart",
+      "co_f_nordhotel",
+      "co_f_eurofreight",
+      "co_f_eurobpo",
+      "co_f_adminpro"
+    ],
+    "5": [
+      "co_tim",
+      "co_wind",
+      "co_vodafone_it",
+      "co_fastweb",
+      "co_vodafone_eu",
+      "co_orange",
+      "co_telekom",
+      "co_telefonica",
+      "co_zara",
+      "co_hm",
+      "co_ikea",
+      "co_carrefour",
+      "co_lidl",
+      "co_hilton",
+      "co_accor",
+      "co_tim",
+      "co_wind",
+      "co_vodafone_it",
+      "co_fastweb",
+      "co_vodafone_eu",
+      "co_orange",
+      "co_telekom",
+      "co_telefonica",
+      "co_gucci",
+      "co_ferragamo",
+      "co_luxottica",
+      "co_prada",
+      "co_lvmh",
+      "co_hermes",
+      "co_zalando",
+      "co_primark",
+      "co_f_euromart",
+      "co_f_bellaristor",
+      "co_f_nordhotel",
+      "co_f_secureplus",
+      "co_f_cleanserv",
+      "co_f_facilityeu"
+    ],
+    "6": [
+      "co_bayer",
+      "co_basf",
+      "co_syngenta",
+      "co_eni",
+      "co_total",
+      "co_shell",
+      "co_f_greenfarm",
+      "co_f_agriplus",
+      "co_f_vineland",
+      "co_f_bioprod"
+    ],
+    "9": [
+      "co_carrefour",
+      "co_lidl",
+      "co_dhl",
+      "co_fedex",
+      "co_ups",
+      "co_gls",
+      "co_brt",
+      "co_sda",
+      "co_maersk",
+      "co_dbschenker",
+      "co_primark",
+      "co_f_euromart",
+      "co_f_eurofreight",
+      "co_f_rapidlog",
+      "co_f_ibertrans",
+      "co_f_cleanserv",
+      "co_f_facilityeu"
+    ]
+  },
+  "stats": {
+    "total": 134,
+    "real": 97,
+    "fictional": 37
+  }
+}

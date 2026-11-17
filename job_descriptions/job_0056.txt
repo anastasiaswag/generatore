@@ -1,0 +1,7 @@
+ID: 56
+Area: Informatica
+Ruolo: DevOps Engineer
+Azienda: Aubay Italia
+Località: Milano
+
+DevOps Engineer - Aubay Italia (Milano, Ibrido). Contratto: Tempo determinato; profilo: Senior. Attività principali: gestione infrastruttura, deployment e automazione CI/CD; integrazione di sistemi IT, database e servizi cloud. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Java, Spring Boot, REST API, buona capacità di lavoro in team e Microservizi. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

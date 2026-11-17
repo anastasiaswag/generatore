@@ -1,0 +1,7 @@
+ID: 229
+Area: Informatica
+Ruolo: Application Engineer IT
+Azienda: Accenture
+Località: Melfi
+
+Application Engineer IT - Accenture (Melfi, In sede). Contratto: Tempo indeterminato; profilo: Junior. Attività principali: gestione infrastruttura, deployment e automazione CI/CD; sviluppo firmware/embedded software per dispositivi connessi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di React, Node.js, TypeScript, buona capacità di lavoro in team e PostgreSQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

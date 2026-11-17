@@ -1,0 +1,226 @@
+{
+  "occ_source": "ground_truth",
+  "jobs_file": "job_gt_batch_results.json",
+  "n_cv_totali": 810,
+  "n_cv_testabili": 810,
+  "n_cv_valutati": 30,
+  "n_jobs_pool": 300,
+  "top_k": 10,
+  "precision_at_1": 96.7,
+  "precision_at_3": 96.7,
+  "precision_at_10": 100.0,
+  "mrr": 0.971,
+  "baseline_precision_at_1_media": 2.0,
+  "dettaglio_per_cv": [
+    {
+      "cv_id": "parsed_cv_3ce4691e-ecea-4278-939e-b89ab01087b8_senior_1.pdf",
+      "target_occupation": "telecommunications manager",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_bdf2dd9d-6c92-46f4-a8e7-76c12302d3e7_senior_0.pdf",
+      "target_occupation": "ticket sales agent",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_d0d7d777-073f-4c33-8f27-1d4a0e8e626f_senior_1.pdf",
+      "target_occupation": "pulp control operator",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_4fe4b1f1-e84d-4056-b062-83d5a64fc571_junior_0.pdf",
+      "target_occupation": "aquaculture harvesting manager",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_83de6811-975d-4f7c-b81e-604c0c17e800_senior_0.pdf",
+      "target_occupation": "fish production operator",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_7819669b-30c2-42e6-a1c4-0bcd6f0379ff_senior_0.pdf",
+      "target_occupation": "international relations officer",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_fd0801c9-809a-4cfd-98ed-6c5860c163f2_mid_0.pdf",
+      "target_occupation": "investment clerk",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_cb932c74-c13b-47e9-9a85-318bd8eb2f96_senior_1.pdf",
+      "target_occupation": "train cleaner",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_2662ed6c-a705-4895-8e9d-0a85c08ad908_junior_0.pdf",
+      "target_occupation": "dog trainer",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_74d47633-8e9e-4e08-9cba-d2292c211218_mid_0.pdf",
+      "target_occupation": "dangerous goods safety adviser",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_1b5ccfe7-1cc3-4f02-974c-f852d3faf57e_mid_1.pdf",
+      "target_occupation": "crop production manager",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_67d8c64f-e0d9-4e0b-be8b-510f9e20e698_mid_0.pdf",
+      "target_occupation": "outdoor animator",
+      "hit_rank": 8,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_3a17bd32-8a00-47cb-82aa-2b5660cf1192_mid_0.pdf",
+      "target_occupation": "audiology equipment specialised seller",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_98f9909b-016d-4c62-90ae-893b0cbabbca_junior_1.pdf",
+      "target_occupation": "press and stationery shop manager",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_6e591f17-65c1-4a24-af2a-ca7862d4625e_mid_0.pdf",
+      "target_occupation": "technical sales representative in electronic and telecommunications equipment",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_a02a1117-212f-4a49-b21a-d3b971e00e48_senior_1.pdf",
+      "target_occupation": "pizzaiolo",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_1fc60ca6-c3ea-4aeb-bf3b-350c0c5e7f93_mid_1.pdf",
+      "target_occupation": "vineyard machinery operator",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_2de007c6-3223-4cd1-9561-e8a2e16e049d_mid_1.pdf",
+      "target_occupation": "animal welfare inspector",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_d2df16f3-87d7-4c6e-a640-95cee39a8f4e_senior_1.pdf",
+      "target_occupation": "cider master",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_98f9909b-016d-4c62-90ae-893b0cbabbca_junior_0.pdf",
+      "target_occupation": "press and stationery shop manager",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_4b72d306-9781-434d-8522-1fcaf892cdce_mid_0.pdf",
+      "target_occupation": "non-vessel operating common carrier",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_2de007c6-3223-4cd1-9561-e8a2e16e049d_senior_0.pdf",
+      "target_occupation": "animal welfare inspector",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_1f2b8092-1787-4ef4-9282-cf81ce4b4d76_junior_1.pdf",
+      "target_occupation": "mobile crane operator",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_3e0b4b9b-b624-4ceb-9bc9-9627cdfb0b81_senior_1.pdf",
+      "target_occupation": "leather goods machine operator",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_a9068f84-cecd-4cbb-9acb-e20c714435ec_junior_1.pdf",
+      "target_occupation": "concrete finisher",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_ccf0becd-247d-4497-9ee7-25a46c1ffb7a_junior_1.pdf",
+      "target_occupation": "press and stationery specialised seller",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_2f7f5c84-b9b3-41ea-aa5f-5997d0873141_mid_0.pdf",
+      "target_occupation": "bingo caller",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_511f366c-ba41-4826-9622-8cda6d6e3b91_mid_1.pdf",
+      "target_occupation": "mail clerk",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_fb7e2f4f-1545-42f1-972e-94082e49c6dc_mid_1.pdf",
+      "target_occupation": "building construction worker",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    },
+    {
+      "cv_id": "parsed_cv_0d6bb2cc-06b0-481c-b553-2a973be03254_junior_0.pdf",
+      "target_occupation": "water-based aquaculture technician",
+      "hit_rank": 1,
+      "n_correct_in_pool": 6,
+      "baseline_p1": 0.02
+    }
+  ]
+}

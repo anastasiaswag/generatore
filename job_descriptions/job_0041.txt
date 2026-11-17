@@ -1,0 +1,7 @@
+ID: 41
+Area: Informatica
+Ruolo: Software Engineer
+Azienda: Gruppo Gpi
+Località: Bacoli
+
+Software Engineer - Gruppo Gpi (Bacoli, In sede). Contratto: Tempo indeterminato; profilo: Lead/Responsabile. Attività principali: gestione infrastruttura, deployment e automazione CI/CD; progettazione di architetture backend e API per piattaforme digitali. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Java, Spring Boot, REST API, buona capacità di lavoro in team e Microservizi. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

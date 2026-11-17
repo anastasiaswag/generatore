@@ -1,0 +1,7 @@
+ID: 151
+Area: Informatica
+Ruolo: Firmware/Embedded Software Engineer
+Azienda: Net Reply
+Località: Trieste
+
+Firmware/Embedded Software Engineer - Net Reply (Trieste, In sede). Contratto: Tempo indeterminato; profilo: Stage/Tirocinio. Attività principali: integrazione di sistemi IT, database e servizi cloud; gestione infrastruttura, deployment e automazione CI/CD. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Data pipeline, ETL, Spark, buona capacità di lavoro in team e Python. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 163
+Area: Informatica
+Ruolo: Junior Agentic Developer
+Azienda: YCOM
+Località: Lombardia
+
+Junior Agentic Developer - YCOM (Lombardia, Ibrido). Contratto: Full time; profilo: Middle. Attività principali: gestione infrastruttura, deployment e automazione CI/CD; progettazione di architetture backend e API per piattaforme digitali. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di AI/ML, Computer Vision, PyTorch, buona capacità di lavoro in team e MLOps. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 178
+Area: Informatica
+Ruolo: System Engineer
+Azienda: aizoOn Technology Consulting
+Località: Brescia
+
+System Engineer - aizoOn Technology Consulting (Brescia, Ibrido). Contratto: Consulenza; profilo: Senior. Attività principali: sviluppo e manutenzione di applicazioni software in ambiente enterprise; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Python, SQL, Docker, buona capacità di lavoro in team e Kubernetes. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 160
+Area: Informatica
+Ruolo: Cybersecurity Engineer
+Azienda: Umana S.p.A.
+Località: Pomezia
+
+Cybersecurity Engineer - Umana S.p.A. (Pomezia, Ibrido). Contratto: Full time; profilo: Senior. Attività principali: integrazione di sistemi IT, database e servizi cloud; testing, quality assurance e documentazione tecnica. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di AI/ML, Computer Vision, PyTorch, buona capacità di lavoro in team e MLOps. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

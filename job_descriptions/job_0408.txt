@@ -1,0 +1,7 @@
+ID: 408
+Area: Elettronica
+Ruolo: Hardware Engineer
+Azienda: Akkodis
+Località: Ancona
+
+Hardware Engineer - Akkodis (Ancona, In sede). Contratto: Tempo determinato; profilo: Junior. Attività principali: test di laboratorio, debugging, misure e qualifiche EMC; supporto a progetti automotive, railway, industrial o space/defence. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di sensori, I2C/SPI/UART, microcontrollori, buona capacità di lavoro in team e firmware. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

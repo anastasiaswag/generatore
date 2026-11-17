@@ -1,0 +1,31 @@
+{
+  "n_cv_valutati": 100,
+  "accuracy_esatta": 1.0,
+  "accuracy_adiacente": 1.0,
+  "baseline_casuale": 0.333,
+  "guadagno_su_baseline": 3.0,
+  "per_livello": {
+    "junior": {
+      "n": 23,
+      "accuracy": 1.0
+    },
+    "mid": {
+      "n": 34,
+      "accuracy": 1.0
+    },
+    "senior": {
+      "n": 43,
+      "accuracy": 1.0
+    }
+  },
+  "confusione": {
+    "senior->senior": 43,
+    "junior->junior": 23,
+    "mid->mid": 34
+  },
+  "config": {
+    "seniority_weight": 0.3,
+    "count_weight": 0.4,
+    "count_k": 10.0
+  }
+}

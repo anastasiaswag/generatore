@@ -1,0 +1,29 @@
+{
+  "n_annunci_valutati": 810,
+  "skill_precision": 0.614,
+  "skill_recall": 0.577,
+  "skill_f1": 0.58,
+  "occupation_accuracy_esatta": 0.759,
+  "occupation_accuracy_settore": 0.875,
+  "per_seniority": {
+    "junior": {
+      "n": 270,
+      "precision": 0.564,
+      "recall": 0.605,
+      "f1": 0.571
+    },
+    "mid": {
+      "n": 270,
+      "precision": 0.607,
+      "recall": 0.571,
+      "f1": 0.575
+    },
+    "senior": {
+      "n": 270,
+      "precision": 0.671,
+      "recall": 0.556,
+      "f1": 0.593
+    }
+  },
+  "skipped": 0
+}

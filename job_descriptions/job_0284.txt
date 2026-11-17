@@ -1,0 +1,7 @@
+ID: 284
+Area: Informatica
+Ruolo: DevOps Engineer
+Azienda: Capgemini
+Località: Parma
+
+DevOps Engineer - Capgemini (Parma, In sede). Contratto: Tempo indeterminato; profilo: Middle. Attività principali: gestione infrastruttura, deployment e automazione CI/CD; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di C/C++, Linux Embedded, Git, buona capacità di lavoro in team e Yocto. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

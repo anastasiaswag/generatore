@@ -1,0 +1,7 @@
+ID: 265
+Area: Informatica
+Ruolo: Junior Junior Agentic Developer
+Azienda: YCOM
+Località: Frascati
+
+Junior Junior Agentic Developer - YCOM (Frascati, In sede). Contratto: Tempo indeterminato; profilo: Middle. Attività principali: progettazione di architetture backend e API per piattaforme digitali; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Azure/AWS, Terraform, CI/CD, buona capacità di lavoro in team e Monitoring. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

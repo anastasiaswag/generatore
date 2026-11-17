@@ -1,0 +1,7 @@
+ID: 451
+Area: Elettronica
+Ruolo: Embedded Hardware Engineer
+Azienda: TempJob Italia
+Località: Trieste
+
+Embedded Hardware Engineer - TempJob Italia (Trieste, In sede). Contratto: Apprendistato; profilo: Middle. Attività principali: integrazione sensori, bus di comunicazione e sistemi di controllo; progettazione e validazione di schede elettroniche e apparati embedded. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di telecomunicazioni, 5G/RF, misure, buona capacità di lavoro in team e documentazione. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 103
+Area: Informatica
+Ruolo: Cloud Engineer
+Azienda: Aubay Italia
+Località: Reggio Emilia
+
+Cloud Engineer - Aubay Italia (Reggio Emilia, In sede). Contratto: Consulenza; profilo: Stage/Tirocinio. Attività principali: testing, quality assurance e documentazione tecnica; progettazione di architetture backend e API per piattaforme digitali. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di React, Node.js, TypeScript, buona capacità di lavoro in team e PostgreSQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

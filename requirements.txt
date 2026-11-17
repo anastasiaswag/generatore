@@ -1,0 +1,23 @@
+# SkillPath AI — dipendenze principali
+# (nessun requirements.txt esisteva prima; elenco ricavato dagli import nel codice)
+
+torch
+sentence-transformers
+numpy
+PyMuPDF
+python-docx
+reportlab
+requests
+python-dotenv
+
+# Frontend
+streamlit
+
+# ── Opzionali ────────────────────────────────────────────────────────────────
+# spaCy serve solo al chunking dei sintagmi nominali del job parser
+# (JobParser(use_spacy=True)), che è disattivo di default. Senza spaCy il
+# parser ricade automaticamente sull'estrazione a confini di stopword.
+#   pip install spacy
+#   python -m spacy download it_core_news_sm
+#   python -m spacy download en_core_web_sm
+# spacy

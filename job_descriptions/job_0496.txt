@@ -1,0 +1,7 @@
+ID: 496
+Area: Elettronica
+Ruolo: Hardware Engineer
+Azienda: RINA
+Località: Genova
+
+Hardware Engineer - RINA (Genova, Ibrido). Contratto: Tempo indeterminato; profilo: Neolaureato. Attività principali: redazione documentazione tecnica, specifiche e report di validazione; test di laboratorio, debugging, misure e qualifiche EMC. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di FMEDA, DFA, safety analysis, buona capacità di lavoro in team e validazione. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

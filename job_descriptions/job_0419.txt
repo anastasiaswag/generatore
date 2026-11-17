@@ -1,0 +1,7 @@
+ID: 419
+Area: Elettronica
+Ruolo: Firmware Engineer
+Azienda: RINA
+Località: Piemonte
+
+Firmware Engineer - RINA (Piemonte, In sede). Contratto: Tempo indeterminato; profilo: Neolaureato. Attività principali: supporto a progetti automotive, railway, industrial o space/defence; integrazione sensori, bus di comunicazione e sistemi di controllo. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di C embedded, STM32, RTOS, buona capacità di lavoro in team e debugging. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,121 @@
+{
+  "skill_mancanti_totali_con_ripetizioni": 223,
+  "skill_mancanti_distinte": 72,
+  "copertura_su_skill_distinte": {
+    "gap_size": 72,
+    "covered": 31,
+    "not_covered": 41,
+    "coverage_pct": 43.1
+  },
+  "copertura_pesata_su_occorrenze": {
+    "gap_size": 223,
+    "covered": 91,
+    "not_covered": 132,
+    "coverage_pct": 40.8
+  },
+  "top_skill_scoperte": [
+    {
+      "id": "74aa45cf-175f-47ef-9978-d9de437d92ba",
+      "label": "stare in allerta",
+      "occorrenze": 12
+    },
+    {
+      "id": "20a8fe89-d4eb-4698-8521-8881c13377e0",
+      "label": "interact professionally in research and professional environments",
+      "occorrenze": 6
+    },
+    {
+      "id": "db85a2ca-04c4-4275-ba7a-b615c3686e09",
+      "label": "tipi di pelle",
+      "occorrenze": 6
+    },
+    {
+      "id": "48f480aa-c9a8-4552-b1c5-e94330912257",
+      "label": "codice della strada",
+      "occorrenze": 6
+    },
+    {
+      "id": "d63c2bad-817d-4116-b4d8-b927cb01212d",
+      "label": "diritto commerciale specifico",
+      "occorrenze": 6
+    },
+    {
+      "id": "aafbb139-02c6-4f35-bc62-ff73faf97d6d",
+      "label": "interpretare carte 3D",
+      "occorrenze": 6
+    },
+    {
+      "id": "ecf9829d-e532-45cf-aaff-1dd1fb1c812b",
+      "label": "manage crop rotation",
+      "occorrenze": 6
+    },
+    {
+      "id": "ceda9207-797c-4d4a-b65a-5eb59084f011",
+      "label": "industria cosmetica",
+      "occorrenze": 6
+    },
+    {
+      "id": "210827e3-3129-45a2-8683-70399f3f561f",
+      "label": "ordinare le forniture",
+      "occorrenze": 6
+    },
+    {
+      "id": "509ff122-3546-40a7-ae02-3ee7395b3a76",
+      "label": "legislazione sul trasporto stradale",
+      "occorrenze": 5
+    },
+    {
+      "id": "aea2e3d5-428d-474f-b696-4eb8c95f39a7",
+      "label": "classificare le foglie di tabacco",
+      "occorrenze": 5
+    },
+    {
+      "id": "e1479957-1606-4dbd-90f7-4c46c615936c",
+      "label": "prepare planting area",
+      "occorrenze": 5
+    },
+    {
+      "id": "0d254d2f-f6c7-49ac-be0d-a2651c222f7a",
+      "label": "metalli preziosi",
+      "occorrenze": 5
+    },
+    {
+      "id": "329d7233-7231-4082-8ca4-0b5e295785aa",
+      "label": "spolverare",
+      "occorrenze": 5
+    },
+    {
+      "id": "cbbeffe1-35b1-4384-9431-e669153bda8c",
+      "label": "rimuovere la carta da parati",
+      "occorrenze": 4
+    },
+    {
+      "id": "dfce2aba-783e-4e17-9c17-e74aca505ec2",
+      "label": "interpretare carte 2D",
+      "occorrenze": 3
+    },
+    {
+      "id": "43bdb744-8072-4db9-b6e8-beea2171de1b",
+      "label": "tipi di materiale per intonacatura",
+      "occorrenze": 3
+    },
+    {
+      "id": "4134622c-c3fb-4a41-beb6-6d58ba5107db",
+      "label": "demonstrate disciplinary expertise",
+      "occorrenze": 3
+    },
+    {
+      "id": "b5a118aa-f8ae-4a34-a7aa-b470444b4769",
+      "label": "tagliare l’argilla",
+      "occorrenze": 3
+    },
+    {
+      "id": "30291328-7ba5-47a8-ab93-b11791836bb7",
+      "label": "vinegar fermentation process",
+      "occorrenze": 2
+    }
+  ],
+  "origine_gap": "dataset corrente",
+  "scenario": "transizione",
+  "n_cv": 60
+}

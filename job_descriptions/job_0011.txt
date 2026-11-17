@@ -1,0 +1,7 @@
+ID: 11
+Area: Informatica
+Ruolo: Full Stack Developer
+Azienda: Gruppo Maggioli
+Località: Bologna
+
+Full Stack Developer - Gruppo Maggioli (Bologna, Ibrido). Contratto: Tempo indeterminato; profilo: Junior. Attività principali: sviluppo e manutenzione di applicazioni software in ambiente enterprise; gestione infrastruttura, deployment e automazione CI/CD. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Data pipeline, ETL, Spark, buona capacità di lavoro in team e Python. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

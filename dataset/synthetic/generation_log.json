@@ -1,0 +1,14 @@
+{
+  "errors": [],
+  "stats": {
+    "total_cvs": 810,
+    "by_seniority": {
+      "junior": 270,
+      "mid": 270,
+      "senior": 270
+    },
+    "avg_skill_coverage": 0.633,
+    "generation_time_sec": 3589.2,
+    "errors": 0
+  }
+}

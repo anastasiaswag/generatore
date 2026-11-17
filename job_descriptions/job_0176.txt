@@ -1,0 +1,7 @@
+ID: 176
+Area: Informatica
+Ruolo: IT Infrastructure Engineer
+Azienda: Leonardo
+Località: Genova
+
+IT Infrastructure Engineer - Leonardo (Genova, In sede). Contratto: Stage; profilo: Junior. Attività principali: sviluppo firmware/embedded software per dispositivi connessi; progettazione di architetture backend e API per piattaforme digitali. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Azure/AWS, Terraform, CI/CD, buona capacità di lavoro in team e Monitoring. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

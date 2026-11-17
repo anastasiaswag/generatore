@@ -1,0 +1,7 @@
+ID: 202
+Area: Informatica
+Ruolo: Application Engineer IT
+Azienda: Gruppo Gpi
+Località: Bari
+
+Application Engineer IT - Gruppo Gpi (Bari, In sede). Contratto: Consulenza; profilo: Senior. Attività principali: gestione infrastruttura, deployment e automazione CI/CD; testing, quality assurance e documentazione tecnica. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Data pipeline, ETL, Spark, buona capacità di lavoro in team e Python. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

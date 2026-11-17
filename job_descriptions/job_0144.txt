@@ -1,0 +1,7 @@
+ID: 144
+Area: Informatica
+Ruolo: Senior Junior Agentic Developer
+Azienda: Teoresi Group
+Località: Parma
+
+Senior Junior Agentic Developer - Teoresi Group (Parma, In sede). Contratto: Apprendistato; profilo: Middle. Attività principali: analisi dati, pipeline ETL e modelli predittivi; testing, quality assurance e documentazione tecnica. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di C/C++, Linux Embedded, Git, buona capacità di lavoro in team e Yocto. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

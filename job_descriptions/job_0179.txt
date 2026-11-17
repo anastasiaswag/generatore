@@ -1,0 +1,7 @@
+ID: 179
+Area: Informatica
+Ruolo: AI/ML Engineer
+Azienda: Umana S.p.A.
+Località: Melfi
+
+AI/ML Engineer - Umana S.p.A. (Melfi, Ibrido). Contratto: Tempo determinato; profilo: Middle. Attività principali: sviluppo firmware/embedded software per dispositivi connessi; progettazione di architetture backend e API per piattaforme digitali. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di AI/ML, Computer Vision, PyTorch, buona capacità di lavoro in team e MLOps. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

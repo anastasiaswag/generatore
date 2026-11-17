@@ -1,0 +1,7 @@
+ID: 175
+Area: Informatica
+Ruolo: ERP/SAP Technical Consultant
+Azienda: Kineton
+Località: Bari
+
+ERP/SAP Technical Consultant - Kineton (Bari, Ibrido). Contratto: Tempo determinato; profilo: Neolaureato. Attività principali: gestione infrastruttura, deployment e automazione CI/CD; sviluppo firmware/embedded software per dispositivi connessi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di C/C++, Linux Embedded, Git, buona capacità di lavoro in team e Yocto. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 291
+Area: Informatica
+Ruolo: Software Engineer
+Azienda: Randstad Digital
+Località: Pesaro
+
+Software Engineer - Randstad Digital (Pesaro, In sede). Contratto: Tempo indeterminato; profilo: Senior. Attività principali: analisi dati, pipeline ETL e modelli predittivi; sviluppo e manutenzione di applicazioni software in ambiente enterprise. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Data pipeline, ETL, Spark, buona capacità di lavoro in team e Python. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

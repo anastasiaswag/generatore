@@ -1,0 +1,7 @@
+ID: 231
+Area: Informatica
+Ruolo: Sistemista Networking
+Azienda: Reply
+Località: Rovereto
+
+Sistemista Networking - Reply (Rovereto, Ibrido). Contratto: Tempo determinato; profilo: Junior. Attività principali: analisi dati, pipeline ETL e modelli predittivi; gestione infrastruttura, deployment e automazione CI/CD. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Windows/Linux Server, VMware, Backup, buona capacità di lavoro in team e Networking. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

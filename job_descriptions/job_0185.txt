@@ -1,0 +1,7 @@
+ID: 185
+Area: Informatica
+Ruolo: ERP/SAP Technical Consultant
+Azienda: Satispay
+Località: Collegno
+
+ERP/SAP Technical Consultant - Satispay (Collegno, In sede). Contratto: Tempo indeterminato; profilo: Middle. Attività principali: testing, quality assurance e documentazione tecnica; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di AI/ML, Computer Vision, PyTorch, buona capacità di lavoro in team e MLOps. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

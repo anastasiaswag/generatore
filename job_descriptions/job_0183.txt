@@ -1,0 +1,7 @@
+ID: 183
+Area: Informatica
+Ruolo: IT Infrastructure Engineer
+Azienda: Reply
+Località: Pozzuoli
+
+IT Infrastructure Engineer - Reply (Pozzuoli, Da remoto). Contratto: Tempo indeterminato; profilo: Neolaureato. Attività principali: sviluppo firmware/embedded software per dispositivi connessi; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di C/C++, Linux Embedded, Git, buona capacità di lavoro in team e Yocto. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

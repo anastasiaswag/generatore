@@ -1,0 +1,7 @@
+ID: 518
+Area: Elettronica
+Ruolo: Railway Hardware Engineer
+Azienda: Sumitomo Electric
+Località: Parma
+
+Railway Hardware Engineer - Sumitomo Electric (Parma, In sede). Contratto: Tempo determinato; profilo: Middle. Attività principali: redazione documentazione tecnica, specifiche e report di validazione; sviluppo firmware per microcontrollori e sistemi real-time. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di RF, antenne, strumentazione, buona capacità di lavoro in team e test di laboratorio. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

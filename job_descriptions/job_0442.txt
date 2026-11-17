@@ -1,0 +1,7 @@
+ID: 442
+Area: Elettronica
+Ruolo: Electronic Process Engineer
+Azienda: Move Silicon
+Località: Brescia
+
+Electronic Process Engineer - Move Silicon (Brescia, Da remoto). Contratto: Tempo indeterminato; profilo: Senior. Attività principali: sviluppo firmware per microcontrollori e sistemi real-time; progettazione e validazione di schede elettroniche e apparati embedded. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di LabVIEW, Matlab, Python, buona capacità di lavoro in team e test automation. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

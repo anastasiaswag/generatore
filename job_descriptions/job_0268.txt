@@ -1,0 +1,7 @@
+ID: 268
+Area: Informatica
+Ruolo: Cybersecurity Engineer
+Azienda: Gruppo Gpi
+Località: Collegno
+
+Cybersecurity Engineer - Gruppo Gpi (Collegno, In sede). Contratto: Tempo determinato; profilo: Junior. Attività principali: gestione infrastruttura, deployment e automazione CI/CD; sviluppo firmware/embedded software per dispositivi connessi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di PLC/SCADA, OPC-UA, Industrial IoT, buona capacità di lavoro in team e SQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

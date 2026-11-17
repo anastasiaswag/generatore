@@ -1,0 +1,7 @@
+ID: 655
+Area: Elettronica
+Ruolo: Railway Hardware Engineer
+Azienda: RINA
+Località: Roma
+
+Railway Hardware Engineer - RINA (Roma, In sede). Contratto: Full time; profilo: Middle. Attività principali: sviluppo firmware per microcontrollori e sistemi real-time; supporto a progetti automotive, railway, industrial o space/defence. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di telecomunicazioni, 5G/RF, misure, buona capacità di lavoro in team e documentazione. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

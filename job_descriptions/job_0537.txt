@@ -1,0 +1,7 @@
+ID: 537
+Area: Elettronica
+Ruolo: PCB Designer
+Azienda: Move Silicon
+Località: Frascati
+
+PCB Designer - Move Silicon (Frascati, Ibrido). Contratto: Consulenza; profilo: Junior. Attività principali: redazione documentazione tecnica, specifiche e report di validazione; supporto a progetti automotive, railway, industrial o space/defence. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di railway/automotive, CAN bus, LIN, buona capacità di lavoro in team e diagnostica. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

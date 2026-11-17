@@ -1,0 +1,7 @@
+ID: 101
+Area: Informatica
+Ruolo: Data Engineer
+Azienda: Teoresi Group
+Località: Modena
+
+Data Engineer - Teoresi Group (Modena, In sede). Contratto: Tempo indeterminato; profilo: Junior. Attività principali: sviluppo e manutenzione di applicazioni software in ambiente enterprise; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di C/C++, Linux Embedded, Git, buona capacità di lavoro in team e Yocto. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

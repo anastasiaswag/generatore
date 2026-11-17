@@ -1,0 +1,14 @@
+{
+  "errors": [],
+  "stats": {
+    "total_jobs": 810,
+    "by_seniority": {
+      "junior": 270,
+      "mid": 270,
+      "senior": 270
+    },
+    "avg_skill_coverage": 0.541,
+    "generation_time_sec": 177.7,
+    "errors": 0
+  }
+}

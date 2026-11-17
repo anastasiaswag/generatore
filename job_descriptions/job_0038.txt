@@ -1,0 +1,7 @@
+ID: 38
+Area: Informatica
+Ruolo: Software Engineer
+Azienda: aizoOn Technology Consulting
+Località: Brescia
+
+Software Engineer - aizoOn Technology Consulting (Brescia, Ibrido). Contratto: Tempo determinato; profilo: Middle. Attività principali: integrazione di sistemi IT, database e servizi cloud; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Azure/AWS, Terraform, CI/CD, buona capacità di lavoro in team e Monitoring. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 600
+Area: Elettronica
+Ruolo: Electronic Project Specialist
+Azienda: ATM Milano
+Località: Pomezia
+
+Electronic Project Specialist - ATM Milano (Pomezia, In sede). Contratto: Tempo indeterminato; profilo: Junior. Attività principali: supporto a progetti automotive, railway, industrial o space/defence; progettazione e validazione di schede elettroniche e apparati embedded. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di C embedded, STM32, RTOS, buona capacità di lavoro in team e debugging. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

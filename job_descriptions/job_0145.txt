@@ -1,0 +1,7 @@
+ID: 145
+Area: Informatica
+Ruolo: ERP/SAP Technical Consultant
+Azienda: Net Reply
+Località: Caselle Torinese
+
+ERP/SAP Technical Consultant - Net Reply (Caselle Torinese, In sede). Contratto: Tempo indeterminato; profilo: Junior. Attività principali: testing, quality assurance e documentazione tecnica; gestione infrastruttura, deployment e automazione CI/CD. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Azure/AWS, Terraform, CI/CD, buona capacità di lavoro in team e Monitoring. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 25
+Area: Informatica
+Ruolo: AI/ML Engineer
+Azienda: Satispay
+Località: Pozzuoli
+
+AI/ML Engineer - Satispay (Pozzuoli, In sede). Contratto: Full time; profilo: Stage/Tirocinio. Attività principali: analisi dati, pipeline ETL e modelli predittivi; gestione infrastruttura, deployment e automazione CI/CD. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di PLC/SCADA, OPC-UA, Industrial IoT, buona capacità di lavoro in team e SQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 599
+Area: Elettronica
+Ruolo: Automation Engineer
+Azienda: ATM Milano
+Località: Ancona
+
+Automation Engineer - ATM Milano (Ancona, In sede). Contratto: Tempo determinato; profilo: Junior. Attività principali: integrazione sensori, bus di comunicazione e sistemi di controllo; sviluppo firmware per microcontrollori e sistemi real-time. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di LabVIEW, Matlab, Python, buona capacità di lavoro in team e test automation. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

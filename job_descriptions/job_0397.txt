@@ -1,0 +1,7 @@
+ID: 397
+Area: Elettronica
+Ruolo: Embedded Hardware Engineer
+Azienda: Capgemini Engineering
+Località: Piemonte
+
+Embedded Hardware Engineer - Capgemini Engineering (Piemonte, In sede). Contratto: Tempo indeterminato; profilo: Middle. Attività principali: supporto a progetti automotive, railway, industrial o space/defence; redazione documentazione tecnica, specifiche e report di validazione. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di PCB, KiCad/Altium, schematic capture, buona capacità di lavoro in team e layout. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

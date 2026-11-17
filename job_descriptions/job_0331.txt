@@ -1,0 +1,7 @@
+ID: 331
+Area: Informatica
+Ruolo: Junior DevOps Engineer
+Azienda: inRebus Technologies
+Località: Vicenza
+
+Junior DevOps Engineer - inRebus Technologies (Vicenza, Ibrido). Contratto: Tempo determinato; profilo: Neolaureato. Attività principali: progettazione di architetture backend e API per piattaforme digitali; sviluppo firmware/embedded software per dispositivi connessi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di C/C++, Linux Embedded, Git, buona capacità di lavoro in team e Yocto. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

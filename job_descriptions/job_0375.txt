@@ -1,0 +1,7 @@
+ID: 375
+Area: Elettronica
+Ruolo: Test & Validation Engineer
+Azienda: Move Silicon
+Località: Milano
+
+Test & Validation Engineer - Move Silicon (Milano, In sede). Contratto: Tempo indeterminato; profilo: Junior. Attività principali: integrazione sensori, bus di comunicazione e sistemi di controllo; test di laboratorio, debugging, misure e qualifiche EMC. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di PCB, KiCad/Altium, schematic capture, buona capacità di lavoro in team e layout. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

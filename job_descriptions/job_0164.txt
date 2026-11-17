@@ -1,0 +1,7 @@
+ID: 164
+Area: Informatica
+Ruolo: AI/ML Engineer
+Azienda: Net Reply
+Località: Caselle Torinese
+
+AI/ML Engineer - Net Reply (Caselle Torinese, In sede). Contratto: Consulenza; profilo: Senior. Attività principali: progettazione di architetture backend e API per piattaforme digitali; sviluppo e manutenzione di applicazioni software in ambiente enterprise. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di PLC/SCADA, OPC-UA, Industrial IoT, buona capacità di lavoro in team e SQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

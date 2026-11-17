@@ -1,0 +1,7 @@
+ID: 244
+Area: Informatica
+Ruolo: IT Infrastructure Engineer
+Azienda: Zucchetti
+Località: Rovereto
+
+IT Infrastructure Engineer - Zucchetti (Rovereto, Ibrido). Contratto: Apprendistato; profilo: Middle. Attività principali: testing, quality assurance e documentazione tecnica; progettazione di architetture backend e API per piattaforme digitali. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Windows/Linux Server, VMware, Backup, buona capacità di lavoro in team e Networking. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

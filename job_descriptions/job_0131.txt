@@ -1,0 +1,7 @@
+ID: 131
+Area: Informatica
+Ruolo: ERP/SAP Technical Consultant
+Azienda: IBM
+Località: Modena
+
+ERP/SAP Technical Consultant - IBM (Modena, In sede). Contratto: Tempo indeterminato; profilo: Neolaureato. Attività principali: sviluppo e manutenzione di applicazioni software in ambiente enterprise; progettazione di architetture backend e API per piattaforme digitali. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Python, SQL, Docker, buona capacità di lavoro in team e Kubernetes. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 297
+Area: Informatica
+Ruolo: Data Engineer
+Azienda: Reply
+Località: Collegno
+
+Data Engineer - Reply (Collegno, In sede). Contratto: Tempo indeterminato; profilo: Middle. Attività principali: progettazione di architetture backend e API per piattaforme digitali; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Windows/Linux Server, VMware, Backup, buona capacità di lavoro in team e Networking. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

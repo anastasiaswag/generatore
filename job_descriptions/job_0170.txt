@@ -1,0 +1,7 @@
+ID: 170
+Area: Informatica
+Ruolo: PLC/SCADA Software Engineer
+Azienda: Experis
+Località: Pozzuoli
+
+PLC/SCADA Software Engineer - Experis (Pozzuoli, In sede). Contratto: Tempo indeterminato; profilo: Lead/Responsabile. Attività principali: gestione infrastruttura, deployment e automazione CI/CD; integrazione di sistemi IT, database e servizi cloud. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di C/C++, Linux Embedded, Git, buona capacità di lavoro in team e Yocto. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

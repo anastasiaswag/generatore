@@ -1,0 +1,7 @@
+ID: 197
+Area: Informatica
+Ruolo: AI/ML Engineer
+Azienda: IBM
+Località: Pesaro
+
+AI/ML Engineer - IBM (Pesaro, In sede). Contratto: Tempo indeterminato; profilo: Lead/Responsabile. Attività principali: integrazione di sistemi IT, database e servizi cloud; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di React, Node.js, TypeScript, buona capacità di lavoro in team e PostgreSQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 211
+Area: Informatica
+Ruolo: Software Tester / QA Engineer
+Azienda: Teoresi Group
+Località: Rovereto
+
+Software Tester / QA Engineer - Teoresi Group (Rovereto, In sede). Contratto: Tempo indeterminato; profilo: Junior. Attività principali: gestione infrastruttura, deployment e automazione CI/CD; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Windows/Linux Server, VMware, Backup, buona capacità di lavoro in team e Networking. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

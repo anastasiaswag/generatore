@@ -1,0 +1,32 @@
+Backend Developer Python — TechCorp (Milano, Ibrido)
+
+Siamo alla ricerca di un Backend Developer da inserire nel nostro team di sviluppo.
+Il candidato si occuperà di progettazione e sviluppo di API REST, gestione di
+database relazionali e integrazione con servizi cloud.
+
+Responsabilità principali:
+- Sviluppo e manutenzione di microservizi in Python
+- Progettazione di API REST con FastAPI o Django REST Framework
+- Gestione di database PostgreSQL e ottimizzazione delle query SQL
+- Integrazione con servizi AWS (Lambda, S3, RDS)
+- Partecipazione alle code review e alla scrittura di test unitari
+
+Requisiti richiesti:
+- Esperienza di almeno 2 anni nello sviluppo backend con Python
+- Solida conoscenza di SQL e database relazionali
+- Esperienza con Git e sistemi di versioning
+- Conoscenza di architetture a microservizi e REST API
+- Si richiede buona padronanza di Linux e scripting bash
+
+Requisiti preferenziali:
+- Gradita esperienza con Docker e orchestrazione container
+- Costituirà titolo preferenziale la conoscenza di Kubernetes
+- Sarà considerato un plus l'esperienza con pipeline CI/CD (Jenkins, GitLab CI)
+- Gradita la conoscenza di strumenti di monitoraggio come Prometheus o Grafana
+- Idealmente il candidato ha familiarità con metodologie Agile e Scrum
+- Completano il profilo buone doti comunicative e capacità di lavorare in team
+
+Cosa offriamo:
+- Contratto a tempo indeterminato
+- Smart working ibrido (3 giorni da remoto)
+- Formazione continua e budget per certificazioni

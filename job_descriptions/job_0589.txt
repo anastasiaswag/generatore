@@ -1,0 +1,7 @@
+ID: 589
+Area: Elettronica
+Ruolo: RF Engineer
+Azienda: Move Silicon
+Località: Ancona
+
+RF Engineer - Move Silicon (Ancona, In sede). Contratto: Consulenza; profilo: Junior. Attività principali: supporto a progetti automotive, railway, industrial o space/defence; progettazione e validazione di schede elettroniche e apparati embedded. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di C embedded, STM32, RTOS, buona capacità di lavoro in team e debugging. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 167
+Area: Informatica
+Ruolo: PLC/SCADA Software Engineer
+Azienda: Reply
+Località: Bari
+
+PLC/SCADA Software Engineer - Reply (Bari, In sede). Contratto: Tempo indeterminato; profilo: Neolaureato. Attività principali: sviluppo e manutenzione di applicazioni software in ambiente enterprise; sviluppo firmware/embedded software per dispositivi connessi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Data pipeline, ETL, Spark, buona capacità di lavoro in team e Python. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 2
+Area: Informatica
+Ruolo: Software Engineer
+Azienda: Net Reply
+Località: Melfi
+
+Software Engineer - Net Reply (Melfi, In sede). Contratto: Tempo determinato; profilo: Senior. Attività principali: integrazione di sistemi IT, database e servizi cloud; gestione infrastruttura, deployment e automazione CI/CD. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di PLC/SCADA, OPC-UA, Industrial IoT, buona capacità di lavoro in team e SQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

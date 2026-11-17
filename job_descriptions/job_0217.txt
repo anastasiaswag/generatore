@@ -1,0 +1,7 @@
+ID: 217
+Area: Informatica
+Ruolo: Backend Developer
+Azienda: Alten Italia
+Località: Monopoli
+
+Backend Developer - Alten Italia (Monopoli, In sede). Contratto: Tempo determinato; profilo: Junior. Attività principali: gestione infrastruttura, deployment e automazione CI/CD; testing, quality assurance e documentazione tecnica. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Data pipeline, ETL, Spark, buona capacità di lavoro in team e Python. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

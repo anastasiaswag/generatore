@@ -1,0 +1,7 @@
+ID: 222
+Area: Informatica
+Ruolo: PLC/SCADA Software Engineer
+Azienda: Accenture
+Località: Melfi
+
+PLC/SCADA Software Engineer - Accenture (Melfi, Ibrido). Contratto: Tempo indeterminato; profilo: Neolaureato. Attività principali: testing, quality assurance e documentazione tecnica; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di React, Node.js, TypeScript, buona capacità di lavoro in team e PostgreSQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

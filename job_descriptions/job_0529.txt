@@ -1,0 +1,7 @@
+ID: 529
+Area: Elettronica
+Ruolo: Automation Engineer
+Azienda: Alten Italia
+Località: Milano
+
+Automation Engineer - Alten Italia (Milano, Da remoto). Contratto: Tempo indeterminato; profilo: Stage/Tirocinio. Attività principali: integrazione sensori, bus di comunicazione e sistemi di controllo; sviluppo firmware per microcontrollori e sistemi real-time. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di power electronics, inverter, convertitori, buona capacità di lavoro in team e EMC. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

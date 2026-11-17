@@ -1,0 +1,7 @@
+ID: 92
+Area: Informatica
+Ruolo: IT Infrastructure Engineer
+Azienda: Satispay
+Località: Firenze
+
+IT Infrastructure Engineer - Satispay (Firenze, In sede). Contratto: Tempo determinato; profilo: Middle. Attività principali: integrazione di sistemi IT, database e servizi cloud; sviluppo e manutenzione di applicazioni software in ambiente enterprise. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Data pipeline, ETL, Spark, buona capacità di lavoro in team e Python. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

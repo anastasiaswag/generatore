@@ -1,0 +1,7 @@
+ID: 565
+Area: Elettronica
+Ruolo: RF Engineer
+Azienda: Honeywell
+Località: Torino
+
+RF Engineer - Honeywell (Torino, In sede). Contratto: Tempo indeterminato; profilo: Senior. Attività principali: progettazione e validazione di schede elettroniche e apparati embedded; redazione documentazione tecnica, specifiche e report di validazione. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di PCB, KiCad/Altium, schematic capture, buona capacità di lavoro in team e layout. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

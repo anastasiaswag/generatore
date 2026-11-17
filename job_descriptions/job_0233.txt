@@ -1,0 +1,7 @@
+ID: 233
+Area: Informatica
+Ruolo: PLC/SCADA Software Engineer
+Azienda: aizoOn Technology Consulting
+Località: Modena
+
+PLC/SCADA Software Engineer - aizoOn Technology Consulting (Modena, In sede). Contratto: Tempo indeterminato; profilo: Senior. Attività principali: sviluppo e manutenzione di applicazioni software in ambiente enterprise; sviluppo firmware/embedded software per dispositivi connessi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di PLC/SCADA, OPC-UA, Industrial IoT, buona capacità di lavoro in team e SQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

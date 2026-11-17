@@ -1,0 +1,7 @@
+ID: 289
+Area: Informatica
+Ruolo: IoT Platform Engineer
+Azienda: Randstad Digital
+Località: Lombardia
+
+IoT Platform Engineer - Randstad Digital (Lombardia, Ibrido). Contratto: Tempo indeterminato; profilo: Junior. Attività principali: analisi dati, pipeline ETL e modelli predittivi; gestione infrastruttura, deployment e automazione CI/CD. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Java, Spring Boot, REST API, buona capacità di lavoro in team e Microservizi. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

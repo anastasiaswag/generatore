@@ -1,0 +1,7 @@
+ID: 403
+Area: Elettronica
+Ruolo: Power Electronics Engineer
+Azienda: Saipem
+Località: Firenze
+
+Power Electronics Engineer - Saipem (Firenze, In sede). Contratto: Tempo determinato; profilo: Junior. Attività principali: sviluppo firmware per microcontrollori e sistemi real-time; test di laboratorio, debugging, misure e qualifiche EMC. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di FMEDA, DFA, safety analysis, buona capacità di lavoro in team e validazione. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

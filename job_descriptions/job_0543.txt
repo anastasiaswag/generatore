@@ -1,0 +1,7 @@
+ID: 543
+Area: Elettronica
+Ruolo: Embedded Hardware Engineer
+Azienda: Saipem
+Località: Pomezia
+
+Embedded Hardware Engineer - Saipem (Pomezia, In sede). Contratto: Consulenza; profilo: Neolaureato. Attività principali: test di laboratorio, debugging, misure e qualifiche EMC; integrazione sensori, bus di comunicazione e sistemi di controllo. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di railway/automotive, CAN bus, LIN, buona capacità di lavoro in team e diagnostica. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

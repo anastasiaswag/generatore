@@ -1,0 +1,7 @@
+ID: 486
+Area: Elettronica
+Ruolo: Firmware Engineer
+Azienda: Akkodis
+Località: Collegno
+
+Firmware Engineer - Akkodis (Collegno, In sede). Contratto: Tempo determinato; profilo: Neolaureato. Attività principali: integrazione sensori, bus di comunicazione e sistemi di controllo; redazione documentazione tecnica, specifiche e report di validazione. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di sensori, I2C/SPI/UART, microcontrollori, buona capacità di lavoro in team e firmware. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 315
+Area: Informatica
+Ruolo: Junior Agentic Developer
+Azienda: Satispay
+Località: Collegno
+
+Junior Agentic Developer - Satispay (Collegno, In sede). Contratto: Apprendistato; profilo: Junior. Attività principali: sviluppo e manutenzione di applicazioni software in ambiente enterprise; integrazione di sistemi IT, database e servizi cloud. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Java, Spring Boot, REST API, buona capacità di lavoro in team e Microservizi. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

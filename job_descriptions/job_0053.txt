@@ -1,0 +1,7 @@
+ID: 53
+Area: Informatica
+Ruolo: Junior Agentic Developer
+Azienda: inRebus Technologies
+Località: Genova
+
+Junior Agentic Developer - inRebus Technologies (Genova, Ibrido). Contratto: Tempo indeterminato; profilo: Junior. Attività principali: gestione infrastruttura, deployment e automazione CI/CD; sviluppo e manutenzione di applicazioni software in ambiente enterprise. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di PLC/SCADA, OPC-UA, Industrial IoT, buona capacità di lavoro in team e SQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

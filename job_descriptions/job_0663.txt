@@ -1,0 +1,7 @@
+ID: 663
+Area: Elettronica
+Ruolo: RF Engineer
+Azienda: ATM Milano
+Località: Emilia Romagna
+
+RF Engineer - ATM Milano (Emilia Romagna, Ibrido). Contratto: Tempo indeterminato; profilo: Junior. Attività principali: supporto a progetti automotive, railway, industrial o space/defence; test di laboratorio, debugging, misure e qualifiche EMC. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di sensori, I2C/SPI/UART, microcontrollori, buona capacità di lavoro in team e firmware. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

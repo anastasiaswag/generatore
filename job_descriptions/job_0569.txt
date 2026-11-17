@@ -1,0 +1,7 @@
+ID: 569
+Area: Elettronica
+Ruolo: PCB Designer
+Azienda: Amaris Consulting
+Località: Padova
+
+PCB Designer - Amaris Consulting (Padova, In sede). Contratto: Tempo indeterminato; profilo: Neolaureato. Attività principali: progettazione e validazione di schede elettroniche e apparati embedded; supporto a progetti automotive, railway, industrial o space/defence. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di PCB, KiCad/Altium, schematic capture, buona capacità di lavoro in team e layout. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

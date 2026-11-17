@@ -1,0 +1,7 @@
+ID: 353
+Area: Elettronica
+Ruolo: Field Application Engineer
+Azienda: AYES
+Località: Reggio Emilia
+
+Field Application Engineer - AYES (Reggio Emilia, Ibrido). Contratto: Tempo indeterminato; profilo: Middle. Attività principali: redazione documentazione tecnica, specifiche e report di validazione; supporto a progetti automotive, railway, industrial o space/defence. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di sensori, I2C/SPI/UART, microcontrollori, buona capacità di lavoro in team e firmware. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

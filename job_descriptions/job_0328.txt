@@ -1,0 +1,7 @@
+ID: 328
+Area: Informatica
+Ruolo: IT Infrastructure Engineer
+Azienda: Leonardo
+Località: Reggio Emilia
+
+IT Infrastructure Engineer - Leonardo (Reggio Emilia, Da remoto). Contratto: Stage; profilo: Middle. Attività principali: sviluppo e manutenzione di applicazioni software in ambiente enterprise; progettazione di architetture backend e API per piattaforme digitali. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Data pipeline, ETL, Spark, buona capacità di lavoro in team e Python. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

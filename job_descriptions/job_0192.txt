@@ -1,0 +1,7 @@
+ID: 192
+Area: Informatica
+Ruolo: IoT Platform Engineer
+Azienda: Banca Ifis
+Località: Bacoli
+
+IoT Platform Engineer - Banca Ifis (Bacoli, Da remoto). Contratto: Apprendistato; profilo: Neolaureato. Attività principali: analisi dati, pipeline ETL e modelli predittivi; sviluppo e manutenzione di applicazioni software in ambiente enterprise. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Windows/Linux Server, VMware, Backup, buona capacità di lavoro in team e Networking. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

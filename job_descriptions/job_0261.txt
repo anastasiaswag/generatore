@@ -1,0 +1,7 @@
+ID: 261
+Area: Informatica
+Ruolo: IT Infrastructure Engineer
+Azienda: Alten Italia
+Località: Monopoli
+
+IT Infrastructure Engineer - Alten Italia (Monopoli, Da remoto). Contratto: Consulenza; profilo: Junior. Attività principali: progettazione di architetture backend e API per piattaforme digitali; testing, quality assurance e documentazione tecnica. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di C/C++, Linux Embedded, Git, buona capacità di lavoro in team e Yocto. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

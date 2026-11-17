@@ -1,0 +1,7 @@
+ID: 394
+Area: Elettronica
+Ruolo: Ingegnere Elettronico Junior
+Azienda: Teoresi MedTech
+Località: Rovereto
+
+Ingegnere Elettronico Junior - Teoresi MedTech (Rovereto, In sede). Contratto: Tempo determinato; profilo: Middle. Attività principali: redazione documentazione tecnica, specifiche e report di validazione; test di laboratorio, debugging, misure e qualifiche EMC. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di sensori, I2C/SPI/UART, microcontrollori, buona capacità di lavoro in team e firmware. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

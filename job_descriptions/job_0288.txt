@@ -1,0 +1,7 @@
+ID: 288
+Area: Informatica
+Ruolo: ERP/SAP Technical Consultant
+Azienda: Fastweb
+Località: Roma
+
+ERP/SAP Technical Consultant - Fastweb (Roma, In sede). Contratto: Tempo indeterminato; profilo: Junior. Attività principali: analisi dati, pipeline ETL e modelli predittivi; integrazione di sistemi IT, database e servizi cloud. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Azure/AWS, Terraform, CI/CD, buona capacità di lavoro in team e Monitoring. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

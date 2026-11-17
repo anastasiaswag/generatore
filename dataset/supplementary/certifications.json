@@ -1,0 +1,597 @@
+{
+  "certifications": {
+    "cert_aws_ccp": {
+      "id": "cert_aws_ccp",
+      "label": "AWS Certified Cloud Practitioner",
+      "area": "tech",
+      "issuer": "Amazon Web Services",
+      "level": "foundation",
+      "weight": 0.5,
+      "isco_relevant": [
+        "2",
+        "3"
+      ]
+    },
+    "cert_aws_sa": {
+      "id": "cert_aws_sa",
+      "label": "AWS Certified Solutions Architect Associate",
+      "area": "tech",
+      "issuer": "Amazon Web Services",
+      "level": "associate",
+      "weight": 0.8,
+      "isco_relevant": [
+        "2"
+      ]
+    },
+    "cert_aws_sap": {
+      "id": "cert_aws_sap",
+      "label": "AWS Certified Solutions Architect Professional",
+      "area": "tech",
+      "issuer": "Amazon Web Services",
+      "level": "professional",
+      "weight": 1.0,
+      "isco_relevant": [
+        "2"
+      ]
+    },
+    "cert_az900": {
+      "id": "cert_az900",
+      "label": "Microsoft Azure Fundamentals (AZ-900)",
+      "area": "tech",
+      "issuer": "Microsoft",
+      "level": "foundation",
+      "weight": 0.45,
+      "isco_relevant": [
+        "2",
+        "3"
+      ]
+    },
+    "cert_az104": {
+      "id": "cert_az104",
+      "label": "Microsoft Azure Administrator (AZ-104)",
+      "area": "tech",
+      "issuer": "Microsoft",
+      "level": "associate",
+      "weight": 0.75,
+      "isco_relevant": [
+        "2",
+        "3"
+      ]
+    },
+    "cert_az305": {
+      "id": "cert_az305",
+      "label": "Microsoft Azure Solutions Architect (AZ-305)",
+      "area": "tech",
+      "issuer": "Microsoft",
+      "level": "expert",
+      "weight": 0.95,
+      "isco_relevant": [
+        "2"
+      ]
+    },
+    "cert_gcp_ace": {
+      "id": "cert_gcp_ace",
+      "label": "Google Cloud Associate Cloud Engineer",
+      "area": "tech",
+      "issuer": "Google",
+      "level": "associate",
+      "weight": 0.75,
+      "isco_relevant": [
+        "2",
+        "3"
+      ]
+    },
+    "cert_gcp_pca": {
+      "id": "cert_gcp_pca",
+      "label": "Google Cloud Professional Cloud Architect",
+      "area": "tech",
+      "issuer": "Google",
+      "level": "professional",
+      "weight": 0.95,
+      "isco_relevant": [
+        "2"
+      ]
+    },
+    "cert_ccna": {
+      "id": "cert_ccna",
+      "label": "Cisco CCNA",
+      "area": "tech",
+      "issuer": "Cisco",
+      "level": "associate",
+      "weight": 0.7,
+      "isco_relevant": [
+        "2",
+        "3"
+      ]
+    },
+    "cert_ccnp": {
+      "id": "cert_ccnp",
+      "label": "Cisco CCNP",
+      "area": "tech",
+      "issuer": "Cisco",
+      "level": "professional",
+      "weight": 0.9,
+      "isco_relevant": [
+        "2"
+      ]
+    },
+    "cert_comptia_sec": {
+      "id": "cert_comptia_sec",
+      "label": "CompTIA Security+",
+      "area": "tech",
+      "issuer": "CompTIA",
+      "level": "associate",
+      "weight": 0.7,
+      "isco_relevant": [
+        "2",
+        "3"
+      ]
+    },
+    "cert_cissp": {
+      "id": "cert_cissp",
+      "label": "CISSP (Certified Information Systems Security Professional)",
+      "area": "tech",
+      "issuer": "ISC2",
+      "level": "professional",
+      "weight": 1.0,
+      "isco_relevant": [
+        "2"
+      ]
+    },
+    "cert_ceh": {
+      "id": "cert_ceh",
+      "label": "CEH (Certified Ethical Hacker)",
+      "area": "tech",
+      "issuer": "EC-Council",
+      "level": "professional",
+      "weight": 0.8,
+      "isco_relevant": [
+        "2"
+      ]
+    },
+    "cert_tf_dev": {
+      "id": "cert_tf_dev",
+      "label": "TensorFlow Developer Certificate",
+      "area": "tech",
+      "issuer": "Google",
+      "level": "professional",
+      "weight": 0.75,
+      "isco_relevant": [
+        "2"
+      ]
+    },
+    "cert_azure_ai": {
+      "id": "cert_azure_ai",
+      "label": "Microsoft Azure AI Engineer (AI-102)",
+      "area": "tech",
+      "issuer": "Microsoft",
+      "level": "associate",
+      "weight": 0.8,
+      "isco_relevant": [
+        "2"
+      ]
+    },
+    "cert_databricks": {
+      "id": "cert_databricks",
+      "label": "Databricks Certified Associate Developer",
+      "area": "tech",
+      "issuer": "Databricks",
+      "level": "associate",
+      "weight": 0.75,
+      "isco_relevant": [
+        "2"
+      ]
+    },
+    "cert_pmp": {
+      "id": "cert_pmp",
+      "label": "PMP (Project Management Professional)",
+      "area": "tech",
+      "issuer": "PMI",
+      "level": "professional",
+      "weight": 0.9,
+      "isco_relevant": [
+        "1",
+        "2"
+      ]
+    },
+    "cert_prince2": {
+      "id": "cert_prince2",
+      "label": "PRINCE2 Foundation",
+      "area": "tech",
+      "issuer": "Axelos",
+      "level": "foundation",
+      "weight": 0.6,
+      "isco_relevant": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "cert_prince2p": {
+      "id": "cert_prince2p",
+      "label": "PRINCE2 Practitioner",
+      "area": "tech",
+      "issuer": "Axelos",
+      "level": "professional",
+      "weight": 0.8,
+      "isco_relevant": [
+        "1",
+        "2"
+      ]
+    },
+    "cert_psm1": {
+      "id": "cert_psm1",
+      "label": "Professional Scrum Master I (PSM I)",
+      "area": "tech",
+      "issuer": "Scrum.org",
+      "level": "foundation",
+      "weight": 0.65,
+      "isco_relevant": [
+        "2",
+        "3"
+      ]
+    },
+    "cert_safe": {
+      "id": "cert_safe",
+      "label": "SAFe Agilist",
+      "area": "tech",
+      "issuer": "Scaled Agile",
+      "level": "associate",
+      "weight": 0.7,
+      "isco_relevant": [
+        "1",
+        "2"
+      ]
+    },
+    "cert_cfa1": {
+      "id": "cert_cfa1",
+      "label": "CFA Level I (Chartered Financial Analyst)",
+      "area": "finance",
+      "issuer": "CFA Institute",
+      "level": "foundation",
+      "weight": 0.7,
+      "isco_relevant": [
+        "2",
+        "3"
+      ]
+    },
+    "cert_cfa2": {
+      "id": "cert_cfa2",
+      "label": "CFA Level II",
+      "area": "finance",
+      "issuer": "CFA Institute",
+      "level": "associate",
+      "weight": 0.85,
+      "isco_relevant": [
+        "2"
+      ]
+    },
+    "cert_cfa3": {
+      "id": "cert_cfa3",
+      "label": "CFA Charterholder",
+      "area": "finance",
+      "issuer": "CFA Institute",
+      "level": "professional",
+      "weight": 1.0,
+      "isco_relevant": [
+        "2"
+      ]
+    },
+    "cert_acca": {
+      "id": "cert_acca",
+      "label": "ACCA (Association of Chartered Certified Accountants)",
+      "area": "finance",
+      "issuer": "ACCA",
+      "level": "professional",
+      "weight": 0.9,
+      "isco_relevant": [
+        "2",
+        "3"
+      ]
+    },
+    "cert_frm": {
+      "id": "cert_frm",
+      "label": "FRM (Financial Risk Manager)",
+      "area": "finance",
+      "issuer": "GARP",
+      "level": "professional",
+      "weight": 0.9,
+      "isco_relevant": [
+        "2"
+      ]
+    },
+    "cert_cpa": {
+      "id": "cert_cpa",
+      "label": "CPA (Certified Public Accountant)",
+      "area": "finance",
+      "issuer": "AICPA",
+      "level": "professional",
+      "weight": 0.85,
+      "isco_relevant": [
+        "2"
+      ]
+    },
+    "cert_caia": {
+      "id": "cert_caia",
+      "label": "CAIA (Chartered Alternative Investment Analyst)",
+      "area": "finance",
+      "issuer": "CAIA Association",
+      "level": "professional",
+      "weight": 0.8,
+      "isco_relevant": [
+        "2"
+      ]
+    },
+    "cert_rspp": {
+      "id": "cert_rspp",
+      "label": "RSPP (Responsabile Servizio Prevenzione e Protezione)",
+      "area": "regulated",
+      "issuer": "INAIL/Enti accreditati",
+      "level": "professional",
+      "weight": 0.85,
+      "isco_relevant": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "cert_haccp": {
+      "id": "cert_haccp",
+      "label": "Certificazione HACCP",
+      "area": "regulated",
+      "issuer": "Enti accreditati",
+      "level": "foundation",
+      "weight": 0.5,
+      "isco_relevant": [
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "cert_iso9001": {
+      "id": "cert_iso9001",
+      "label": "ISO 9001 Lead Auditor",
+      "area": "regulated",
+      "issuer": "Bureau Veritas / DNV / SGS",
+      "level": "professional",
+      "weight": 0.8,
+      "isco_relevant": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "cert_iso14001": {
+      "id": "cert_iso14001",
+      "label": "ISO 14001 Lead Auditor",
+      "area": "regulated",
+      "issuer": "Bureau Veritas / DNV / SGS",
+      "level": "professional",
+      "weight": 0.75,
+      "isco_relevant": [
+        "2",
+        "3"
+      ]
+    },
+    "cert_iso27001": {
+      "id": "cert_iso27001",
+      "label": "ISO/IEC 27001 Lead Implementer",
+      "area": "regulated",
+      "issuer": "Bureau Veritas / DNV / SGS",
+      "level": "professional",
+      "weight": 0.85,
+      "isco_relevant": [
+        "2"
+      ]
+    },
+    "cert_pat_b": {
+      "id": "cert_pat_b",
+      "label": "Patente B (autoveicoli)",
+      "area": "regulated",
+      "issuer": "MIMIT",
+      "level": "foundation",
+      "weight": 0.3,
+      "isco_relevant": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    "cert_pat_c": {
+      "id": "cert_pat_c",
+      "label": "Patente C (veicoli pesanti)",
+      "area": "regulated",
+      "issuer": "MIMIT",
+      "level": "associate",
+      "weight": 0.6,
+      "isco_relevant": [
+        "8",
+        "9"
+      ]
+    },
+    "cert_pat_cqc": {
+      "id": "cert_pat_cqc",
+      "label": "CQC (Certificato di Qualificazione Conducenti)",
+      "area": "regulated",
+      "issuer": "MIMIT",
+      "level": "professional",
+      "weight": 0.65,
+      "isco_relevant": [
+        "8"
+      ]
+    },
+    "cert_muletto": {
+      "id": "cert_muletto",
+      "label": "Abilitazione Muletto / Carrello Elevatore",
+      "area": "regulated",
+      "issuer": "Enti accreditati regionali",
+      "level": "foundation",
+      "weight": 0.45,
+      "isco_relevant": [
+        "8",
+        "9"
+      ]
+    },
+    "cert_gru": {
+      "id": "cert_gru",
+      "label": "Abilitazione Gru su autocarro",
+      "area": "regulated",
+      "issuer": "Enti accreditati regionali",
+      "level": "associate",
+      "weight": 0.55,
+      "isco_relevant": [
+        "7",
+        "8"
+      ]
+    },
+    "cert_elettrico": {
+      "id": "cert_elettrico",
+      "label": "Abilitazione PES/PAV (Lavori elettrici)",
+      "area": "regulated",
+      "issuer": "CEI / Enti accreditati",
+      "level": "associate",
+      "weight": 0.6,
+      "isco_relevant": [
+        "3",
+        "7"
+      ]
+    },
+    "cert_bls": {
+      "id": "cert_bls",
+      "label": "BLS-D (Basic Life Support & Defibrillation)",
+      "area": "regulated",
+      "issuer": "IRC / ERC",
+      "level": "foundation",
+      "weight": 0.5,
+      "isco_relevant": [
+        "2",
+        "3",
+        "5"
+      ]
+    },
+    "cert_acls": {
+      "id": "cert_acls",
+      "label": "ACLS (Advanced Cardiovascular Life Support)",
+      "area": "regulated",
+      "issuer": "AHA / IRC",
+      "level": "professional",
+      "weight": 0.8,
+      "isco_relevant": [
+        "2"
+      ]
+    },
+    "cert_shrm": {
+      "id": "cert_shrm",
+      "label": "SHRM-CP (Society for Human Resource Management)",
+      "area": "management",
+      "issuer": "SHRM",
+      "level": "professional",
+      "weight": 0.8,
+      "isco_relevant": [
+        "1",
+        "2"
+      ]
+    },
+    "cert_cipd": {
+      "id": "cert_cipd",
+      "label": "CIPD Level 5 (HR Management)",
+      "area": "management",
+      "issuer": "CIPD",
+      "level": "associate",
+      "weight": 0.75,
+      "isco_relevant": [
+        "1",
+        "2"
+      ]
+    },
+    "cert_six_sigma_g": {
+      "id": "cert_six_sigma_g",
+      "label": "Lean Six Sigma Green Belt",
+      "area": "management",
+      "issuer": "ASQ / IASSC",
+      "level": "associate",
+      "weight": 0.7,
+      "isco_relevant": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "cert_six_sigma_b": {
+      "id": "cert_six_sigma_b",
+      "label": "Lean Six Sigma Black Belt",
+      "area": "management",
+      "issuer": "ASQ / IASSC",
+      "level": "professional",
+      "weight": 0.9,
+      "isco_relevant": [
+        "1",
+        "2"
+      ]
+    }
+  },
+  "by_area": {
+    "tech": [
+      "cert_aws_ccp",
+      "cert_aws_sa",
+      "cert_aws_sap",
+      "cert_az900",
+      "cert_az104",
+      "cert_az305",
+      "cert_gcp_ace",
+      "cert_gcp_pca",
+      "cert_ccna",
+      "cert_ccnp",
+      "cert_comptia_sec",
+      "cert_cissp",
+      "cert_ceh",
+      "cert_tf_dev",
+      "cert_azure_ai",
+      "cert_databricks",
+      "cert_pmp",
+      "cert_prince2",
+      "cert_prince2p",
+      "cert_psm1",
+      "cert_safe"
+    ],
+    "finance": [
+      "cert_cfa1",
+      "cert_cfa2",
+      "cert_cfa3",
+      "cert_acca",
+      "cert_frm",
+      "cert_cpa",
+      "cert_caia"
+    ],
+    "regulated": [
+      "cert_rspp",
+      "cert_haccp",
+      "cert_iso9001",
+      "cert_iso14001",
+      "cert_iso27001",
+      "cert_pat_b",
+      "cert_pat_c",
+      "cert_pat_cqc",
+      "cert_muletto",
+      "cert_gru",
+      "cert_elettrico",
+      "cert_bls",
+      "cert_acls"
+    ],
+    "management": [
+      "cert_shrm",
+      "cert_cipd",
+      "cert_six_sigma_g",
+      "cert_six_sigma_b"
+    ]
+  },
+  "areas": {
+    "tech": "Tecnologia, IT e Project Management",
+    "finance": "Finanza e Contabilità",
+    "regulated": "Settori regolamentati (sicurezza, trasporti, sanità)",
+    "management": "Management e Risorse Umane"
+  }
+}

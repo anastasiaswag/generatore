@@ -1,0 +1,7 @@
+ID: 58
+Area: Informatica
+Ruolo: Full Stack Developer
+Azienda: Banca Ifis
+Località: Milano
+
+Full Stack Developer - Banca Ifis (Milano, Ibrido). Contratto: Stage; profilo: Junior. Attività principali: sviluppo e manutenzione di applicazioni software in ambiente enterprise; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Azure/AWS, Terraform, CI/CD, buona capacità di lavoro in team e Monitoring. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

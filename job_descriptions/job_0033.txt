@@ -1,0 +1,7 @@
+ID: 33
+Area: Informatica
+Ruolo: Database Engineer
+Azienda: Aubay Italia
+Località: Ancona
+
+Database Engineer - Aubay Italia (Ancona, In sede). Contratto: Tempo indeterminato; profilo: Junior. Attività principali: gestione infrastruttura, deployment e automazione CI/CD; progettazione di architetture backend e API per piattaforme digitali. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di React, Node.js, TypeScript, buona capacità di lavoro in team e PostgreSQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

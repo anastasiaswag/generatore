@@ -1,0 +1,7 @@
+ID: 335
+Area: Informatica
+Ruolo: Application Engineer IT
+Azienda: Fastweb
+Località: Rovereto
+
+Application Engineer IT - Fastweb (Rovereto, In sede). Contratto: Consulenza; profilo: Junior. Attività principali: progettazione di architetture backend e API per piattaforme digitali; testing, quality assurance e documentazione tecnica. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di React, Node.js, TypeScript, buona capacità di lavoro in team e PostgreSQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

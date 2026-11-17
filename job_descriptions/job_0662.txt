@@ -1,0 +1,7 @@
+ID: 662
+Area: Elettronica
+Ruolo: Automation Engineer
+Azienda: Intech microwaves
+Località: Veneto
+
+Automation Engineer - Intech microwaves (Veneto, Da remoto). Contratto: Tempo indeterminato; profilo: Neolaureato. Attività principali: test di laboratorio, debugging, misure e qualifiche EMC; sviluppo firmware per microcontrollori e sistemi real-time. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di industrial automation, PLC, HMI, buona capacità di lavoro in team e quadri elettrici. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

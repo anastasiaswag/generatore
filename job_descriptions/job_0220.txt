@@ -1,0 +1,7 @@
+ID: 220
+Area: Informatica
+Ruolo: PLC/SCADA Software Engineer
+Azienda: Kineton
+Località: Genova
+
+PLC/SCADA Software Engineer - Kineton (Genova, In sede). Contratto: Tempo determinato; profilo: Stage/Tirocinio. Attività principali: testing, quality assurance e documentazione tecnica; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Java, Spring Boot, REST API, buona capacità di lavoro in team e Microservizi. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,23 @@
+% Confronto fra encoder — cinque modelli, tre famiglie, soglie calibrate
+% per ciascuno sulla stessa procedura.
+\begin{table}[htbp]
+  \centering
+  \caption{Confronto fra encoder a parità di pipeline, dati e procedura di
+           calibrazione. Le metriche sulle competenze sono macro-medie su 810
+           annunci; l'accuratezza sull'occupazione è la quota di identificativi
+           ESCO esatti. Lo scarto fra il migliore e il peggiore è di 0,026 sulle
+           competenze e di 0,336 sull'occupazione.}
+  \label{tab:confronto-modelli}
+  \begin{tabular}{llrrrrr}
+    \toprule
+    \textbf{Modello} & \textbf{Famiglia} & \textbf{Dim.}
+      & \textbf{Prec.} & \textbf{Rec.} & \textbf{F1} & \textbf{Occup.} \\
+    \midrule
+    multilingual-e5-base  & E5    & 768  & 0,764 & 0,533 & \textbf{0,612} & 0,759 \\
+    bge-m3                & BGE   & 1024 & 0,741 & 0,543 & 0,610 & \textbf{0,861} \\
+    multilingual-e5-small & E5    & 384  & 0,691 & 0,570 & 0,609 & 0,622 \\
+    mpnet-base-v2         & S-T   & 768  & 0,683 & 0,558 & 0,598 & 0,525 \\
+    MiniLM-L12-v2         & S-T   & 384  & 0,708 & 0,526 & 0,586 & 0,570 \\
+    \bottomrule
+  \end{tabular}
+\end{table}

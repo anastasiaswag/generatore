@@ -1,0 +1,7 @@
+ID: 318
+Area: Informatica
+Ruolo: DevOps Engineer
+Azienda: Fastweb
+Località: Caselle Torinese
+
+DevOps Engineer - Fastweb (Caselle Torinese, Ibrido). Contratto: Tempo indeterminato; profilo: Middle. Attività principali: progettazione di architetture backend e API per piattaforme digitali; integrazione di sistemi IT, database e servizi cloud. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Data pipeline, ETL, Spark, buona capacità di lavoro in team e Python. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

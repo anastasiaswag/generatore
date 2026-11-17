@@ -1,0 +1,37 @@
+{
+  "n_cv_valutati": 100,
+  "accuracy_esatta": 0.37,
+  "accuracy_adiacente": 0.86,
+  "baseline_casuale": 0.333,
+  "guadagno_su_baseline": 1.11,
+  "per_livello": {
+    "junior": {
+      "n": 23,
+      "accuracy": 0.783
+    },
+    "mid": {
+      "n": 34,
+      "accuracy": 0.206
+    },
+    "senior": {
+      "n": 43,
+      "accuracy": 0.279
+    }
+  },
+  "confusione": {
+    "senior->senior": 12,
+    "senior->junior": 10,
+    "junior->junior": 18,
+    "senior->mid": 21,
+    "mid->senior": 8,
+    "mid->junior": 19,
+    "mid->mid": 7,
+    "junior->mid": 1,
+    "junior->senior": 4
+  },
+  "config": {
+    "seniority_weight": 0.0,
+    "count_weight": 0.0,
+    "count_k": 10.0
+  }
+}

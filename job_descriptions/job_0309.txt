@@ -1,0 +1,7 @@
+ID: 309
+Area: Informatica
+Ruolo: Senior Backend Developer
+Azienda: Leonardo
+Località: Monopoli
+
+Senior Backend Developer - Leonardo (Monopoli, Ibrido). Contratto: Full time; profilo: Middle. Attività principali: sviluppo e manutenzione di applicazioni software in ambiente enterprise; sviluppo firmware/embedded software per dispositivi connessi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Java, Spring Boot, REST API, buona capacità di lavoro in team e Microservizi. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

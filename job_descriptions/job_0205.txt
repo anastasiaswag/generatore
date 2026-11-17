@@ -1,0 +1,7 @@
+ID: 205
+Area: Informatica
+Ruolo: Backend Developer
+Azienda: Engineering Group
+Località: Pesaro
+
+Backend Developer - Engineering Group (Pesaro, In sede). Contratto: Full time; profilo: Junior. Attività principali: analisi dati, pipeline ETL e modelli predittivi; sviluppo firmware/embedded software per dispositivi connessi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di React, Node.js, TypeScript, buona capacità di lavoro in team e PostgreSQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 404
+Area: Elettronica
+Ruolo: RF Engineer
+Azienda: Kineton
+Località: Pozzuoli
+
+RF Engineer - Kineton (Pozzuoli, In sede). Contratto: Tempo indeterminato; profilo: Middle. Attività principali: redazione documentazione tecnica, specifiche e report di validazione; integrazione sensori, bus di comunicazione e sistemi di controllo. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di railway/automotive, CAN bus, LIN, buona capacità di lavoro in team e diagnostica. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

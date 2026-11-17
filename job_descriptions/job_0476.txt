@@ -1,0 +1,7 @@
+ID: 476
+Area: Elettronica
+Ruolo: Vehicle Electric Engineer
+Azienda: ATM Milano
+Località: Pozzuoli
+
+Vehicle Electric Engineer - ATM Milano (Pozzuoli, Ibrido). Contratto: Tempo indeterminato; profilo: Senior. Attività principali: test di laboratorio, debugging, misure e qualifiche EMC; redazione documentazione tecnica, specifiche e report di validazione. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di railway/automotive, CAN bus, LIN, buona capacità di lavoro in team e diagnostica. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

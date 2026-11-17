@@ -1,0 +1,7 @@
+ID: 102
+Area: Informatica
+Ruolo: Firmware/Embedded Software Engineer
+Azienda: Satispay
+Località: Torino
+
+Firmware/Embedded Software Engineer - Satispay (Torino, In sede). Contratto: Tempo indeterminato; profilo: Senior. Attività principali: analisi dati, pipeline ETL e modelli predittivi; gestione infrastruttura, deployment e automazione CI/CD. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di React, Node.js, TypeScript, buona capacità di lavoro in team e PostgreSQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

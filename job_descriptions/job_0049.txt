@@ -1,0 +1,7 @@
+ID: 49
+Area: Informatica
+Ruolo: Sistemista Networking
+Azienda: Accenture
+Località: Pomezia
+
+Sistemista Networking - Accenture (Pomezia, Ibrido). Contratto: Tempo indeterminato; profilo: Senior. Attività principali: testing, quality assurance e documentazione tecnica; sviluppo e manutenzione di applicazioni software in ambiente enterprise. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di PLC/SCADA, OPC-UA, Industrial IoT, buona capacità di lavoro in team e SQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

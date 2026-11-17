@@ -1,0 +1,7 @@
+ID: 207
+Area: Informatica
+Ruolo: Software Engineer
+Azienda: YCOM
+Località: Brescia
+
+Software Engineer - YCOM (Brescia, Ibrido). Contratto: Apprendistato; profilo: Senior. Attività principali: testing, quality assurance e documentazione tecnica; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di C/C++, Linux Embedded, Git, buona capacità di lavoro in team e Yocto. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

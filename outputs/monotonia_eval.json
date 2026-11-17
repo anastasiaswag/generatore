@@ -1,0 +1,29 @@
+{
+  "riassunto": {
+    "stessa occupazione": {
+      "n": 40,
+      "media": 0.7894,
+      "mediana": 0.7829,
+      "min": 0.5727,
+      "max": 0.9568
+    },
+    "stesso settore ISCO": {
+      "n": 40,
+      "media": 0.727,
+      "mediana": 0.7251,
+      "min": 0.4751,
+      "max": 0.894
+    },
+    "settore diverso": {
+      "n": 40,
+      "media": 0.6842,
+      "mediana": 0.7061,
+      "min": 0.4726,
+      "max": 0.8666
+    }
+  },
+  "monotonia_rispettata": true,
+  "sovrapposizione_occ_settore": 0.4,
+  "sovrapposizione_settore_altro": 0.3,
+  "n_cv": 40
+}

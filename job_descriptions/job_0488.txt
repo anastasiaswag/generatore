@@ -1,0 +1,7 @@
+ID: 488
+Area: Elettronica
+Ruolo: Test & Validation Engineer
+Azienda: ATM Milano
+Località: Milano
+
+Test & Validation Engineer - ATM Milano (Milano, In sede). Contratto: Tempo indeterminato; profilo: Lead/Responsabile. Attività principali: test di laboratorio, debugging, misure e qualifiche EMC; sviluppo firmware per microcontrollori e sistemi real-time. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di C embedded, STM32, RTOS, buona capacità di lavoro in team e debugging. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

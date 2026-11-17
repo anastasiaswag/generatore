@@ -1,0 +1,7 @@
+ID: 137
+Area: Informatica
+Ruolo: System Engineer
+Azienda: Satispay
+Località: Padova
+
+System Engineer - Satispay (Padova, In sede). Contratto: Apprendistato; profilo: Senior. Attività principali: progettazione di architetture backend e API per piattaforme digitali; sviluppo firmware/embedded software per dispositivi connessi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Windows/Linux Server, VMware, Backup, buona capacità di lavoro in team e Networking. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

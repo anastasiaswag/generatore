@@ -1,0 +1,7 @@
+ID: 121
+Area: Informatica
+Ruolo: Sistemista Networking
+Azienda: Gruppo Gpi
+Località: Reggio Emilia
+
+Sistemista Networking - Gruppo Gpi (Reggio Emilia, Ibrido). Contratto: Tempo determinato; profilo: Senior. Attività principali: progettazione di architetture backend e API per piattaforme digitali; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di PLC/SCADA, OPC-UA, Industrial IoT, buona capacità di lavoro in team e SQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

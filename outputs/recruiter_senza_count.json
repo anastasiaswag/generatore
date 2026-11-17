@@ -1,0 +1,15 @@
+{
+  "n_annunci": 20,
+  "n_candidati_pool": 361,
+  "seniority_weight": 0.3,
+  "count_weight": 0.0,
+  "precision_at_1": 85.0,
+  "precision_at_3": 100.0,
+  "precision_at_10": 100.0,
+  "mrr": 0.925,
+  "baseline_casuale": 1.7,
+  "skill_medie_pool": 13.1,
+  "skill_medie_top10": 14.2,
+  "rapporto_lunghezza": 1.08,
+  "correlazione_punteggio_lunghezza_non_pertinenti": 0.025
+}

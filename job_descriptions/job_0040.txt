@@ -1,0 +1,7 @@
+ID: 40
+Area: Informatica
+Ruolo: Junior Agentic Developer
+Azienda: Akkodis
+Località: Ancona
+
+Junior Agentic Developer - Akkodis (Ancona, Ibrido). Contratto: Tempo indeterminato; profilo: Lead/Responsabile. Attività principali: analisi dati, pipeline ETL e modelli predittivi; sviluppo firmware/embedded software per dispositivi connessi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di PLC/SCADA, OPC-UA, Industrial IoT, buona capacità di lavoro in team e SQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 139
+Area: Informatica
+Ruolo: PLC/SCADA Software Engineer
+Azienda: Fastweb
+Località: Torino
+
+PLC/SCADA Software Engineer - Fastweb (Torino, In sede). Contratto: Tempo determinato; profilo: Neolaureato. Attività principali: gestione infrastruttura, deployment e automazione CI/CD; sviluppo firmware/embedded software per dispositivi connessi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Cybersecurity, SIEM, Network Security, buona capacità di lavoro in team e ISO 27001. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

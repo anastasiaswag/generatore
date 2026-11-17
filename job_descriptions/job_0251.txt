@@ -1,0 +1,7 @@
+ID: 251
+Area: Informatica
+Ruolo: Application Engineer IT
+Azienda: Net Reply
+Località: Reggio Emilia
+
+Application Engineer IT - Net Reply (Reggio Emilia, In sede). Contratto: Tempo determinato; profilo: Junior. Attività principali: integrazione di sistemi IT, database e servizi cloud; gestione infrastruttura, deployment e automazione CI/CD. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Windows/Linux Server, VMware, Backup, buona capacità di lavoro in team e Networking. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

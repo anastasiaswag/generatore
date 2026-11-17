@@ -1,0 +1,20 @@
+% Quadro complessivo delle metriche
+\begin{table}[htbp]
+  \centering
+  \caption{Quadro complessivo dei risultati. Ogni valore va letto con la
+           riserva discussa nella sezione corrispondente.}
+  \label{tab:riepilogo}
+  \begin{tabular}{llc}
+    \toprule
+    \textbf{Componente} & \textbf{Metrica} & \textbf{Valore} \\
+    \midrule
+    Parser dei CV            & F1 competenze          & 0,878 \\
+    Parser degli annunci     & F1 competenze          & 0,629 \\
+    Estrattore di seniority  & Accuratezza            & 92,3\% \\
+    Matching CV $\to$ offerte & Precision@1           & 96,7\% \\
+    Matching offerta $\to$ candidati & Precision@1    & 85,0\% \\
+    Discriminazione del livello & Accuratezza         & 97,0\% \\
+    Raccomandatore di corsi  & Copertura del divario  & 43,1\% \\
+    \bottomrule
+  \end{tabular}
+\end{table}

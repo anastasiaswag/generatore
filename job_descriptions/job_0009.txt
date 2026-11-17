@@ -1,0 +1,7 @@
+ID: 9
+Area: Informatica
+Ruolo: Cloud Engineer
+Azienda: Umana S.p.A.
+Località: Lazio
+
+Cloud Engineer - Umana S.p.A. (Lazio, In sede). Contratto: Tempo indeterminato; profilo: Stage/Tirocinio. Attività principali: integrazione di sistemi IT, database e servizi cloud; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di React, Node.js, TypeScript, buona capacità di lavoro in team e PostgreSQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,11 @@
+{
+  "modello": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "soglie": {
+    "sw": 0.82,
+    "mw": 0.9,
+    "acr": 0.94,
+    "occ": 0.52
+  },
+  "n_taratura": 202,
+  "n_riporto": 608
+}

@@ -1,0 +1,7 @@
+ID: 380
+Area: Elettronica
+Ruolo: Hardware Engineer
+Azienda: Skytechnology srl
+Località: Lazio
+
+Hardware Engineer - Skytechnology srl (Lazio, Ibrido). Contratto: Tempo indeterminato; profilo: Senior. Attività principali: progettazione e validazione di schede elettroniche e apparati embedded; integrazione sensori, bus di comunicazione e sistemi di controllo. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di FMEDA, DFA, safety analysis, buona capacità di lavoro in team e validazione. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

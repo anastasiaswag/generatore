@@ -1,0 +1,7 @@
+ID: 190
+Area: Informatica
+Ruolo: System Engineer
+Azienda: Akkodis
+Località: Foligno
+
+System Engineer - Akkodis (Foligno, In sede). Contratto: Apprendistato; profilo: Lead/Responsabile. Attività principali: progettazione di architetture backend e API per piattaforme digitali; sviluppo firmware/embedded software per dispositivi connessi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di React, Node.js, TypeScript, buona capacità di lavoro in team e PostgreSQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

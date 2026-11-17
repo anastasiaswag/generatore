@@ -1,0 +1,16 @@
+{
+  "modello": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
+  "soglie": {
+    "occ": 0.5,
+    "sw": 0.5,
+    "mw": 0.5,
+    "acr": 0.5
+  },
+  "hubness": false,
+  "mutual": true,
+  "denylist": false,
+  "lexical": false,
+  "spacy": false,
+  "classificatore": false,
+  "n_annunci": 810
+}

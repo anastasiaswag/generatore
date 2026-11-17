@@ -1,0 +1,7 @@
+ID: 338
+Area: Informatica
+Ruolo: Database Engineer
+Azienda: YCOM
+Località: Bacoli
+
+Database Engineer - YCOM (Bacoli, In sede). Contratto: Tempo indeterminato; profilo: Middle. Attività principali: sviluppo firmware/embedded software per dispositivi connessi; gestione infrastruttura, deployment e automazione CI/CD. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Data pipeline, ETL, Spark, buona capacità di lavoro in team e Python. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

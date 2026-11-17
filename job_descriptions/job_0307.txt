@@ -1,0 +1,7 @@
+ID: 307
+Area: Informatica
+Ruolo: Software Engineer
+Azienda: Accenture
+Località: Modena
+
+Software Engineer - Accenture (Modena, In sede). Contratto: Tempo indeterminato; profilo: Senior. Attività principali: testing, quality assurance e documentazione tecnica; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Cybersecurity, SIEM, Network Security, buona capacità di lavoro in team e ISO 27001. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

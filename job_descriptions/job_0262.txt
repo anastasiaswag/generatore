@@ -1,0 +1,7 @@
+ID: 262
+Area: Informatica
+Ruolo: Cloud Engineer
+Azienda: Leonardo
+Località: Veneto
+
+Cloud Engineer - Leonardo (Veneto, In sede). Contratto: Tempo determinato; profilo: Junior. Attività principali: sviluppo e manutenzione di applicazioni software in ambiente enterprise; progettazione di architetture backend e API per piattaforme digitali. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di AI/ML, Computer Vision, PyTorch, buona capacità di lavoro in team e MLOps. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

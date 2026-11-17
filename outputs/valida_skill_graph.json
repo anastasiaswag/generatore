@@ -1,0 +1,26 @@
+{
+  "versione_esco": "v1.2.1",
+  "seed": 42,
+  "accordo": {
+    "co_occorrenti": {
+      "n": 10000,
+      "media": 0.10262564435564435,
+      "quota_sopra_0": 0.2831,
+      "quota_sopra_050": 0.0791
+    },
+    "casuali": {
+      "n": 10000,
+      "media": 0.040269641192141194,
+      "quota_sopra_0": 0.1387,
+      "quota_sopra_050": 0.0177
+    },
+    "spearman": 0.03268543899734971,
+    "rapporto_medie": 2.548461851596339
+  },
+  "effetto_ordinamento": {
+    "casi": 787,
+    "tau_medio": 0.7911287462060872,
+    "quota_ordine_identico": 0.204574332909784,
+    "quota_primo_cambiato": 0.1423125794155019
+  }
+}

@@ -1,0 +1,7 @@
+ID: 324
+Area: Informatica
+Ruolo: DevOps Engineer
+Azienda: aizoOn Technology Consulting
+Località: Collegno
+
+DevOps Engineer - aizoOn Technology Consulting (Collegno, In sede). Contratto: Tempo determinato; profilo: Neolaureato. Attività principali: analisi dati, pipeline ETL e modelli predittivi; testing, quality assurance e documentazione tecnica. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Windows/Linux Server, VMware, Backup, buona capacità di lavoro in team e Networking. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

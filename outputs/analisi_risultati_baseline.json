@@ -1,0 +1,24 @@
+{
+  "ground_truth_eval": {
+    "avg_precision": 0.76,
+    "avg_recall": 0.547,
+    "avg_f1": 0.623,
+    "per_template": {
+      "classic": {
+        "prec": 0.787,
+        "rec": 0.552,
+        "f1": 0.635
+      },
+      "europass": {
+        "prec": 0.752,
+        "rec": 0.55,
+        "f1": 0.623
+      },
+      "modern": {
+        "prec": 0.74,
+        "rec": 0.54,
+        "f1": 0.611
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+ID: 369
+Area: Elettronica
+Ruolo: Instrumentation Engineer
+Azienda: Capgemini Engineering
+Località: Genova
+
+Instrumentation Engineer - Capgemini Engineering (Genova, In sede). Contratto: Apprendistato; profilo: Senior. Attività principali: integrazione sensori, bus di comunicazione e sistemi di controllo; sviluppo firmware per microcontrollori e sistemi real-time. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di railway/automotive, CAN bus, LIN, buona capacità di lavoro in team e diagnostica. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

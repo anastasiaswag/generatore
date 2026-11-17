@@ -1,0 +1,7 @@
+ID: 89
+Area: Informatica
+Ruolo: Lead Software Engineer
+Azienda: YCOM
+Località: Pesaro
+
+Lead Software Engineer - YCOM (Pesaro, Ibrido). Contratto: Tempo determinato; profilo: Senior. Attività principali: sviluppo firmware/embedded software per dispositivi connessi; gestione infrastruttura, deployment e automazione CI/CD. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di C/C++, Linux Embedded, Git, buona capacità di lavoro in team e Yocto. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

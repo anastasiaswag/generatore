@@ -1,0 +1,7 @@
+ID: 130
+Area: Informatica
+Ruolo: AI/ML Engineer
+Azienda: Alten Italia
+Località: Foligno
+
+AI/ML Engineer - Alten Italia (Foligno, In sede). Contratto: Tempo indeterminato; profilo: Middle. Attività principali: sviluppo firmware/embedded software per dispositivi connessi; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di C/C++, Linux Embedded, Git, buona capacità di lavoro in team e Yocto. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

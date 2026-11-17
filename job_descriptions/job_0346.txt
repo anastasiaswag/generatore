@@ -1,0 +1,7 @@
+ID: 346
+Area: Informatica
+Ruolo: IoT Platform Engineer
+Azienda: Capgemini
+Località: Foligno
+
+IoT Platform Engineer - Capgemini (Foligno, Ibrido). Contratto: Tempo indeterminato; profilo: Stage/Tirocinio. Attività principali: gestione infrastruttura, deployment e automazione CI/CD; sviluppo firmware/embedded software per dispositivi connessi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Data pipeline, ETL, Spark, buona capacità di lavoro in team e Python. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

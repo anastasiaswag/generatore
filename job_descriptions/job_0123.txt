@@ -1,0 +1,7 @@
+ID: 123
+Area: Informatica
+Ruolo: ERP/SAP Technical Consultant
+Azienda: Experis
+Località: Genova
+
+ERP/SAP Technical Consultant - Experis (Genova, In sede). Contratto: Tempo indeterminato; profilo: Junior. Attività principali: sviluppo e manutenzione di applicazioni software in ambiente enterprise; progettazione di architetture backend e API per piattaforme digitali. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di PLC/SCADA, OPC-UA, Industrial IoT, buona capacità di lavoro in team e SQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 292
+Area: Informatica
+Ruolo: Application Engineer IT
+Azienda: Lutech
+Località: Napoli
+
+Application Engineer IT - Lutech (Napoli, In sede). Contratto: Tempo indeterminato; profilo: Senior. Attività principali: progettazione di architetture backend e API per piattaforme digitali; integrazione di sistemi IT, database e servizi cloud. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Python, SQL, Docker, buona capacità di lavoro in team e Kubernetes. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

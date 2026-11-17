@@ -1,0 +1,7 @@
+ID: 411
+Area: Elettronica
+Ruolo: Controls Engineer
+Azienda: Alten Italia
+Località: Parma
+
+Controls Engineer - Alten Italia (Parma, In sede). Contratto: Tempo determinato; profilo: Neolaureato. Attività principali: test di laboratorio, debugging, misure e qualifiche EMC; sviluppo firmware per microcontrollori e sistemi real-time. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di power electronics, inverter, convertitori, buona capacità di lavoro in team e EMC. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

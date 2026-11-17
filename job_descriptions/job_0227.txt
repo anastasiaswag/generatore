@@ -1,0 +1,7 @@
+ID: 227
+Area: Informatica
+Ruolo: Cybersecurity Engineer
+Azienda: Umana S.p.A.
+Località: Parma
+
+Cybersecurity Engineer - Umana S.p.A. (Parma, Da remoto). Contratto: Tempo indeterminato; profilo: Neolaureato. Attività principali: progettazione di architetture backend e API per piattaforme digitali; gestione infrastruttura, deployment e automazione CI/CD. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Azure/AWS, Terraform, CI/CD, buona capacità di lavoro in team e Monitoring. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

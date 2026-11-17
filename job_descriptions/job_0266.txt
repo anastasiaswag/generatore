@@ -1,0 +1,7 @@
+ID: 266
+Area: Informatica
+Ruolo: Computer Vision Engineer
+Azienda: Gruppo Gpi
+Località: Pomezia
+
+Computer Vision Engineer - Gruppo Gpi (Pomezia, In sede). Contratto: Tempo indeterminato; profilo: Junior. Attività principali: analisi dati, pipeline ETL e modelli predittivi; progettazione di architetture backend e API per piattaforme digitali. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di AI/ML, Computer Vision, PyTorch, buona capacità di lavoro in team e MLOps. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

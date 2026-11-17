@@ -1,0 +1,7 @@
+ID: 117
+Area: Informatica
+Ruolo: Full Stack Developer
+Azienda: Akkodis
+Località: Genova
+
+Full Stack Developer - Akkodis (Genova, In sede). Contratto: Tempo determinato; profilo: Middle. Attività principali: progettazione di architetture backend e API per piattaforme digitali; gestione infrastruttura, deployment e automazione CI/CD. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di PLC/SCADA, OPC-UA, Industrial IoT, buona capacità di lavoro in team e SQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

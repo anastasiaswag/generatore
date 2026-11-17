@@ -1,0 +1,7 @@
+ID: 275
+Area: Informatica
+Ruolo: AI/ML Engineer
+Azienda: Kineton
+Località: Parma
+
+AI/ML Engineer - Kineton (Parma, In sede). Contratto: Apprendistato; profilo: Lead/Responsabile. Attività principali: testing, quality assurance e documentazione tecnica; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Azure/AWS, Terraform, CI/CD, buona capacità di lavoro in team e Monitoring. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

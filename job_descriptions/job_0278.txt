@@ -1,0 +1,7 @@
+ID: 278
+Area: Informatica
+Ruolo: AI/ML Engineer
+Azienda: Umana S.p.A.
+Località: Bari
+
+AI/ML Engineer - Umana S.p.A. (Bari, Ibrido). Contratto: Tempo indeterminato; profilo: Junior. Attività principali: testing, quality assurance e documentazione tecnica; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Cybersecurity, SIEM, Network Security, buona capacità di lavoro in team e ISO 27001. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

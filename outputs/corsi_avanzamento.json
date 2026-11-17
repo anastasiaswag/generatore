@@ -1,0 +1,46 @@
+{
+  "skill_mancanti_totali_con_ripetizioni": 10,
+  "skill_mancanti_distinte": 8,
+  "copertura_su_skill_distinte": {
+    "gap_size": 8,
+    "covered": 3,
+    "not_covered": 5,
+    "coverage_pct": 37.5
+  },
+  "copertura_pesata_su_occorrenze": {
+    "gap_size": 10,
+    "covered": 4,
+    "not_covered": 6,
+    "coverage_pct": 40.0
+  },
+  "top_skill_scoperte": [
+    {
+      "id": "47b49f99-74a3-4b61-a9d5-3db6b841cab5",
+      "label": "processo di coking",
+      "occorrenze": 2
+    },
+    {
+      "id": "243ffeb4-3395-4e39-9cf0-695be5b142aa",
+      "label": "maritime law",
+      "occorrenze": 1
+    },
+    {
+      "id": "e9d8829d-5835-4100-a541-5c28b860cfc6",
+      "label": "fornire le perizie nel contesto della psicologia clinica",
+      "occorrenze": 1
+    },
+    {
+      "id": "440d5784-52a5-4729-8b04-29f978bd896d",
+      "label": "respond to incidents in cloud",
+      "occorrenze": 1
+    },
+    {
+      "id": "1fcce318-3212-487a-ac07-4941bc85060d",
+      "label": "carry out project activities",
+      "occorrenze": 1
+    }
+  ],
+  "origine_gap": "dataset corrente",
+  "scenario": "avanzamento",
+  "n_cv": 60
+}

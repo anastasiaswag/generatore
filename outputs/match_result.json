@@ -1,0 +1,75 @@
+{
+  "candidate_id": "parsed_cv_test.pdf",
+  "job_id": "offerta1",
+  "match_score": 0.8678,
+  "grade": "ottimo",
+  "occupation_match": {
+    "candidate_label": "engineering and quality control manager",
+    "job_label": "manager of logistics and distribution",
+    "similarity": 0.8841
+  },
+  "matched_skills": [
+    {
+      "id": "09f4c52b-ac72-4f0e-a8ae-78bb1d7bffba",
+      "label": "transportation software relating to ERP systems",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "id": "d8567009-7c6f-43fb-82fb-7154ed8ebca9",
+      "label": "technical lingo",
+      "match_type": "semantic",
+      "score": 0.8546,
+      "matched_by": "use technical documentation"
+    },
+    {
+      "id": "da6393d5-a53c-4863-abc7-51f36281d74e",
+      "label": "lean project methodology",
+      "match_type": "semantic",
+      "score": 0.8123,
+      "matched_by": "manufacturing of tools"
+    },
+    {
+      "id": "0f0698e7-04e4-4bf7-9af2-e3191147525a",
+      "label": "optimising production processes parameters",
+      "match_type": "semantic",
+      "score": 0.8645,
+      "matched_by": "participate in technical aspects of the production"
+    },
+    {
+      "id": "4c2c72df-3f3f-48e7-9993-a602354a75e4",
+      "label": "6 sigma",
+      "match_type": "semantic",
+      "score": 0.7977,
+      "matched_by": "solid mechanics"
+    },
+    {
+      "id": "095b0a0f-9b66-4e42-965e-d1c538a2986f",
+      "label": "set production KPI's",
+      "match_type": "semantic",
+      "score": 0.8202,
+      "matched_by": "participate in technical aspects of the production"
+    },
+    {
+      "id": "f8e3425c-fe44-4ffb-bafe-0e20d91dadf4",
+      "label": "SAP Data Services",
+      "match_type": "semantic",
+      "score": 0.8573,
+      "matched_by": "SAP R3"
+    },
+    {
+      "id": "a276b1ad-c0b7-4b33-899c-0fbfcdbe0eee",
+      "label": "5S methodology",
+      "match_type": "semantic",
+      "score": 0.8036,
+      "matched_by": "solid mechanics"
+    },
+    {
+      "id": "bb99af26-71ff-4dca-bde7-1eb1f6194426",
+      "label": "SAP ERP",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "skill_gap": []
+}

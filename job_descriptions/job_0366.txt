@@ -1,0 +1,7 @@
+ID: 366
+Area: Elettronica
+Ruolo: Firmware Engineer
+Azienda: SEWS-CABIND
+Località: Modena
+
+Firmware Engineer - SEWS-CABIND (Modena, In sede). Contratto: Tempo indeterminato; profilo: Neolaureato. Attività principali: test di laboratorio, debugging, misure e qualifiche EMC; redazione documentazione tecnica, specifiche e report di validazione. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di power electronics, inverter, convertitori, buona capacità di lavoro in team e EMC. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

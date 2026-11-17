@@ -1,0 +1,7 @@
+ID: 591
+Area: Elettronica
+Ruolo: System RF Engineer
+Azienda: IQM selezione
+Località: Pozzuoli
+
+System RF Engineer - IQM selezione (Pozzuoli, In sede). Contratto: Tempo determinato; profilo: Senior. Attività principali: redazione documentazione tecnica, specifiche e report di validazione; test di laboratorio, debugging, misure e qualifiche EMC. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di sensori, I2C/SPI/UART, microcontrollori, buona capacità di lavoro in team e firmware. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

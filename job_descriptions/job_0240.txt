@@ -1,0 +1,7 @@
+ID: 240
+Area: Informatica
+Ruolo: Sistemista Networking
+Azienda: Umana S.p.A.
+Località: Brescia
+
+Sistemista Networking - Umana S.p.A. (Brescia, In sede). Contratto: Tempo indeterminato; profilo: Neolaureato. Attività principali: integrazione di sistemi IT, database e servizi cloud; testing, quality assurance e documentazione tecnica. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di PLC/SCADA, OPC-UA, Industrial IoT, buona capacità di lavoro in team e SQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

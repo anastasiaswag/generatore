@@ -1,0 +1,7 @@
+ID: 235
+Area: Informatica
+Ruolo: Cloud Engineer
+Azienda: Leonardo
+Località: Emilia Romagna
+
+Cloud Engineer - Leonardo (Emilia Romagna, In sede). Contratto: Tempo determinato; profilo: Senior. Attività principali: analisi dati, pipeline ETL e modelli predittivi; gestione infrastruttura, deployment e automazione CI/CD. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Windows/Linux Server, VMware, Backup, buona capacità di lavoro in team e Networking. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

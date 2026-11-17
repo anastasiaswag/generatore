@@ -1,0 +1,7 @@
+ID: 477
+Area: Elettronica
+Ruolo: Embedded Hardware Engineer
+Azienda: Akkodis
+Località: Trieste
+
+Embedded Hardware Engineer - Akkodis (Trieste, In sede). Contratto: Tempo determinato; profilo: Junior. Attività principali: integrazione sensori, bus di comunicazione e sistemi di controllo; progettazione e validazione di schede elettroniche e apparati embedded. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di sensori, I2C/SPI/UART, microcontrollori, buona capacità di lavoro in team e firmware. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

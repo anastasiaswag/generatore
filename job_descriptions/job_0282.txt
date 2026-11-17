@@ -1,0 +1,7 @@
+ID: 282
+Area: Informatica
+Ruolo: Database Engineer
+Azienda: Fastweb
+Località: Bari
+
+Database Engineer - Fastweb (Bari, In sede). Contratto: Tempo indeterminato; profilo: Middle. Attività principali: sviluppo e manutenzione di applicazioni software in ambiente enterprise; analisi dati, pipeline ETL e modelli predittivi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Python, SQL, Docker, buona capacità di lavoro in team e Kubernetes. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

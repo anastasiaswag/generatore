@@ -1,0 +1,7 @@
+ID: 140
+Area: Informatica
+Ruolo: Backend Developer
+Azienda: Satispay
+Località: Firenze
+
+Backend Developer - Satispay (Firenze, Ibrido). Contratto: Full time; profilo: Neolaureato. Attività principali: analisi dati, pipeline ETL e modelli predittivi; integrazione di sistemi IT, database e servizi cloud. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Java, Spring Boot, REST API, buona capacità di lavoro in team e Microservizi. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 134
+Area: Informatica
+Ruolo: DevOps Engineer
+Azienda: Net Reply
+Località: Piemonte
+
+DevOps Engineer - Net Reply (Piemonte, In sede). Contratto: Tempo indeterminato; profilo: Middle. Attività principali: analisi dati, pipeline ETL e modelli predittivi; testing, quality assurance e documentazione tecnica. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Cybersecurity, SIEM, Network Security, buona capacità di lavoro in team e ISO 27001. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

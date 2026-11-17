@@ -1,0 +1,7 @@
+ID: 367
+Area: Elettronica
+Ruolo: Embedded Hardware Engineer
+Azienda: Teoresi MedTech
+Località: Veneto
+
+Embedded Hardware Engineer - Teoresi MedTech (Veneto, In sede). Contratto: Tempo determinato; profilo: Senior. Attività principali: supporto a progetti automotive, railway, industrial o space/defence; sviluppo firmware per microcontrollori e sistemi real-time. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di industrial automation, PLC, HMI, buona capacità di lavoro in team e quadri elettrici. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

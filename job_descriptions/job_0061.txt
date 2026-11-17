@@ -1,0 +1,7 @@
+ID: 61
+Area: Informatica
+Ruolo: Firmware/Embedded Software Engineer
+Azienda: Fastweb
+Località: Verona
+
+Firmware/Embedded Software Engineer - Fastweb (Verona, In sede). Contratto: Tempo indeterminato; profilo: Senior. Attività principali: analisi dati, pipeline ETL e modelli predittivi; progettazione di architetture backend e API per piattaforme digitali. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Azure/AWS, Terraform, CI/CD, buona capacità di lavoro in team e Monitoring. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

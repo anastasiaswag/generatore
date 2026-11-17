@@ -1,0 +1,7 @@
+ID: 187
+Area: Informatica
+Ruolo: Backend Developer
+Azienda: Fastweb
+Località: Frascati
+
+Backend Developer - Fastweb (Frascati, In sede). Contratto: Tempo indeterminato; profilo: Middle. Attività principali: progettazione di architetture backend e API per piattaforme digitali; sviluppo firmware/embedded software per dispositivi connessi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di AI/ML, Computer Vision, PyTorch, buona capacità di lavoro in team e MLOps. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

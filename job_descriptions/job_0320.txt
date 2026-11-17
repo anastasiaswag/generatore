@@ -1,0 +1,7 @@
+ID: 320
+Area: Informatica
+Ruolo: Database Engineer
+Azienda: Reply
+Località: Parma
+
+Database Engineer - Reply (Parma, In sede). Contratto: Tempo indeterminato; profilo: Junior. Attività principali: analisi dati, pipeline ETL e modelli predittivi; sviluppo firmware/embedded software per dispositivi connessi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di PLC/SCADA, OPC-UA, Industrial IoT, buona capacità di lavoro in team e SQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 100
+Area: Informatica
+Ruolo: Lead Firmware/Embedded Software Engineer
+Azienda: Engineering Group
+Località: Vicenza
+
+Lead Firmware/Embedded Software Engineer - Engineering Group (Vicenza, In sede). Contratto: Tempo determinato; profilo: Senior. Attività principali: analisi dati, pipeline ETL e modelli predittivi; gestione infrastruttura, deployment e automazione CI/CD. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Python, SQL, Docker, buona capacità di lavoro in team e Kubernetes. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 323
+Area: Informatica
+Ruolo: Computer Vision Engineer
+Azienda: Accenture
+Località: Trieste
+
+Computer Vision Engineer - Accenture (Trieste, In sede). Contratto: Tempo indeterminato; profilo: Senior. Attività principali: sviluppo firmware/embedded software per dispositivi connessi; gestione infrastruttura, deployment e automazione CI/CD. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Python, SQL, Docker, buona capacità di lavoro in team e Kubernetes. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

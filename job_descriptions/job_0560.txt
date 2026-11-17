@@ -1,0 +1,7 @@
+ID: 560
+Area: Elettronica
+Ruolo: Lead Instrumentation Engineer
+Azienda: Skytechnology srl
+Località: Milano
+
+Lead Instrumentation Engineer - Skytechnology srl (Milano, In sede). Contratto: Apprendistato; profilo: Senior. Attività principali: sviluppo firmware per microcontrollori e sistemi real-time; test di laboratorio, debugging, misure e qualifiche EMC. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di power electronics, inverter, convertitori, buona capacità di lavoro in team e EMC. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

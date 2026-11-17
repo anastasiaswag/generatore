@@ -1,0 +1,7 @@
+ID: 237
+Area: Informatica
+Ruolo: Sistemista Networking
+Azienda: aizoOn Technology Consulting
+Località: Firenze
+
+Sistemista Networking - aizoOn Technology Consulting (Firenze, Ibrido). Contratto: Tempo indeterminato; profilo: Middle. Attività principali: progettazione di architetture backend e API per piattaforme digitali; testing, quality assurance e documentazione tecnica. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Windows/Linux Server, VMware, Backup, buona capacità di lavoro in team e Networking. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

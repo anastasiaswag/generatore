@@ -1,0 +1,7 @@
+ID: 342
+Area: Informatica
+Ruolo: Senior AI/ML Engineer
+Azienda: Capgemini
+Località: Bologna
+
+Senior AI/ML Engineer - Capgemini (Bologna, In sede). Contratto: Tempo indeterminato; profilo: Senior. Attività principali: gestione infrastruttura, deployment e automazione CI/CD; sviluppo firmware/embedded software per dispositivi connessi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Cybersecurity, SIEM, Network Security, buona capacità di lavoro in team e ISO 27001. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

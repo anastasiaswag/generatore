@@ -1,0 +1,7 @@
+ID: 17
+Area: Informatica
+Ruolo: DevOps Engineer
+Azienda: Capgemini
+Località: Caselle Torinese
+
+DevOps Engineer - Capgemini (Caselle Torinese, Da remoto). Contratto: Apprendistato; profilo: Stage/Tirocinio. Attività principali: progettazione di architetture backend e API per piattaforme digitali; gestione infrastruttura, deployment e automazione CI/CD. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Azure/AWS, Terraform, CI/CD, buona capacità di lavoro in team e Monitoring. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

@@ -1,0 +1,7 @@
+ID: 659
+Area: Elettronica
+Ruolo: Controls Engineer
+Azienda: Kineton
+Località: Pesaro
+
+Controls Engineer - Kineton (Pesaro, Ibrido). Contratto: Tempo determinato; profilo: Middle. Attività principali: progettazione e validazione di schede elettroniche e apparati embedded; integrazione sensori, bus di comunicazione e sistemi di controllo. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di railway/automotive, CAN bus, LIN, buona capacità di lavoro in team e diagnostica. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

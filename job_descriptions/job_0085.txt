@@ -1,0 +1,7 @@
+ID: 85
+Area: Informatica
+Ruolo: AI/ML Engineer
+Azienda: IBM
+Località: Bari
+
+AI/ML Engineer - IBM (Bari, Da remoto). Contratto: Tempo determinato; profilo: Middle. Attività principali: analisi dati, pipeline ETL e modelli predittivi; sviluppo firmware/embedded software per dispositivi connessi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di Java, Spring Boot, REST API, buona capacità di lavoro in team e Microservizi. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

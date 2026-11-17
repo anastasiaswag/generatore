@@ -1,0 +1,7 @@
+ID: 14
+Area: Informatica
+Ruolo: Firmware/Embedded Software Engineer
+Azienda: Umana S.p.A.
+Località: Piemonte
+
+Firmware/Embedded Software Engineer - Umana S.p.A. (Piemonte, In sede). Contratto: Apprendistato; profilo: Junior. Attività principali: sviluppo e manutenzione di applicazioni software in ambiente enterprise; sviluppo firmware/embedded software per dispositivi connessi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di PLC/SCADA, OPC-UA, Industrial IoT, buona capacità di lavoro in team e SQL. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

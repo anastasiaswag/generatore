@@ -1,0 +1,7 @@
+ID: 525
+Area: Elettronica
+Ruolo: Electrical/Electronic Engineer
+Azienda: Honeywell
+Località: Ancona
+
+Electrical/Electronic Engineer - Honeywell (Ancona, In sede). Contratto: Tempo indeterminato; profilo: Senior. Attività principali: test di laboratorio, debugging, misure e qualifiche EMC; integrazione sensori, bus di comunicazione e sistemi di controllo. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di LabVIEW, Matlab, Python, buona capacità di lavoro in team e test automation. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

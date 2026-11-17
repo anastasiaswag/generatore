@@ -1,0 +1,7 @@
+ID: 31
+Area: Informatica
+Ruolo: AI/ML Engineer
+Azienda: Aubay Italia
+Località: Modena
+
+AI/ML Engineer - Aubay Italia (Modena, Ibrido). Contratto: Tempo indeterminato; profilo: Neolaureato. Attività principali: testing, quality assurance e documentazione tecnica; sviluppo firmware/embedded software per dispositivi connessi. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di C/C++, Linux Embedded, Git, buona capacità di lavoro in team e Yocto. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

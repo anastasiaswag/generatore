@@ -1,0 +1,7 @@
+ID: 356
+Area: Elettronica
+Ruolo: Field Application Engineer
+Azienda: Openjobmetis
+Località: Lombardia
+
+Field Application Engineer - Openjobmetis (Lombardia, In sede). Contratto: Tempo determinato; profilo: Neolaureato. Attività principali: sviluppo firmware per microcontrollori e sistemi real-time; test di laboratorio, debugging, misure e qualifiche EMC. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di power electronics, inverter, convertitori, buona capacità di lavoro in team e EMC. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

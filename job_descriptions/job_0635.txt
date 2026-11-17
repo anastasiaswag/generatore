@@ -1,0 +1,7 @@
+ID: 635
+Area: Elettronica
+Ruolo: Embedded Hardware Engineer
+Azienda: Capgemini Engineering
+Località: Bari
+
+Embedded Hardware Engineer - Capgemini Engineering (Bari, Ibrido). Contratto: Apprendistato; profilo: Middle. Attività principali: supporto a progetti automotive, railway, industrial o space/defence; progettazione e validazione di schede elettroniche e apparati embedded. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di power electronics, inverter, convertitori, buona capacità di lavoro in team e EMC. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

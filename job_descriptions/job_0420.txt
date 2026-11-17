@@ -1,0 +1,7 @@
+ID: 420
+Area: Elettronica
+Ruolo: Electronic Engineer
+Azienda: Umana S.p.A.
+Località: Trieste
+
+Electronic Engineer - Umana S.p.A. (Trieste, In sede). Contratto: Tempo indeterminato; profilo: Junior. Attività principali: integrazione sensori, bus di comunicazione e sistemi di controllo; sviluppo firmware per microcontrollori e sistemi real-time. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di telecomunicazioni, 5G/RF, misure, buona capacità di lavoro in team e documentazione. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

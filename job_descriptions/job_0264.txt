@@ -1,0 +1,7 @@
+ID: 264
+Area: Informatica
+Ruolo: Cybersecurity Engineer
+Azienda: IBM
+Località: Caselle Torinese
+
+Cybersecurity Engineer - IBM (Caselle Torinese, Da remoto). Contratto: Tempo indeterminato; profilo: Junior. Attività principali: analisi dati, pipeline ETL e modelli predittivi; testing, quality assurance e documentazione tecnica. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di C/C++, Linux Embedded, Git, buona capacità di lavoro in team e Yocto. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

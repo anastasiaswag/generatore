@@ -1,0 +1,7 @@
+ID: 587
+Area: Elettronica
+Ruolo: Controls Engineer
+Azienda: Capgemini Engineering
+Località: Verona
+
+Controls Engineer - Capgemini Engineering (Verona, In sede). Contratto: Tempo determinato; profilo: Junior. Attività principali: integrazione sensori, bus di comunicazione e sistemi di controllo; sviluppo firmware per microcontrollori e sistemi real-time. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di industrial automation, PLC, HMI, buona capacità di lavoro in team e quadri elettrici. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

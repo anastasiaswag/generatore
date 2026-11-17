@@ -1,0 +1,7 @@
+ID: 524
+Area: Elettronica
+Ruolo: Telecommunication Engineer
+Azienda: Move Silicon
+Località: Genova
+
+Telecommunication Engineer - Move Silicon (Genova, In sede). Contratto: Tempo indeterminato; profilo: Senior. Attività principali: test di laboratorio, debugging, misure e qualifiche EMC; sviluppo firmware per microcontrollori e sistemi real-time. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di telecomunicazioni, 5G/RF, misure, buona capacità di lavoro in team e documentazione. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

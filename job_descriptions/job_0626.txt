@@ -1,0 +1,7 @@
+ID: 626
+Area: Elettronica
+Ruolo: Lead Test & Validation Engineer
+Azienda: SEWS-CABIND
+Località: Napoli
+
+Lead Test & Validation Engineer - SEWS-CABIND (Napoli, In sede). Contratto: Apprendistato; profilo: Junior. Attività principali: sviluppo firmware per microcontrollori e sistemi real-time; progettazione e validazione di schede elettroniche e apparati embedded. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di FMEDA, DFA, safety analysis, buona capacità di lavoro in team e validazione. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

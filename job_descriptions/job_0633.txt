@@ -1,0 +1,7 @@
+ID: 633
+Area: Elettronica
+Ruolo: Ingegnere Elettronico Junior
+Azienda: Capgemini Engineering
+Località: Lazio
+
+Ingegnere Elettronico Junior - Capgemini Engineering (Lazio, In sede). Contratto: Tempo indeterminato; profilo: Senior. Attività principali: sviluppo firmware per microcontrollori e sistemi real-time; test di laboratorio, debugging, misure e qualifiche EMC. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di LabVIEW, Matlab, Python, buona capacità di lavoro in team e test automation. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

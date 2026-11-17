@@ -1,0 +1,7 @@
+ID: 631
+Area: Elettronica
+Ruolo: Electronic Engineer
+Azienda: Move Silicon
+Località: Caselle Torinese
+
+Electronic Engineer - Move Silicon (Caselle Torinese, Ibrido). Contratto: Tempo indeterminato; profilo: Junior. Attività principali: redazione documentazione tecnica, specifiche e report di validazione; sviluppo firmware per microcontrollori e sistemi real-time. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di industrial automation, PLC, HMI, buona capacità di lavoro in team e quadri elettrici. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.

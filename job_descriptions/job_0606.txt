@@ -1,0 +1,7 @@
+ID: 606
+Area: Elettronica
+Ruolo: Automation Engineer
+Azienda: Teoresi MedTech
+Località: Torino
+
+Automation Engineer - Teoresi MedTech (Torino, In sede). Contratto: Tempo indeterminato; profilo: Senior. Attività principali: supporto a progetti automotive, railway, industrial o space/defence; sviluppo firmware per microcontrollori e sistemi real-time. Requisiti indicati/attesi: laurea o diploma tecnico coerente, conoscenza di railway/automotive, CAN bus, LIN, buona capacità di lavoro in team e diagnostica. Testo esportato in forma sintetica per screening candidature; verificare sul portale fonte prima di candidarsi.
